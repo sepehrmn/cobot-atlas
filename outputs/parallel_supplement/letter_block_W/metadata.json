@@ -1,0 +1,17 @@
+{
+  "mesh_id": "letter_block_W",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.489151",
+  "prompt": "Wooden letter block W, alphabet toy block, product photography, white background",
+  "files": {
+    "glb": [
+      "letter_block_W.glb"
+    ],
+    "reference_image": [
+      "letter_block_W_reference.png"
+    ]
+  },
+  "status": "complete"
+}

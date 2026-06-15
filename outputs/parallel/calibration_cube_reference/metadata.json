@@ -1,0 +1,17 @@
+{
+  "mesh_id": "calibration_cube_reference",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.339991",
+  "prompt": "Reference cube with measurement markings, size calibration cube, product photography, white background",
+  "files": {
+    "glb": [
+      "calibration_cube_reference.glb"
+    ],
+    "reference_image": [
+      "calibration_cube_reference_reference.png"
+    ]
+  },
+  "status": "complete"
+}

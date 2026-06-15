@@ -1,0 +1,17 @@
+{
+  "mesh_id": "calibration_aruco_marker",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.385733",
+  "prompt": "ArUco marker square, black and white pattern for tracking, product photography, white background",
+  "files": {
+    "glb": [
+      "calibration_aruco_marker.glb"
+    ],
+    "reference_image": [
+      "calibration_aruco_marker_reference.png"
+    ]
+  },
+  "status": "complete"
+}

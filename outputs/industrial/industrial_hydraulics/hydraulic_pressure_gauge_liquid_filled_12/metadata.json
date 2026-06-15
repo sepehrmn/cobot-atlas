@@ -1,0 +1,8 @@
+{
+  "id": "hydraulic_pressure_gauge_liquid_filled_12",
+  "category": "industrial_hydraulics",
+  "prompt": "Heavy duty hydraulic part, pressure gauge liquid filled, variation 12, oily metal, yellow zinc plating, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T04:50:55.442205"
+}

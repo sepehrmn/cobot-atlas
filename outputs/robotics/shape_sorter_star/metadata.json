@@ -1,0 +1,18 @@
+{
+  "mesh_id": "shape_sorter_star",
+  "status": "complete",
+  "prompt": "Star shape for shape sorter, green star plastic piece, photorealistic, white background",
+  "enhanced_prompt": "Star shape for shape sorter, green star plastic piece, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "shape_sorter",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:18:51.406866",
+  "generation_time_seconds": 19.62136197090149,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "shape_sorter_star_reference.png",
+    "glb": "shape_sorter_star.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

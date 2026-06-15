@@ -1,0 +1,1 @@
+ChArUco calibration board, checkerboard with ArUco markers, photorealistic, white background

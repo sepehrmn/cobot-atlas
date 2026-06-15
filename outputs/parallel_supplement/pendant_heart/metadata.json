@@ -1,0 +1,17 @@
+{
+  "mesh_id": "pendant_heart",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.484776",
+  "prompt": "Heart pendant necklace, heart charm on chain, product photography, white background",
+  "files": {
+    "glb": [
+      "pendant_heart.glb"
+    ],
+    "reference_image": [
+      "pendant_heart_reference.png"
+    ]
+  },
+  "status": "complete"
+}

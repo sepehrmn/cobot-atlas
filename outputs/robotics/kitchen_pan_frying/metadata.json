@@ -1,0 +1,18 @@
+{
+  "mesh_id": "kitchen_pan_frying",
+  "status": "complete",
+  "prompt": "Black non-stick frying pan, skillet with handle, photorealistic, white background",
+  "enhanced_prompt": "kitchenware, clean design, Black non-stick frying pan, skillet with handle, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "kitchen",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:22:47.127881",
+  "generation_time_seconds": 17.417349338531494,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "kitchen_pan_frying_reference.png",
+    "glb": "kitchen_pan_frying.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

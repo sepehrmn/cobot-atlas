@@ -1,0 +1,8 @@
+{
+  "id": "sensor_thermocouple_probe_v2",
+  "category": "industrial_sensors",
+  "prompt": "Industrial automation sensor, thermocouple probe, variation 2, threaded body, cable tail, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T04:52:07.031535"
+}

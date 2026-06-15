@@ -1,0 +1,17 @@
+{
+  "mesh_id": "pattern_striped_cube",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.342958",
+  "prompt": "Cube with red and white stripes, striped pattern block, product photography, white background",
+  "files": {
+    "glb": [
+      "pattern_striped_cube.glb"
+    ],
+    "reference_image": [
+      "pattern_striped_cube_reference.png"
+    ]
+  },
+  "status": "complete"
+}

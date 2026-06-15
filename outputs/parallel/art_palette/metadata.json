@@ -1,0 +1,17 @@
+{
+  "mesh_id": "art_palette",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.402501",
+  "prompt": "Artist paint palette, wooden oval palette with thumb hole, product photography, white background",
+  "files": {
+    "glb": [
+      "art_palette.glb"
+    ],
+    "reference_image": [
+      "art_palette_reference.png"
+    ]
+  },
+  "status": "complete"
+}

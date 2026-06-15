@@ -1,0 +1,17 @@
+{
+  "mesh_id": "electronics_speaker",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.372436",
+  "prompt": "Portable bluetooth speaker, cylindrical black speaker, product photography, white background",
+  "files": {
+    "glb": [
+      "electronics_speaker.glb"
+    ],
+    "reference_image": [
+      "electronics_speaker_reference.png"
+    ]
+  },
+  "status": "complete"
+}

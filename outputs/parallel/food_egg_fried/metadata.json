@@ -1,0 +1,17 @@
+{
+  "mesh_id": "food_egg_fried",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.364557",
+  "prompt": "Fried egg sunny side up, realistic cooked egg, product photography, white background",
+  "files": {
+    "glb": [
+      "food_egg_fried.glb"
+    ],
+    "reference_image": [
+      "food_egg_fried_reference.png"
+    ]
+  },
+  "status": "complete"
+}

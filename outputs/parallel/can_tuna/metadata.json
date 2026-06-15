@@ -1,0 +1,17 @@
+{
+  "mesh_id": "can_tuna",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.355484",
+  "prompt": "Tuna fish can, short wide cylinder, metal with pull tab, product photography, white background",
+  "files": {
+    "glb": [
+      "can_tuna.glb"
+    ],
+    "reference_image": [
+      "can_tuna_reference.png"
+    ]
+  },
+  "status": "complete"
+}

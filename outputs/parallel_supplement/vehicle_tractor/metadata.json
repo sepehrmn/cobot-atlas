@@ -1,0 +1,17 @@
+{
+  "mesh_id": "vehicle_tractor",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.478820",
+  "prompt": "Toy tractor, green farm tractor, product photography, white background",
+  "files": {
+    "glb": [
+      "vehicle_tractor.glb"
+    ],
+    "reference_image": [
+      "vehicle_tractor_reference.png"
+    ]
+  },
+  "status": "complete"
+}

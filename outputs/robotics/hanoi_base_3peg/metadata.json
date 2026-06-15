@@ -1,0 +1,18 @@
+{
+  "mesh_id": "hanoi_base_3peg",
+  "status": "complete",
+  "prompt": "Wooden Tower of Hanoi puzzle base, rectangular wooden platform with 3 vertical wooden pegs/dowels standing upright, classic puzzle toy, natural wood finish, photorealistic product photography, pure white background, studio lighting",
+  "enhanced_prompt": "wooden toy, smooth finish, Wooden Tower of Hanoi puzzle base, rectangular wooden platform with 3 vertical wooden pegs/dowels standing upright, classic puzzle toy, natural wood finish, photorealistic product photography, pure white background, studio lighting, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "hanoi",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:08:29.693351",
+  "generation_time_seconds": 19.952741861343384,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "hanoi_base_3peg_reference.png",
+    "glb": "hanoi_base_3peg.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "lab_flask_erlenmeyer",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.323562",
+  "prompt": "Erlenmeyer flask, conical glass flask, product photography, white background",
+  "files": {
+    "glb": [
+      "lab_flask_erlenmeyer.glb"
+    ],
+    "reference_image": [
+      "lab_flask_erlenmeyer_reference.png"
+    ]
+  },
+  "status": "complete"
+}

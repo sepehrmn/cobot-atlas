@@ -1,0 +1,18 @@
+{
+  "mesh_id": "mobile_robot_optimus",
+  "status": "complete",
+  "prompt": "Tesla Optimus humanoid robot, bipedal humanoid robot, photorealistic, white background",
+  "enhanced_prompt": "industrial design, mechanical precision, Tesla Optimus humanoid robot, bipedal humanoid robot, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "mobile_robot",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:24:16.659189",
+  "generation_time_seconds": 19.420186281204224,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "mobile_robot_optimus_reference.png",
+    "glb": "mobile_robot_optimus.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

@@ -1,0 +1,18 @@
+{
+  "mesh_id": "hanoi_disk_xxl_purple",
+  "status": "complete",
+  "prompt": "Largest purple wooden disk for Tower of Hanoi, 7cm diameter with center hole, painted wood, photorealistic, white background",
+  "enhanced_prompt": "wooden toy, smooth finish, Largest purple wooden disk for Tower of Hanoi, 7cm diameter with center hole, painted wood, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "hanoi",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:13:30.443374",
+  "generation_time_seconds": 30.156054973602295,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "hanoi_disk_xxl_purple_reference.png",
+    "glb": "hanoi_disk_xxl_purple.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

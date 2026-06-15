@@ -1,0 +1,18 @@
+{
+  "mesh_id": "cabinet_tool",
+  "status": "complete",
+  "prompt": "Tool storage cabinet, metal cabinet with drawers, photorealistic, white background",
+  "enhanced_prompt": "Tool storage cabinet, metal cabinet with drawers, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "environment",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:25:23.835715",
+  "generation_time_seconds": 33.24272894859314,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "cabinet_tool_reference.png",
+    "glb": "cabinet_tool.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

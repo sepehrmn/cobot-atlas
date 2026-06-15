@@ -1,0 +1,17 @@
+{
+  "mesh_id": "electronics_clock",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.350038",
+  "prompt": "Round analog wall clock, white face with black numbers, product photography, white background",
+  "files": {
+    "glb": [
+      "electronics_clock.glb"
+    ],
+    "reference_image": [
+      "electronics_clock_reference.png"
+    ]
+  },
+  "status": "complete"
+}

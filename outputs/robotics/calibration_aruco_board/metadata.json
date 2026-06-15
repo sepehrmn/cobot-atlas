@@ -1,0 +1,18 @@
+{
+  "mesh_id": "calibration_aruco_board",
+  "status": "complete",
+  "prompt": "ArUco marker board, grid of ArUco markers for camera calibration, photorealistic, white background",
+  "enhanced_prompt": "ArUco marker board, grid of ArUco markers for camera calibration, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "calibration",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:25:42.104225",
+  "generation_time_seconds": 36.393914222717285,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "calibration_aruco_board_reference.png",
+    "glb": "calibration_aruco_board.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

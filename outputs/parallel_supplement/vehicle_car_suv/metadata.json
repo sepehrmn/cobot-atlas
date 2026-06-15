@@ -1,0 +1,17 @@
+{
+  "mesh_id": "vehicle_car_suv",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.446354",
+  "prompt": "Toy SUV, black off-road vehicle model, product photography, white background",
+  "files": {
+    "glb": [
+      "vehicle_car_suv.glb"
+    ],
+    "reference_image": [
+      "vehicle_car_suv_reference.png"
+    ]
+  },
+  "status": "complete"
+}

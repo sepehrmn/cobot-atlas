@@ -1,0 +1,17 @@
+{
+  "mesh_id": "balance_stacking_stones",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.374779",
+  "prompt": "Stacking balance stones, smooth pebbles for stacking, product photography, white background",
+  "files": {
+    "glb": [
+      "balance_stacking_stones.glb"
+    ],
+    "reference_image": [
+      "balance_stacking_stones_reference.png"
+    ]
+  },
+  "status": "complete"
+}

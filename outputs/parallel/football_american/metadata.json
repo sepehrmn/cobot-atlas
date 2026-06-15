@@ -1,0 +1,17 @@
+{
+  "mesh_id": "football_american",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.334679",
+  "prompt": "Brown American football, leather texture with white laces, product photography, white background",
+  "files": {
+    "glb": [
+      "football_american.glb"
+    ],
+    "reference_image": [
+      "football_american_reference.png"
+    ]
+  },
+  "status": "complete"
+}

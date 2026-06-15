@@ -1,0 +1,17 @@
+{
+  "mesh_id": "music_tuning_fork",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.383393",
+  "prompt": "Metal tuning fork, U-shaped fork, product photography, white background",
+  "files": {
+    "glb": [
+      "music_tuning_fork.glb"
+    ],
+    "reference_image": [
+      "music_tuning_fork_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,18 @@
+{
+  "mesh_id": "ycb_025_mug",
+  "status": "complete",
+  "prompt": "White ceramic mug, YCB benchmark object, coffee mug with handle, photorealistic, white background",
+  "enhanced_prompt": "YCB benchmark style, realistic object, White ceramic mug, YCB benchmark object, coffee mug with handle, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "ycb",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:31:21.454205",
+  "generation_time_seconds": 97.10053706169128,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "ycb_025_mug_reference.png",
+    "glb": "ycb_025_mug.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

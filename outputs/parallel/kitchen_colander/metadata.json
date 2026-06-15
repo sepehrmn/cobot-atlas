@@ -1,0 +1,17 @@
+{
+  "mesh_id": "kitchen_colander",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.406490",
+  "prompt": "Metal colander with handles, strainer bowl, product photography, white background",
+  "files": {
+    "glb": [
+      "kitchen_colander.glb"
+    ],
+    "reference_image": [
+      "kitchen_colander_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "pyramid_blue_8cm",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.373187",
+  "prompt": "Blue plastic pyramid, 8cm square base, 8cm tall, sharp edges, product photography, white background",
+  "files": {
+    "glb": [
+      "pyramid_blue_8cm.glb"
+    ],
+    "reference_image": [
+      "pyramid_blue_8cm_reference.png"
+    ]
+  },
+  "status": "complete"
+}

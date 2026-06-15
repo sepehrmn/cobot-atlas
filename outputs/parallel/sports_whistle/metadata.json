@@ -1,0 +1,17 @@
+{
+  "mesh_id": "sports_whistle",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.335460",
+  "prompt": "Silver metal whistle with cord, referee whistle, product photography, white background",
+  "files": {
+    "glb": [
+      "sports_whistle.glb"
+    ],
+    "reference_image": [
+      "sports_whistle_reference.png"
+    ]
+  },
+  "status": "complete"
+}

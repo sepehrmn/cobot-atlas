@@ -1,0 +1,18 @@
+{
+  "mesh_id": "lab_table_esd",
+  "status": "complete",
+  "prompt": "ESD safe workbench, electronics lab table with grounding, photorealistic, white background",
+  "enhanced_prompt": "ESD safe workbench, electronics lab table with grounding, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "environment",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:25:02.241350",
+  "generation_time_seconds": 28.5698139667511,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "lab_table_esd_reference.png",
+    "glb": "lab_table_esd.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

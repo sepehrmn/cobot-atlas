@@ -1,0 +1,8 @@
+{
+  "id": "elec_passive_resistor_axial_brown_v0",
+  "category": "electronics_passive",
+  "prompt": "Electronic component resistor axial, brown, variation 1, macro shot, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T04:51:13.748664"
+}

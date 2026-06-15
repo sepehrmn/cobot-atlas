@@ -1,0 +1,17 @@
+{
+  "mesh_id": "figure_worker_chef",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.435666",
+  "prompt": "Chef figurine, person in chef hat, product photography, white background",
+  "files": {
+    "glb": [
+      "figure_worker_chef.glb"
+    ],
+    "reference_image": [
+      "figure_worker_chef_reference.png"
+    ]
+  },
+  "status": "complete"
+}

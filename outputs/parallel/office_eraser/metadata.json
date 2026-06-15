@@ -1,0 +1,17 @@
+{
+  "mesh_id": "office_eraser",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.406299",
+  "prompt": "Pink rubber eraser, rectangular block, product photography, white background",
+  "files": {
+    "glb": [
+      "office_eraser.glb"
+    ],
+    "reference_image": [
+      "office_eraser_reference.png"
+    ]
+  },
+  "status": "complete"
+}

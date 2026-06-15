@@ -1,0 +1,17 @@
+{
+  "mesh_id": "ycb_tomato_soup",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.485735",
+  "prompt": "Tomato soup can, Campbell's style soup can, product photography, white background",
+  "files": {
+    "glb": [
+      "ycb_tomato_soup.glb"
+    ],
+    "reference_image": [
+      "ycb_tomato_soup_reference.png"
+    ]
+  },
+  "status": "complete"
+}

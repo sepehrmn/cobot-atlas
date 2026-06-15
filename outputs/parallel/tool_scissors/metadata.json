@@ -1,0 +1,17 @@
+{
+  "mesh_id": "tool_scissors",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.398520",
+  "prompt": "Metal scissors with black handles, office scissors, product photography, white background",
+  "files": {
+    "glb": [
+      "tool_scissors.glb"
+    ],
+    "reference_image": [
+      "tool_scissors_reference.png"
+    ]
+  },
+  "status": "complete"
+}

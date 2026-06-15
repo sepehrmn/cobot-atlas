@@ -1,0 +1,17 @@
+{
+  "mesh_id": "sorting_bin_blue",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.393899",
+  "prompt": "Blue plastic sorting bin, small storage container, product photography, white background",
+  "files": {
+    "glb": [
+      "sorting_bin_blue.glb"
+    ],
+    "reference_image": [
+      "sorting_bin_blue_reference.png"
+    ]
+  },
+  "status": "complete"
+}

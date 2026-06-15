@@ -1,0 +1,17 @@
+{
+  "mesh_id": "bottle_soda_plastic",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.408715",
+  "prompt": "Clear plastic soda bottle, 2 liter size with red cap, product photography, white background",
+  "files": {
+    "glb": [
+      "bottle_soda_plastic.glb"
+    ],
+    "reference_image": [
+      "bottle_soda_plastic_reference.png"
+    ]
+  },
+  "status": "complete"
+}

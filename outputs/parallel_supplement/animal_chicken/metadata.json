@@ -1,0 +1,17 @@
+{
+  "mesh_id": "animal_chicken",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.483865",
+  "prompt": "Toy chicken figurine, plastic hen, product photography, white background",
+  "files": {
+    "glb": [
+      "animal_chicken.glb"
+    ],
+    "reference_image": [
+      "animal_chicken_reference.png"
+    ]
+  },
+  "status": "complete"
+}

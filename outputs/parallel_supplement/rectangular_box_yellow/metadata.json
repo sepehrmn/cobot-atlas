@@ -1,0 +1,17 @@
+{
+  "mesh_id": "rectangular_box_yellow",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.443721",
+  "prompt": "Yellow rectangular box, 10x6x4cm, matte plastic, product photography, white background",
+  "files": {
+    "glb": [
+      "rectangular_box_yellow.glb"
+    ],
+    "reference_image": [
+      "rectangular_box_yellow_reference.png"
+    ]
+  },
+  "status": "complete"
+}

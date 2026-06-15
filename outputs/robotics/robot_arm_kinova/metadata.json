@@ -1,0 +1,18 @@
+{
+  "mesh_id": "robot_arm_kinova",
+  "status": "complete",
+  "prompt": "Kinova Gen3 robot arm, lightweight white collaborative robot arm, smooth curved design, photorealistic, white background",
+  "enhanced_prompt": "industrial design, mechanical precision, Kinova Gen3 robot arm, lightweight white collaborative robot arm, smooth curved design, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "robot_arm",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:15:07.806521",
+  "generation_time_seconds": 19.510946035385132,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "robot_arm_kinova_reference.png",
+    "glb": "robot_arm_kinova.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

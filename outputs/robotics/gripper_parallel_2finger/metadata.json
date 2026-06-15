@@ -1,0 +1,18 @@
+{
+  "mesh_id": "gripper_parallel_2finger",
+  "status": "complete",
+  "prompt": "Parallel jaw gripper, two-finger robot gripper, industrial end effector with parallel fingers, metal and black, photorealistic, white background",
+  "enhanced_prompt": "robotic end effector, mechanical precision, Parallel jaw gripper, two-finger robot gripper, industrial end effector with parallel fingers, metal and black, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "gripper",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:15:14.139009",
+  "generation_time_seconds": 19.224377870559692,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "gripper_parallel_2finger_reference.png",
+    "glb": "gripper_parallel_2finger.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "rectangular_box_wood",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.429732",
+  "prompt": "Wooden rectangular box, 10x6x4cm, natural wood grain, product photography, white background",
+  "files": {
+    "glb": [
+      "rectangular_box_wood.glb"
+    ],
+    "reference_image": [
+      "rectangular_box_wood_reference.png"
+    ]
+  },
+  "status": "complete"
+}

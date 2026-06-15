@@ -1,0 +1,17 @@
+{
+  "mesh_id": "ycb_peach",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.472899",
+  "prompt": "Peach fruit, realistic YCB dataset style peach, product photography, white background",
+  "files": {
+    "glb": [
+      "ycb_peach.glb"
+    ],
+    "reference_image": [
+      "ycb_peach_reference.png"
+    ]
+  },
+  "status": "complete"
+}

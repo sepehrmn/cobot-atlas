@@ -1,0 +1,17 @@
+{
+  "mesh_id": "food_tomato",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.384808",
+  "prompt": "Red tomato, ripe whole tomato, realistic, product photography, white background",
+  "files": {
+    "glb": [
+      "food_tomato.glb"
+    ],
+    "reference_image": [
+      "food_tomato_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "bathroom_soap_dispenser",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.411294",
+  "prompt": "Liquid soap dispenser with pump, plastic bottle, product photography, white background",
+  "files": {
+    "glb": [
+      "bathroom_soap_dispenser.glb"
+    ],
+    "reference_image": [
+      "bathroom_soap_dispenser_reference.png"
+    ]
+  },
+  "status": "complete"
+}

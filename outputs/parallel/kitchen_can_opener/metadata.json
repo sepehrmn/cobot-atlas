@@ -1,0 +1,17 @@
+{
+  "mesh_id": "kitchen_can_opener",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.375261",
+  "prompt": "Manual can opener, handheld can opener tool, product photography, white background",
+  "files": {
+    "glb": [
+      "kitchen_can_opener.glb"
+    ],
+    "reference_image": [
+      "kitchen_can_opener_reference.png"
+    ]
+  },
+  "status": "complete"
+}

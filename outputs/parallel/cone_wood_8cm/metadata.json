@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cone_wood_8cm",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.336596",
+  "prompt": "Wooden cone, 6cm base, 8cm tall, natural wood, product photography, white background",
+  "files": {
+    "glb": [
+      "cone_wood_8cm.glb"
+    ],
+    "reference_image": [
+      "cone_wood_8cm_reference.png"
+    ]
+  },
+  "status": "complete"
+}

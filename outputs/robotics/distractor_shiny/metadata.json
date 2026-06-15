@@ -1,0 +1,18 @@
+{
+  "mesh_id": "distractor_shiny",
+  "status": "complete",
+  "prompt": "Shiny metallic object, highly reflective chrome sphere, photorealistic, white background",
+  "enhanced_prompt": "Shiny metallic object, highly reflective chrome sphere, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "perturbation",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:32:31.020093",
+  "generation_time_seconds": 55.99353814125061,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "distractor_shiny_reference.png",
+    "glb": "distractor_shiny.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

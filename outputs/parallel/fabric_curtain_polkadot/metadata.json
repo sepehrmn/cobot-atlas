@@ -1,0 +1,17 @@
+{
+  "mesh_id": "fabric_curtain_polkadot",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.344925",
+  "prompt": "White curtain with red polka dots, spotted fabric panel, product photography, white background",
+  "files": {
+    "glb": [
+      "fabric_curtain_polkadot.glb"
+    ],
+    "reference_image": [
+      "fabric_curtain_polkadot_reference.png"
+    ]
+  },
+  "status": "complete"
+}

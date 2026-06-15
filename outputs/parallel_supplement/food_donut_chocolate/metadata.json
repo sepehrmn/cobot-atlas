@@ -1,0 +1,17 @@
+{
+  "mesh_id": "food_donut_chocolate",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.471247",
+  "prompt": "Chocolate frosted donut with sprinkles, product photography, white background",
+  "files": {
+    "glb": [
+      "food_donut_chocolate.glb"
+    ],
+    "reference_image": [
+      "food_donut_chocolate_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cube_red_3cm",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.349281",
+  "prompt": "Small red plastic cube, 3cm sides, toy block style, product photography, white background",
+  "files": {
+    "glb": [
+      "cube_red_3cm.glb"
+    ],
+    "reference_image": [
+      "cube_red_3cm_reference.png"
+    ]
+  },
+  "status": "complete"
+}

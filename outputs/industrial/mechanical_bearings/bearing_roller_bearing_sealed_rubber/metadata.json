@@ -1,0 +1,8 @@
+{
+  "id": "bearing_roller_bearing_sealed_rubber",
+  "category": "mechanical_bearings",
+  "prompt": "Industrial roller bearing, sealed rubber, shiny metal, grease, detailed, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T04:50:47.800532"
+}

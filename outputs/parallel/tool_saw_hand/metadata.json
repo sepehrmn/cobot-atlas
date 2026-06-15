@@ -1,0 +1,17 @@
+{
+  "mesh_id": "tool_saw_hand",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.336096",
+  "prompt": "Hand saw with wooden handle, metal blade with teeth, product photography, white background",
+  "files": {
+    "glb": [
+      "tool_saw_hand.glb"
+    ],
+    "reference_image": [
+      "tool_saw_hand_reference.png"
+    ]
+  },
+  "status": "complete"
+}

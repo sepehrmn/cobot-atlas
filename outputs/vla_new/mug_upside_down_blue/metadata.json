@@ -1,0 +1,18 @@
+{
+  "mesh_id": "mug_upside_down_blue",
+  "status": "complete",
+  "prompt": "Blue ceramic mug positioned upside down, resting on its rim, handle visible, photorealistic, white background",
+  "enhanced_prompt": "Blue ceramic mug positioned upside down, resting on its rim, handle visible, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "pose_variation",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:43:01.417149",
+  "generation_time_seconds": 83.49792408943176,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "mug_upside_down_blue_reference.png",
+    "glb": "mug_upside_down_blue.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

@@ -1,0 +1,18 @@
+{
+  "mesh_id": "ycb_017_orange",
+  "status": "complete",
+  "prompt": "Orange citrus, YCB benchmark object, fresh orange, photorealistic, white background",
+  "enhanced_prompt": "YCB benchmark style, realistic object, Orange citrus, YCB benchmark object, fresh orange, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "ycb",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:30:18.165074",
+  "generation_time_seconds": 87.17063093185425,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "ycb_017_orange_reference.png",
+    "glb": "ycb_017_orange.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

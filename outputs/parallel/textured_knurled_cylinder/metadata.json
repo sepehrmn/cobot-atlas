@@ -1,0 +1,17 @@
+{
+  "mesh_id": "textured_knurled_cylinder",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.330796",
+  "prompt": "Knurled metal cylinder, diamond pattern grip texture, product photography, white background",
+  "files": {
+    "glb": [
+      "textured_knurled_cylinder.glb"
+    ],
+    "reference_image": [
+      "textured_knurled_cylinder_reference.png"
+    ]
+  },
+  "status": "complete"
+}

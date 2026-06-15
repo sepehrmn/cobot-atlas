@@ -1,0 +1,18 @@
+{
+  "mesh_id": "ycb_015_peach",
+  "status": "complete",
+  "prompt": "Peach fruit, YCB benchmark object, fresh peach, photorealistic, white background",
+  "enhanced_prompt": "YCB benchmark style, realistic object, Peach fruit, YCB benchmark object, fresh peach, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "ycb",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:29:54.542250",
+  "generation_time_seconds": 67.35311222076416,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "ycb_015_peach_reference.png",
+    "glb": "ycb_015_peach.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

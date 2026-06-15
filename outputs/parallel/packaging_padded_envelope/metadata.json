@@ -1,0 +1,17 @@
+{
+  "mesh_id": "packaging_padded_envelope",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.385372",
+  "prompt": "Padded mailing envelope, bubble mailer, product photography, white background",
+  "files": {
+    "glb": [
+      "packaging_padded_envelope.glb"
+    ],
+    "reference_image": [
+      "packaging_padded_envelope_reference.png"
+    ]
+  },
+  "status": "complete"
+}

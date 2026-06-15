@@ -1,0 +1,17 @@
+{
+  "mesh_id": "ycb_tuna_fish",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.457397",
+  "prompt": "Tuna fish can, flat round tin, product photography, white background",
+  "files": {
+    "glb": [
+      "ycb_tuna_fish.glb"
+    ],
+    "reference_image": [
+      "ycb_tuna_fish_reference.png"
+    ]
+  },
+  "status": "complete"
+}

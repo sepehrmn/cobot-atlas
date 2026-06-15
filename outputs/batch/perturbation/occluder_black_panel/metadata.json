@@ -1,0 +1,8 @@
+{
+  "id": "occluder_black_panel",
+  "category": "perturbation",
+  "prompt": "Black flat occlusion panel, rectangular matte black board, photorealistic, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T02:40:36.022593"
+}

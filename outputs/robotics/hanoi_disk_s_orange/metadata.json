@@ -1,0 +1,18 @@
+{
+  "mesh_id": "hanoi_disk_s_orange",
+  "status": "complete",
+  "prompt": "Small orange wooden disk for Tower of Hanoi, 3cm diameter with center hole, painted wood disk, photorealistic, white background",
+  "enhanced_prompt": "wooden toy, smooth finish, Small orange wooden disk for Tower of Hanoi, 3cm diameter with center hole, painted wood disk, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "hanoi",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:14:04.481400",
+  "generation_time_seconds": 64.1943941116333,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "hanoi_disk_s_orange_reference.png",
+    "glb": "hanoi_disk_s_orange.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

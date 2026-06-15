@@ -1,0 +1,17 @@
+{
+  "mesh_id": "food_apple_green",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.365819",
+  "prompt": "Green Granny Smith apple, realistic fruit, product photography, white background",
+  "files": {
+    "glb": [
+      "food_apple_green.glb"
+    ],
+    "reference_image": [
+      "food_apple_green_reference.png"
+    ]
+  },
+  "status": "complete"
+}

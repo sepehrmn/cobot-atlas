@@ -1,0 +1,17 @@
+{
+  "mesh_id": "sports_yoga_mat",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.416434",
+  "prompt": "Rolled yoga mat, purple exercise mat, product photography, white background",
+  "files": {
+    "glb": [
+      "sports_yoga_mat.glb"
+    ],
+    "reference_image": [
+      "sports_yoga_mat_reference.png"
+    ]
+  },
+  "status": "complete"
+}

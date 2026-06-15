@@ -1,0 +1,17 @@
+{
+  "mesh_id": "garden_pot_terracotta",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.381049",
+  "prompt": "Terracotta plant pot, clay flower pot, product photography, white background",
+  "files": {
+    "glb": [
+      "garden_pot_terracotta.glb"
+    ],
+    "reference_image": [
+      "garden_pot_terracotta_reference.png"
+    ]
+  },
+  "status": "complete"
+}

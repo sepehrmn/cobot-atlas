@@ -1,0 +1,8 @@
+{
+  "id": "pneumatic_solenoid_valve_5_2_9",
+  "category": "industrial_pneumatics",
+  "prompt": "Industrial pneumatic component, solenoid valve 5 2, variation 9, metal and blue plastic, studio lighting, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T04:51:38.225372"
+}

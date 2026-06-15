@@ -1,0 +1,17 @@
+{
+  "mesh_id": "magnetic_fishing_toy",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.321212",
+  "prompt": "Magnetic fishing rod toy with fish, children's fishing game, product photography, white background",
+  "files": {
+    "glb": [
+      "magnetic_fishing_toy.glb"
+    ],
+    "reference_image": [
+      "magnetic_fishing_toy_reference.png"
+    ]
+  },
+  "status": "complete"
+}

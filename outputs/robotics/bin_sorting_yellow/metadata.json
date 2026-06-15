@@ -1,0 +1,18 @@
+{
+  "mesh_id": "bin_sorting_yellow",
+  "status": "complete",
+  "prompt": "Yellow plastic sorting bin, small container, photorealistic, white background",
+  "enhanced_prompt": "Yellow plastic sorting bin, small container, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "sorting",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:20:29.178410",
+  "generation_time_seconds": 15.960638999938965,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "bin_sorting_yellow_reference.png",
+    "glb": "bin_sorting_yellow.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

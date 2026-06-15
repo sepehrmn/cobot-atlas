@@ -1,0 +1,18 @@
+{
+  "mesh_id": "bin_sorting_green",
+  "status": "complete",
+  "prompt": "Green plastic sorting bin, small container, photorealistic, white background",
+  "enhanced_prompt": "Green plastic sorting bin, small container, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "sorting",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:20:30.421053",
+  "generation_time_seconds": 26.027830839157104,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "bin_sorting_green_reference.png",
+    "glb": "bin_sorting_green.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

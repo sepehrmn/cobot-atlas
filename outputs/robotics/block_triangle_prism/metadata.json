@@ -1,0 +1,18 @@
+{
+  "mesh_id": "block_triangle_prism",
+  "status": "complete",
+  "prompt": "Wooden triangular prism block, roof shaped block, natural wood, photorealistic, white background",
+  "enhanced_prompt": "Wooden triangular prism block, roof shaped block, natural wood, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "block_stacking",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:20:17.885879",
+  "generation_time_seconds": 23.067134857177734,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "block_triangle_prism_reference.png",
+    "glb": "block_triangle_prism.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

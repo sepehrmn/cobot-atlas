@@ -1,0 +1,17 @@
+{
+  "mesh_id": "ycb_gelatin",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.433492",
+  "prompt": "Gelatin box, Jello box packaging, product photography, white background",
+  "files": {
+    "glb": [
+      "ycb_gelatin.glb"
+    ],
+    "reference_image": [
+      "ycb_gelatin_reference.png"
+    ]
+  },
+  "status": "complete"
+}

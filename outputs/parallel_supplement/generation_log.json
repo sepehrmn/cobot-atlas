@@ -1,0 +1,2263 @@
+{
+  "timestamp": "2026-01-06T22:58:11.047583",
+  "total": 322,
+  "completed": 322,
+  "failed": 0,
+  "elapsed_seconds": 1240.5090909004211,
+  "results": {
+    "cube_maroon_5cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cube_maroon_5cm/cube_maroon_5cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cube_maroon_5cm/cube_maroon_5cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cube_olive_5cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cube_olive_5cm/cube_olive_5cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cube_olive_5cm/cube_olive_5cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cube_navy_5cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cube_navy_5cm/cube_navy_5cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cube_navy_5cm/cube_navy_5cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cube_cyan_5cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cube_cyan_5cm/cube_cyan_5cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cube_cyan_5cm/cube_cyan_5cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cube_lime_5cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cube_lime_5cm/cube_lime_5cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cube_lime_5cm/cube_lime_5cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cube_coral_5cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cube_coral_5cm/cube_coral_5cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cube_coral_5cm/cube_coral_5cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cube_teal_5cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cube_teal_5cm/cube_teal_5cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cube_teal_5cm/cube_teal_5cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cube_lavender_5cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cube_lavender_5cm/cube_lavender_5cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cube_lavender_5cm/cube_lavender_5cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cube_magenta_5cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cube_magenta_5cm/cube_magenta_5cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cube_magenta_5cm/cube_magenta_5cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cube_mint_5cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cube_mint_5cm/cube_mint_5cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cube_mint_5cm/cube_mint_5cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cube_peach_5cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cube_peach_5cm/cube_peach_5cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cube_peach_5cm/cube_peach_5cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cube_gold_5cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cube_gold_5cm/cube_gold_5cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cube_gold_5cm/cube_gold_5cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cube_turquoise_5cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cube_turquoise_5cm/cube_turquoise_5cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cube_turquoise_5cm/cube_turquoise_5cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cube_salmon_5cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cube_salmon_5cm/cube_salmon_5cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cube_salmon_5cm/cube_salmon_5cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cube_silver_5cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cube_silver_5cm/cube_silver_5cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cube_silver_5cm/cube_silver_5cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cube_copper_5cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cube_copper_5cm/cube_copper_5cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cube_copper_5cm/cube_copper_5cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cube_bronze_5cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cube_bronze_5cm/cube_bronze_5cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cube_bronze_5cm/cube_bronze_5cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "sphere_purple_4cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/sphere_purple_4cm/sphere_purple_4cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/sphere_purple_4cm/sphere_purple_4cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "sphere_cyan_4cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/sphere_cyan_4cm/sphere_cyan_4cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/sphere_cyan_4cm/sphere_cyan_4cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "sphere_pink_4cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/sphere_pink_4cm/sphere_pink_4cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/sphere_pink_4cm/sphere_pink_4cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "sphere_gold_4cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/sphere_gold_4cm/sphere_gold_4cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/sphere_gold_4cm/sphere_gold_4cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "sphere_gray_4cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/sphere_gray_4cm/sphere_gray_4cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/sphere_gray_4cm/sphere_gray_4cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "sphere_magenta_4cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/sphere_magenta_4cm/sphere_magenta_4cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/sphere_magenta_4cm/sphere_magenta_4cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "sphere_silver_4cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/sphere_silver_4cm/sphere_silver_4cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/sphere_silver_4cm/sphere_silver_4cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "sphere_black_4cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/sphere_black_4cm/sphere_black_4cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/sphere_black_4cm/sphere_black_4cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "sphere_bowling": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/sphere_bowling/sphere_bowling_reference.png",
+      "mesh_path": "./output_parallel_supplement/sphere_bowling/sphere_bowling.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "sphere_disco_ball": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/sphere_disco_ball/sphere_disco_ball_reference.png",
+      "mesh_path": "./output_parallel_supplement/sphere_disco_ball/sphere_disco_ball.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "sphere_crystal_ball": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/sphere_crystal_ball/sphere_crystal_ball_reference.png",
+      "mesh_path": "./output_parallel_supplement/sphere_crystal_ball/sphere_crystal_ball.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "sphere_beach_ball": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/sphere_beach_ball/sphere_beach_ball_reference.png",
+      "mesh_path": "./output_parallel_supplement/sphere_beach_ball/sphere_beach_ball.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "sphere_earth_globe": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/sphere_earth_globe/sphere_earth_globe_reference.png",
+      "mesh_path": "./output_parallel_supplement/sphere_earth_globe/sphere_earth_globe.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "sphere_yarn_ball": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/sphere_yarn_ball/sphere_yarn_ball_reference.png",
+      "mesh_path": "./output_parallel_supplement/sphere_yarn_ball/sphere_yarn_ball.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cylinder_pink_8cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cylinder_pink_8cm/cylinder_pink_8cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cylinder_pink_8cm/cylinder_pink_8cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cylinder_purple_8cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cylinder_purple_8cm/cylinder_purple_8cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cylinder_purple_8cm/cylinder_purple_8cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cylinder_orange_8cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cylinder_orange_8cm/cylinder_orange_8cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cylinder_orange_8cm/cylinder_orange_8cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cylinder_gray_8cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cylinder_gray_8cm/cylinder_gray_8cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cylinder_gray_8cm/cylinder_gray_8cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cylinder_candle_red": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cylinder_candle_red/cylinder_candle_red_reference.png",
+      "mesh_path": "./output_parallel_supplement/cylinder_candle_red/cylinder_candle_red.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cylinder_black_8cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cylinder_black_8cm/cylinder_black_8cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cylinder_black_8cm/cylinder_black_8cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cylinder_glass_8cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cylinder_glass_8cm/cylinder_glass_8cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cylinder_glass_8cm/cylinder_glass_8cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cylinder_white_8cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cylinder_white_8cm/cylinder_white_8cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cylinder_white_8cm/cylinder_white_8cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cylinder_cork": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cylinder_cork/cylinder_cork_reference.png",
+      "mesh_path": "./output_parallel_supplement/cylinder_cork/cylinder_cork.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cylinder_battery_d": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cylinder_battery_d/cylinder_battery_d_reference.png",
+      "mesh_path": "./output_parallel_supplement/cylinder_battery_d/cylinder_battery_d.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cone_green_8cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cone_green_8cm/cone_green_8cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cone_green_8cm/cone_green_8cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cone_yellow_8cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cone_yellow_8cm/cone_yellow_8cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cone_yellow_8cm/cone_yellow_8cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cone_purple_8cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cone_purple_8cm/cone_purple_8cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cone_purple_8cm/cone_purple_8cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cone_white_8cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cone_white_8cm/cone_white_8cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cone_white_8cm/cone_white_8cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cone_black_8cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cone_black_8cm/cone_black_8cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/cone_black_8cm/cone_black_8cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cone_megaphone": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cone_megaphone/cone_megaphone_reference.png",
+      "mesh_path": "./output_parallel_supplement/cone_megaphone/cone_megaphone.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cone_funnel": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cone_funnel/cone_funnel_reference.png",
+      "mesh_path": "./output_parallel_supplement/cone_funnel/cone_funnel.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cone_volcano": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cone_volcano/cone_volcano_reference.png",
+      "mesh_path": "./output_parallel_supplement/cone_volcano/cone_volcano.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cone_christmas_tree": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cone_christmas_tree/cone_christmas_tree_reference.png",
+      "mesh_path": "./output_parallel_supplement/cone_christmas_tree/cone_christmas_tree.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cone_wizard_hat": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cone_wizard_hat/cone_wizard_hat_reference.png",
+      "mesh_path": "./output_parallel_supplement/cone_wizard_hat/cone_wizard_hat.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "torus_green_8cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/torus_green_8cm/torus_green_8cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/torus_green_8cm/torus_green_8cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "torus_orange_8cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/torus_orange_8cm/torus_orange_8cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/torus_orange_8cm/torus_orange_8cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "torus_purple_8cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/torus_purple_8cm/torus_purple_8cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/torus_purple_8cm/torus_purple_8cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "torus_pink_8cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/torus_pink_8cm/torus_pink_8cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/torus_pink_8cm/torus_pink_8cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "torus_black_8cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/torus_black_8cm/torus_black_8cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/torus_black_8cm/torus_black_8cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "torus_white_8cm": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/torus_white_8cm/torus_white_8cm_reference.png",
+      "mesh_path": "./output_parallel_supplement/torus_white_8cm/torus_white_8cm.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "torus_hula_hoop": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/torus_hula_hoop/torus_hula_hoop_reference.png",
+      "mesh_path": "./output_parallel_supplement/torus_hula_hoop/torus_hula_hoop.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "torus_bracelet": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/torus_bracelet/torus_bracelet_reference.png",
+      "mesh_path": "./output_parallel_supplement/torus_bracelet/torus_bracelet.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "torus_tire": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/torus_tire/torus_tire_reference.png",
+      "mesh_path": "./output_parallel_supplement/torus_tire/torus_tire.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "rectangular_box_red": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/rectangular_box_red/rectangular_box_red_reference.png",
+      "mesh_path": "./output_parallel_supplement/rectangular_box_red/rectangular_box_red.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "torus_lifebuoy_orange": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/torus_lifebuoy_orange/torus_lifebuoy_orange_reference.png",
+      "mesh_path": "./output_parallel_supplement/torus_lifebuoy_orange/torus_lifebuoy_orange.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "rectangular_box_blue": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/rectangular_box_blue/rectangular_box_blue_reference.png",
+      "mesh_path": "./output_parallel_supplement/rectangular_box_blue/rectangular_box_blue.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "rectangular_box_green": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/rectangular_box_green/rectangular_box_green_reference.png",
+      "mesh_path": "./output_parallel_supplement/rectangular_box_green/rectangular_box_green.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "rectangular_box_wood": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/rectangular_box_wood/rectangular_box_wood_reference.png",
+      "mesh_path": "./output_parallel_supplement/rectangular_box_wood/rectangular_box_wood.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "rectangular_box_metal": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/rectangular_box_metal/rectangular_box_metal_reference.png",
+      "mesh_path": "./output_parallel_supplement/rectangular_box_metal/rectangular_box_metal.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "rectangular_box_yellow": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/rectangular_box_yellow/rectangular_box_yellow_reference.png",
+      "mesh_path": "./output_parallel_supplement/rectangular_box_yellow/rectangular_box_yellow.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "brick_red": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/brick_red/brick_red_reference.png",
+      "mesh_path": "./output_parallel_supplement/brick_red/brick_red.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "brick_gray": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/brick_gray/brick_gray_reference.png",
+      "mesh_path": "./output_parallel_supplement/brick_gray/brick_gray.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "matchbox_red": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/matchbox_red/matchbox_red_reference.png",
+      "mesh_path": "./output_parallel_supplement/matchbox_red/matchbox_red.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "domino_white": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/domino_white/domino_white_reference.png",
+      "mesh_path": "./output_parallel_supplement/domino_white/domino_white.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "half_sphere_red": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/half_sphere_red/half_sphere_red_reference.png",
+      "mesh_path": "./output_parallel_supplement/half_sphere_red/half_sphere_red.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "eraser_pink": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/eraser_pink/eraser_pink_reference.png",
+      "mesh_path": "./output_parallel_supplement/eraser_pink/eraser_pink.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "half_sphere_blue": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/half_sphere_blue/half_sphere_blue_reference.png",
+      "mesh_path": "./output_parallel_supplement/half_sphere_blue/half_sphere_blue.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "half_sphere_clear": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/half_sphere_clear/half_sphere_clear_reference.png",
+      "mesh_path": "./output_parallel_supplement/half_sphere_clear/half_sphere_clear.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "wedge_red": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/wedge_red/wedge_red_reference.png",
+      "mesh_path": "./output_parallel_supplement/wedge_red/wedge_red.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "mushroom_cap": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/mushroom_cap/mushroom_cap_reference.png",
+      "mesh_path": "./output_parallel_supplement/mushroom_cap/mushroom_cap.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "igloo": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/igloo/igloo_reference.png",
+      "mesh_path": "./output_parallel_supplement/igloo/igloo.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "bell_jar": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/bell_jar/bell_jar_reference.png",
+      "mesh_path": "./output_parallel_supplement/bell_jar/bell_jar.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "wedge_wood": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/wedge_wood/wedge_wood_reference.png",
+      "mesh_path": "./output_parallel_supplement/wedge_wood/wedge_wood.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "wedge_blue": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/wedge_blue/wedge_blue_reference.png",
+      "mesh_path": "./output_parallel_supplement/wedge_blue/wedge_blue.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cheese_wedge": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cheese_wedge/cheese_wedge_reference.png",
+      "mesh_path": "./output_parallel_supplement/cheese_wedge/cheese_wedge.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "watermelon_wedge": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/watermelon_wedge/watermelon_wedge_reference.png",
+      "mesh_path": "./output_parallel_supplement/watermelon_wedge/watermelon_wedge.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "pizza_slice": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/pizza_slice/pizza_slice_reference.png",
+      "mesh_path": "./output_parallel_supplement/pizza_slice/pizza_slice.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "pie_slice": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/pie_slice/pie_slice_reference.png",
+      "mesh_path": "./output_parallel_supplement/pie_slice/pie_slice.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "star_5point_red": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/star_5point_red/star_5point_red_reference.png",
+      "mesh_path": "./output_parallel_supplement/star_5point_red/star_5point_red.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "star_5point_gold": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/star_5point_gold/star_5point_gold_reference.png",
+      "mesh_path": "./output_parallel_supplement/star_5point_gold/star_5point_gold.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cake_slice": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cake_slice/cake_slice_reference.png",
+      "mesh_path": "./output_parallel_supplement/cake_slice/cake_slice.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "star_6point_blue": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/star_6point_blue/star_6point_blue_reference.png",
+      "mesh_path": "./output_parallel_supplement/star_6point_blue/star_6point_blue.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "star_3d_red": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/star_3d_red/star_3d_red_reference.png",
+      "mesh_path": "./output_parallel_supplement/star_3d_red/star_3d_red.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "starfish": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/starfish/starfish_reference.png",
+      "mesh_path": "./output_parallel_supplement/starfish/starfish.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "sheriff_star": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/sheriff_star/sheriff_star_reference.png",
+      "mesh_path": "./output_parallel_supplement/sheriff_star/sheriff_star.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "heart_pink": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/heart_pink/heart_pink_reference.png",
+      "mesh_path": "./output_parallel_supplement/heart_pink/heart_pink.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "heart_red": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/heart_red/heart_red_reference.png",
+      "mesh_path": "./output_parallel_supplement/heart_red/heart_red.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "heart_gold": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/heart_gold/heart_gold_reference.png",
+      "mesh_path": "./output_parallel_supplement/heart_gold/heart_gold.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "heart_candy": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/heart_candy/heart_candy_reference.png",
+      "mesh_path": "./output_parallel_supplement/heart_candy/heart_candy.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "heart_pillow": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/heart_pillow/heart_pillow_reference.png",
+      "mesh_path": "./output_parallel_supplement/heart_pillow/heart_pillow.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "crescent_moon": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/crescent_moon/crescent_moon_reference.png",
+      "mesh_path": "./output_parallel_supplement/crescent_moon/crescent_moon.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "heart_box": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/heart_box/heart_box_reference.png",
+      "mesh_path": "./output_parallel_supplement/heart_box/heart_box.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "crescent_banana": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/crescent_banana/crescent_banana_reference.png",
+      "mesh_path": "./output_parallel_supplement/crescent_banana/crescent_banana.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "crescent_croissant": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/crescent_croissant/crescent_croissant_reference.png",
+      "mesh_path": "./output_parallel_supplement/crescent_croissant/crescent_croissant.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "crescent_boomerang": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/crescent_boomerang/crescent_boomerang_reference.png",
+      "mesh_path": "./output_parallel_supplement/crescent_boomerang/crescent_boomerang.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cross_red": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cross_red/cross_red_reference.png",
+      "mesh_path": "./output_parallel_supplement/cross_red/cross_red.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cross_wood": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cross_wood/cross_wood_reference.png",
+      "mesh_path": "./output_parallel_supplement/cross_wood/cross_wood.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cross_plus_green": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cross_plus_green/cross_plus_green_reference.png",
+      "mesh_path": "./output_parallel_supplement/cross_plus_green/cross_plus_green.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "arrow_red": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/arrow_red/arrow_red_reference.png",
+      "mesh_path": "./output_parallel_supplement/arrow_red/arrow_red.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "arrow_green": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/arrow_green/arrow_green_reference.png",
+      "mesh_path": "./output_parallel_supplement/arrow_green/arrow_green.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cross_swiss": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cross_swiss/cross_swiss_reference.png",
+      "mesh_path": "./output_parallel_supplement/cross_swiss/cross_swiss.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "arrow_up_blue": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/arrow_up_blue/arrow_up_blue_reference.png",
+      "mesh_path": "./output_parallel_supplement/arrow_up_blue/arrow_up_blue.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "arrow_curved": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/arrow_curved/arrow_curved_reference.png",
+      "mesh_path": "./output_parallel_supplement/arrow_curved/arrow_curved.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "arrow_double": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/arrow_double/arrow_double_reference.png",
+      "mesh_path": "./output_parallel_supplement/arrow_double/arrow_double.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ring_silver_band": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ring_silver_band/ring_silver_band_reference.png",
+      "mesh_path": "./output_parallel_supplement/ring_silver_band/ring_silver_band.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ring_gold_band": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ring_gold_band/ring_gold_band_reference.png",
+      "mesh_path": "./output_parallel_supplement/ring_gold_band/ring_gold_band.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ring_diamond": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ring_diamond/ring_diamond_reference.png",
+      "mesh_path": "./output_parallel_supplement/ring_diamond/ring_diamond.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "necklace_pearl": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/necklace_pearl/necklace_pearl_reference.png",
+      "mesh_path": "./output_parallel_supplement/necklace_pearl/necklace_pearl.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "pendant_heart": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/pendant_heart/pendant_heart_reference.png",
+      "mesh_path": "./output_parallel_supplement/pendant_heart/pendant_heart.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "earring_hoop": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/earring_hoop/earring_hoop_reference.png",
+      "mesh_path": "./output_parallel_supplement/earring_hoop/earring_hoop.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "brooch_flower": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/brooch_flower/brooch_flower_reference.png",
+      "mesh_path": "./output_parallel_supplement/brooch_flower/brooch_flower.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "cufflink_silver": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/cufflink_silver/cufflink_silver_reference.png",
+      "mesh_path": "./output_parallel_supplement/cufflink_silver/cufflink_silver.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "number_block_1": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/number_block_1/number_block_1_reference.png",
+      "mesh_path": "./output_parallel_supplement/number_block_1/number_block_1.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "number_block_0": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/number_block_0/number_block_0_reference.png",
+      "mesh_path": "./output_parallel_supplement/number_block_0/number_block_0.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "number_block_3": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/number_block_3/number_block_3_reference.png",
+      "mesh_path": "./output_parallel_supplement/number_block_3/number_block_3.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "number_block_5": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/number_block_5/number_block_5_reference.png",
+      "mesh_path": "./output_parallel_supplement/number_block_5/number_block_5.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "number_block_2": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/number_block_2/number_block_2_reference.png",
+      "mesh_path": "./output_parallel_supplement/number_block_2/number_block_2.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "number_block_6": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/number_block_6/number_block_6_reference.png",
+      "mesh_path": "./output_parallel_supplement/number_block_6/number_block_6.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "number_block_7": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/number_block_7/number_block_7_reference.png",
+      "mesh_path": "./output_parallel_supplement/number_block_7/number_block_7.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "number_block_4": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/number_block_4/number_block_4_reference.png",
+      "mesh_path": "./output_parallel_supplement/number_block_4/number_block_4.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "number_block_9": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/number_block_9/number_block_9_reference.png",
+      "mesh_path": "./output_parallel_supplement/number_block_9/number_block_9.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "number_block_8": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/number_block_8/number_block_8_reference.png",
+      "mesh_path": "./output_parallel_supplement/number_block_8/number_block_8.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_C": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_C/letter_block_C_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_C/letter_block_C.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_A": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_A/letter_block_A_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_A/letter_block_A.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_D": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_D/letter_block_D_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_D/letter_block_D.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_B": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_B/letter_block_B_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_B/letter_block_B.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_F": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_F/letter_block_F_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_F/letter_block_F.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_G": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_G/letter_block_G_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_G/letter_block_G.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_E": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_E/letter_block_E_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_E/letter_block_E.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_H": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_H/letter_block_H_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_H/letter_block_H.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_I": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_I/letter_block_I_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_I/letter_block_I.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_J": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_J/letter_block_J_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_J/letter_block_J.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_L": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_L/letter_block_L_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_L/letter_block_L.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_K": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_K/letter_block_K_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_K/letter_block_K.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_O": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_O/letter_block_O_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_O/letter_block_O.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_M": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_M/letter_block_M_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_M/letter_block_M.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_P": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_P/letter_block_P_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_P/letter_block_P.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_N": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_N/letter_block_N_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_N/letter_block_N.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_R": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_R/letter_block_R_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_R/letter_block_R.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_S": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_S/letter_block_S_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_S/letter_block_S.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_Q": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_Q/letter_block_Q_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_Q/letter_block_Q.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_U": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_U/letter_block_U_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_U/letter_block_U.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_T": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_T/letter_block_T_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_T/letter_block_T.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_V": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_V/letter_block_V_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_V/letter_block_V.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_Y": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_Y/letter_block_Y_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_Y/letter_block_Y.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_apple": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_apple/ycb_apple_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_apple/ycb_apple.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_banana": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_banana/ycb_banana_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_banana/ycb_banana.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_X": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_X/letter_block_X_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_X/letter_block_X.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_W": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_W/letter_block_W_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_W/letter_block_W.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_orange": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_orange/ycb_orange_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_orange/ycb_orange.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_lemon": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_lemon/ycb_lemon_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_lemon/ycb_lemon.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "letter_block_Z": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/letter_block_Z/letter_block_Z_reference.png",
+      "mesh_path": "./output_parallel_supplement/letter_block_Z/letter_block_Z.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_pear": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_pear/ycb_pear_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_pear/ycb_pear.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_plum": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_plum/ycb_plum_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_plum/ycb_plum.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_peach": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_peach/ycb_peach_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_peach/ycb_peach.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_gelatin": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_gelatin/ycb_gelatin_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_gelatin/ycb_gelatin.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_pudding": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_pudding/ycb_pudding_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_pudding/ycb_pudding.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_strawberry": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_strawberry/ycb_strawberry_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_strawberry/ycb_strawberry.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_potted_meat": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_potted_meat/ycb_potted_meat_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_potted_meat/ycb_potted_meat.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_chips": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_chips/ycb_chips_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_chips/ycb_chips.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_coffee": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_coffee/ycb_coffee_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_coffee/ycb_coffee.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_tuna_fish": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_tuna_fish/ycb_tuna_fish_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_tuna_fish/ycb_tuna_fish.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_tomato_soup": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_tomato_soup/ycb_tomato_soup_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_tomato_soup/ycb_tomato_soup.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_sugar_box": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_sugar_box/ycb_sugar_box_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_sugar_box/ycb_sugar_box.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_cracker_box": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_cracker_box/ycb_cracker_box_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_cracker_box/ycb_cracker_box.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_pitcher": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_pitcher/ycb_pitcher_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_pitcher/ycb_pitcher.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_plate": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_plate/ycb_plate_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_plate/ycb_plate.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_fork": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_fork/ycb_fork_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_fork/ycb_fork.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_spoon": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_spoon/ycb_spoon_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_spoon/ycb_spoon.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_knife": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_knife/ycb_knife_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_knife/ycb_knife.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_spatula": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_spatula/ycb_spatula_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_spatula/ycb_spatula.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_cleanser": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_cleanser/ycb_cleanser_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_cleanser/ycb_cleanser.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_screwdriver": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_screwdriver/ycb_screwdriver_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_screwdriver/ycb_screwdriver.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_sponge": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_sponge/ycb_sponge_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_sponge/ycb_sponge.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_wood_block": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_wood_block/ycb_wood_block_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_wood_block/ycb_wood_block.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_chain": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_chain/ycb_chain_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_chain/ycb_chain.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_foam_brick": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_foam_brick/ycb_foam_brick_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_foam_brick/ycb_foam_brick.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_rope": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_rope/ycb_rope_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_rope/ycb_rope.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_padlock": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_padlock/ycb_padlock_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_padlock/ycb_padlock.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_key": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_key/ycb_key_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_key/ycb_key.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_scissors": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_scissors/ycb_scissors_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_scissors/ycb_scissors.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_marker": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_marker/ycb_marker_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_marker/ycb_marker.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_dice": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_dice/ycb_dice_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_dice/ycb_dice.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_timer": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_timer/ycb_timer_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_timer/ycb_timer.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_baseball": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_baseball/ycb_baseball_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_baseball/ycb_baseball.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_softball": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_softball/ycb_softball_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_softball/ycb_softball.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_tennis_ball": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_tennis_ball/ycb_tennis_ball_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_tennis_ball/ycb_tennis_ball.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_golf_ball": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_golf_ball/ycb_golf_ball_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_golf_ball/ycb_golf_ball.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_racquetball": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_racquetball/ycb_racquetball_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_racquetball/ycb_racquetball.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_nine_hole_peg": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_nine_hole_peg/ycb_nine_hole_peg_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_nine_hole_peg/ycb_nine_hole_peg.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_car_sedan": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_car_sedan/vehicle_car_sedan_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_car_sedan/vehicle_car_sedan.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_car_sports": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_car_sports/vehicle_car_sports_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_car_sports/vehicle_car_sports.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_mini_soccer": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_mini_soccer/ycb_mini_soccer_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_mini_soccer/ycb_mini_soccer.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_truck_pickup": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_truck_pickup/vehicle_truck_pickup_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_truck_pickup/vehicle_truck_pickup.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "ycb_rubiks_cube": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/ycb_rubiks_cube/ycb_rubiks_cube_reference.png",
+      "mesh_path": "./output_parallel_supplement/ycb_rubiks_cube/ycb_rubiks_cube.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_car_suv": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_car_suv/vehicle_car_suv_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_car_suv/vehicle_car_suv.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_truck_semi": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_truck_semi/vehicle_truck_semi_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_truck_semi/vehicle_truck_semi.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_bus_city": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_bus_city/vehicle_bus_city_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_bus_city/vehicle_bus_city.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_bus_school": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_bus_school/vehicle_bus_school_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_bus_school/vehicle_bus_school.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_ambulance": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_ambulance/vehicle_ambulance_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_ambulance/vehicle_ambulance.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_firetruck": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_firetruck/vehicle_firetruck_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_firetruck/vehicle_firetruck.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_taxi": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_taxi/vehicle_taxi_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_taxi/vehicle_taxi.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_police_car": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_police_car/vehicle_police_car_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_police_car/vehicle_police_car.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_bicycle": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_bicycle/vehicle_bicycle_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_bicycle/vehicle_bicycle.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_motorcycle": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_motorcycle/vehicle_motorcycle_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_motorcycle/vehicle_motorcycle.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_scooter": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_scooter/vehicle_scooter_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_scooter/vehicle_scooter.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_skateboard": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_skateboard/vehicle_skateboard_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_skateboard/vehicle_skateboard.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_excavator": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_excavator/vehicle_excavator_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_excavator/vehicle_excavator.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_crane": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_crane/vehicle_crane_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_crane/vehicle_crane.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_tractor": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_tractor/vehicle_tractor_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_tractor/vehicle_tractor.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_bulldozer": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_bulldozer/vehicle_bulldozer_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_bulldozer/vehicle_bulldozer.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_forklift": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_forklift/vehicle_forklift_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_forklift/vehicle_forklift.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_airplane_jet": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_airplane_jet/vehicle_airplane_jet_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_airplane_jet/vehicle_airplane_jet.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_airplane_prop": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_airplane_prop/vehicle_airplane_prop_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_airplane_prop/vehicle_airplane_prop.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_rocket": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_rocket/vehicle_rocket_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_rocket/vehicle_rocket.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_helicopter": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_helicopter/vehicle_helicopter_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_helicopter/vehicle_helicopter.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_ship_cargo": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_ship_cargo/vehicle_ship_cargo_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_ship_cargo/vehicle_ship_cargo.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_boat_sail": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_boat_sail/vehicle_boat_sail_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_boat_sail/vehicle_boat_sail.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "vehicle_submarine": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/vehicle_submarine/vehicle_submarine_reference.png",
+      "mesh_path": "./output_parallel_supplement/vehicle_submarine/vehicle_submarine.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_dog": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_dog/animal_dog_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_dog/animal_dog.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_horse": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_horse/animal_horse_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_horse/animal_horse.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_cat": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_cat/animal_cat_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_cat/animal_cat.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_cow": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_cow/animal_cow_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_cow/animal_cow.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_pig": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_pig/animal_pig_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_pig/animal_pig.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_sheep": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_sheep/animal_sheep_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_sheep/animal_sheep.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_chicken": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_chicken/animal_chicken_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_chicken/animal_chicken.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_duck": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_duck/animal_duck_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_duck/animal_duck.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_elephant": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_elephant/animal_elephant_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_elephant/animal_elephant.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_giraffe": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_giraffe/animal_giraffe_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_giraffe/animal_giraffe.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_lion": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_lion/animal_lion_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_lion/animal_lion.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_tiger": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_tiger/animal_tiger_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_tiger/animal_tiger.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_bear": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_bear/animal_bear_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_bear/animal_bear.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_rabbit": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_rabbit/animal_rabbit_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_rabbit/animal_rabbit.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_frog": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_frog/animal_frog_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_frog/animal_frog.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_fish": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_fish/animal_fish_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_fish/animal_fish.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_dolphin": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_dolphin/animal_dolphin_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_dolphin/animal_dolphin.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_whale": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_whale/animal_whale_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_whale/animal_whale.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_shark": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_shark/animal_shark_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_shark/animal_shark.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_turtle": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_turtle/animal_turtle_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_turtle/animal_turtle.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_crocodile": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_crocodile/animal_crocodile_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_crocodile/animal_crocodile.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_snake": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_snake/animal_snake_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_snake/animal_snake.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_bird": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_bird/animal_bird_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_bird/animal_bird.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_penguin": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_penguin/animal_penguin_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_penguin/animal_penguin.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_butterfly": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_butterfly/animal_butterfly_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_butterfly/animal_butterfly.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_owl": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_owl/animal_owl_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_owl/animal_owl.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_bee": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_bee/animal_bee_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_bee/animal_bee.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_ladybug": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_ladybug/animal_ladybug_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_ladybug/animal_ladybug.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_dinosaur_trex": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_dinosaur_trex/animal_dinosaur_trex_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_dinosaur_trex/animal_dinosaur_trex.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_dinosaur_triceratops": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_dinosaur_triceratops/animal_dinosaur_triceratops_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_dinosaur_triceratops/animal_dinosaur_triceratops.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_dinosaur_stegosaurus": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_dinosaur_stegosaurus/animal_dinosaur_stegosaurus_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_dinosaur_stegosaurus/animal_dinosaur_stegosaurus.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_dinosaur_brachiosaurus": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_dinosaur_brachiosaurus/animal_dinosaur_brachiosaurus_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_dinosaur_brachiosaurus/animal_dinosaur_brachiosaurus.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "animal_dinosaur_pterodactyl": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/animal_dinosaur_pterodactyl/animal_dinosaur_pterodactyl_reference.png",
+      "mesh_path": "./output_parallel_supplement/animal_dinosaur_pterodactyl/animal_dinosaur_pterodactyl.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "figure_human_male": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/figure_human_male/figure_human_male_reference.png",
+      "mesh_path": "./output_parallel_supplement/figure_human_male/figure_human_male.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "figure_human_female": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/figure_human_female/figure_human_female_reference.png",
+      "mesh_path": "./output_parallel_supplement/figure_human_female/figure_human_female.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "figure_human_child": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/figure_human_child/figure_human_child_reference.png",
+      "mesh_path": "./output_parallel_supplement/figure_human_child/figure_human_child.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "figure_worker_construction": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/figure_worker_construction/figure_worker_construction_reference.png",
+      "mesh_path": "./output_parallel_supplement/figure_worker_construction/figure_worker_construction.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "figure_worker_firefighter": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/figure_worker_firefighter/figure_worker_firefighter_reference.png",
+      "mesh_path": "./output_parallel_supplement/figure_worker_firefighter/figure_worker_firefighter.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "figure_worker_doctor": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/figure_worker_doctor/figure_worker_doctor_reference.png",
+      "mesh_path": "./output_parallel_supplement/figure_worker_doctor/figure_worker_doctor.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "figure_worker_police": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/figure_worker_police/figure_worker_police_reference.png",
+      "mesh_path": "./output_parallel_supplement/figure_worker_police/figure_worker_police.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "figure_worker_chef": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/figure_worker_chef/figure_worker_chef_reference.png",
+      "mesh_path": "./output_parallel_supplement/figure_worker_chef/figure_worker_chef.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "figure_astronaut": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/figure_astronaut/figure_astronaut_reference.png",
+      "mesh_path": "./output_parallel_supplement/figure_astronaut/figure_astronaut.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "figure_robot_humanoid": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/figure_robot_humanoid/figure_robot_humanoid_reference.png",
+      "mesh_path": "./output_parallel_supplement/figure_robot_humanoid/figure_robot_humanoid.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "plant_cactus_small": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/plant_cactus_small/plant_cactus_small_reference.png",
+      "mesh_path": "./output_parallel_supplement/plant_cactus_small/plant_cactus_small.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "plant_succulent": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/plant_succulent/plant_succulent_reference.png",
+      "mesh_path": "./output_parallel_supplement/plant_succulent/plant_succulent.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "plant_bonsai": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/plant_bonsai/plant_bonsai_reference.png",
+      "mesh_path": "./output_parallel_supplement/plant_bonsai/plant_bonsai.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "plant_flower_pot": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/plant_flower_pot/plant_flower_pot_reference.png",
+      "mesh_path": "./output_parallel_supplement/plant_flower_pot/plant_flower_pot.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "plant_grass_tuft": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/plant_grass_tuft/plant_grass_tuft_reference.png",
+      "mesh_path": "./output_parallel_supplement/plant_grass_tuft/plant_grass_tuft.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "plant_fern": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/plant_fern/plant_fern_reference.png",
+      "mesh_path": "./output_parallel_supplement/plant_fern/plant_fern.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "plant_artificial_flower": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/plant_artificial_flower/plant_artificial_flower_reference.png",
+      "mesh_path": "./output_parallel_supplement/plant_artificial_flower/plant_artificial_flower.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_bread_roll": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_bread_roll/food_bread_roll_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_bread_roll/food_bread_roll.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "plant_tree_small": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/plant_tree_small/plant_tree_small_reference.png",
+      "mesh_path": "./output_parallel_supplement/plant_tree_small/plant_tree_small.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_bagel": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_bagel/food_bagel_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_bagel/food_bagel.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_pretzel": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_pretzel/food_pretzel_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_pretzel/food_pretzel.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_cupcake": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_cupcake/food_cupcake_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_cupcake/food_cupcake.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_donut_plain": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_donut_plain/food_donut_plain_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_donut_plain/food_donut_plain.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_muffin": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_muffin/food_muffin_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_muffin/food_muffin.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_donut_chocolate": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_donut_chocolate/food_donut_chocolate_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_donut_chocolate/food_donut_chocolate.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_waffle": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_waffle/food_waffle_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_waffle/food_waffle.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_sandwich": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_sandwich/food_sandwich_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_sandwich/food_sandwich.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_toast": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_toast/food_toast_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_toast/food_toast.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_pancake": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_pancake/food_pancake_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_pancake/food_pancake.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_sushi_nigiri": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_sushi_nigiri/food_sushi_nigiri_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_sushi_nigiri/food_sushi_nigiri.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_taco": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_taco/food_taco_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_taco/food_taco.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_burrito": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_burrito/food_burrito_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_burrito/food_burrito.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_spring_roll": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_spring_roll/food_spring_roll_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_spring_roll/food_spring_roll.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_fries": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_fries/food_fries_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_fries/food_fries.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_chips": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_chips/food_chips_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_chips/food_chips.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_candy_wrapper": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_candy_wrapper/food_candy_wrapper_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_candy_wrapper/food_candy_wrapper.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_popcorn": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_popcorn/food_popcorn_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_popcorn/food_popcorn.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_chocolate_bar": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_chocolate_bar/food_chocolate_bar_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_chocolate_bar/food_chocolate_bar.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_dumpling": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_dumpling/food_dumpling_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_dumpling/food_dumpling.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_lollipop": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_lollipop/food_lollipop_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_lollipop/food_lollipop.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_ice_cream_cone": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_ice_cream_cone/food_ice_cream_cone_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_ice_cream_cone/food_ice_cream_cone.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_gummy_bear": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_gummy_bear/food_gummy_bear_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_gummy_bear/food_gummy_bear.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "food_popsicle": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/food_popsicle/food_popsicle_reference.png",
+      "mesh_path": "./output_parallel_supplement/food_popsicle/food_popsicle.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_hourglass": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_hourglass/random_hourglass_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_hourglass/random_hourglass.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_compass_drawing": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_compass_drawing/random_compass_drawing_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_compass_drawing/random_compass_drawing.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_protractor": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_protractor/random_protractor_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_protractor/random_protractor.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_globe_small": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_globe_small/random_globe_small_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_globe_small/random_globe_small.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_telescope_small": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_telescope_small/random_telescope_small_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_telescope_small/random_telescope_small.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_binoculars_toy": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_binoculars_toy/random_binoculars_toy_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_binoculars_toy/random_binoculars_toy.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_kaleidoscope": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_kaleidoscope/random_kaleidoscope_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_kaleidoscope/random_kaleidoscope.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_music_box": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_music_box/random_music_box_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_music_box/random_music_box.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_piggy_bank": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_piggy_bank/random_piggy_bank_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_piggy_bank/random_piggy_bank.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_alarm_clock": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_alarm_clock/random_alarm_clock_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_alarm_clock/random_alarm_clock.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_snow_globe": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_snow_globe/random_snow_globe_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_snow_globe/random_snow_globe.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_hourglass_small": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_hourglass_small/random_hourglass_small_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_hourglass_small/random_hourglass_small.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_hand_mirror": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_hand_mirror/random_hand_mirror_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_hand_mirror/random_hand_mirror.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_brush": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_brush/random_brush_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_brush/random_brush.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_compass_navigation": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_compass_navigation/random_compass_navigation_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_compass_navigation/random_compass_navigation.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_magnifying_glass": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_magnifying_glass/random_magnifying_glass_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_magnifying_glass/random_magnifying_glass.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_thermometer": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_thermometer/random_thermometer_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_thermometer/random_thermometer.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_comb": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_comb/random_comb_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_comb/random_comb.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_lipstick": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_lipstick/random_lipstick_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_lipstick/random_lipstick.glb",
+      "error": null,
+      "model": "trellis"
+    },
+    "random_perfume_bottle": {
+      "success": true,
+      "image_path": "./output_parallel_supplement/random_perfume_bottle/random_perfume_bottle_reference.png",
+      "mesh_path": "./output_parallel_supplement/random_perfume_bottle/random_perfume_bottle.glb",
+      "error": null,
+      "model": "trellis"
+    }
+  }
+}

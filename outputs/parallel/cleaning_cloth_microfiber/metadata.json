@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cleaning_cloth_microfiber",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.354688",
+  "prompt": "Blue microfiber cleaning cloth, folded, product photography, white background",
+  "files": {
+    "glb": [
+      "cleaning_cloth_microfiber.glb"
+    ],
+    "reference_image": [
+      "cleaning_cloth_microfiber_reference.png"
+    ]
+  },
+  "status": "complete"
+}

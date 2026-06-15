@@ -1,0 +1,17 @@
+{
+  "mesh_id": "torus_rubber_8cm",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.354368",
+  "prompt": "Black rubber O-ring torus, 8cm diameter, industrial look, product photography, white background",
+  "files": {
+    "glb": [
+      "torus_rubber_8cm.glb"
+    ],
+    "reference_image": [
+      "torus_rubber_8cm_reference.png"
+    ]
+  },
+  "status": "complete"
+}

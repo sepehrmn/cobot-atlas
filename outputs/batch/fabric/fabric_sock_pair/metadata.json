@@ -1,0 +1,8 @@
+{
+  "id": "fabric_sock_pair",
+  "category": "fabric",
+  "prompt": "Pair of white socks, folded sock pair, athletic socks, photorealistic, white background, single isolated object, centered, pure white background, studio lighting, 4K, sharp focus",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis",
+  "timestamp": "2026-01-07T01:53:20.009963"
+}

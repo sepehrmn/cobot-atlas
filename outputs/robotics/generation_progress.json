@@ -1,0 +1,99 @@
+{
+  "timestamp": "2026-01-07T01:36:00.248159",
+  "total": 5,
+  "completed": 5,
+  "failed": 0,
+  "elapsed_seconds": 67.11072897911072,
+  "results": {
+    "ycb_010_potted_meat_can": {
+      "mesh_id": "ycb_010_potted_meat_can",
+      "status": "complete",
+      "prompt": "Potted meat can, YCB benchmark object, rectangular meat can, photorealistic, white background",
+      "enhanced_prompt": "YCB benchmark style, realistic object, Potted meat can, YCB benchmark object, rectangular meat can, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+      "category": "ycb",
+      "image_model": "fal-ai/flux/schnell",
+      "mesh_model": "fal-ai/trellis",
+      "generated_at": "2026-01-07T01:35:51.146899",
+      "generation_time_seconds": 58.00885081291199,
+      "api_key_used": "default",
+      "files": {
+        "reference_image": "ycb_010_potted_meat_can_reference.png",
+        "glb": "ycb_010_potted_meat_can.glb"
+      },
+      "error": "",
+      "retry_count": 0
+    },
+    "ycb_006_mustard_bottle": {
+      "mesh_id": "ycb_006_mustard_bottle",
+      "status": "complete",
+      "prompt": "French's mustard bottle, YCB benchmark object, yellow squeeze bottle, photorealistic, white background",
+      "enhanced_prompt": "YCB benchmark style, realistic object, French's mustard bottle, YCB benchmark object, yellow squeeze bottle, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+      "category": "ycb",
+      "image_model": "fal-ai/flux/schnell",
+      "mesh_model": "fal-ai/trellis",
+      "generated_at": "2026-01-07T01:35:52.890310",
+      "generation_time_seconds": 59.752511978149414,
+      "api_key_used": "default",
+      "files": {
+        "reference_image": "ycb_006_mustard_bottle_reference.png",
+        "glb": "ycb_006_mustard_bottle.glb"
+      },
+      "error": "",
+      "retry_count": 0
+    },
+    "ycb_007_tuna_fish_can": {
+      "mesh_id": "ycb_007_tuna_fish_can",
+      "status": "complete",
+      "prompt": "StarKist tuna can, YCB benchmark object, small flat fish can, photorealistic, white background",
+      "enhanced_prompt": "YCB benchmark style, realistic object, StarKist tuna can, YCB benchmark object, small flat fish can, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+      "category": "ycb",
+      "image_model": "fal-ai/flux/schnell",
+      "mesh_model": "fal-ai/trellis",
+      "generated_at": "2026-01-07T01:35:55.814676",
+      "generation_time_seconds": 62.676711320877075,
+      "api_key_used": "default",
+      "files": {
+        "reference_image": "ycb_007_tuna_fish_can_reference.png",
+        "glb": "ycb_007_tuna_fish_can.glb"
+      },
+      "error": "",
+      "retry_count": 0
+    },
+    "fabric_towel_folded_white": {
+      "mesh_id": "fabric_towel_folded_white",
+      "status": "complete",
+      "prompt": "Neatly folded white towel, soft terry cloth bath towel, rectangular folded stack, photorealistic product photo, white background",
+      "enhanced_prompt": "soft material texture, natural folds, Neatly folded white towel, soft terry cloth bath towel, rectangular folded stack, photorealistic product photo, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+      "category": "fabric",
+      "image_model": "fal-ai/flux/schnell",
+      "mesh_model": "fal-ai/trellis",
+      "generated_at": "2026-01-07T01:35:58.095432",
+      "generation_time_seconds": 64.95784306526184,
+      "api_key_used": "default",
+      "files": {
+        "reference_image": "fabric_towel_folded_white_reference.png",
+        "glb": "fabric_towel_folded_white.glb"
+      },
+      "error": "",
+      "retry_count": 0
+    },
+    "fabric_towel_folded_blue": {
+      "mesh_id": "fabric_towel_folded_blue",
+      "status": "complete",
+      "prompt": "Neatly folded blue towel, soft bath towel, rectangular folded, photorealistic, white background",
+      "enhanced_prompt": "soft material texture, natural folds, Neatly folded blue towel, soft bath towel, rectangular folded, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+      "category": "fabric",
+      "image_model": "fal-ai/flux/schnell",
+      "mesh_model": "fal-ai/trellis",
+      "generated_at": "2026-01-07T01:35:59.942249",
+      "generation_time_seconds": 66.8045301437378,
+      "api_key_used": "default",
+      "files": {
+        "reference_image": "fabric_towel_folded_blue_reference.png",
+        "glb": "fabric_towel_folded_blue.glb"
+      },
+      "error": "",
+      "retry_count": 0
+    }
+  }
+}

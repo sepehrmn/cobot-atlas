@@ -1,0 +1,17 @@
+{
+  "mesh_id": "art_paint_tube",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.403593",
+  "prompt": "Oil paint tube, aluminum paint tube, product photography, white background",
+  "files": {
+    "glb": [
+      "art_paint_tube.glb"
+    ],
+    "reference_image": [
+      "art_paint_tube_reference.png"
+    ]
+  },
+  "status": "complete"
+}

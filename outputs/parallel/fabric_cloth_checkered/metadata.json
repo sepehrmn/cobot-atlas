@@ -1,0 +1,17 @@
+{
+  "mesh_id": "fabric_cloth_checkered",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.360141",
+  "prompt": "Red and white checkered cloth, picnic tablecloth pattern, product photography, white background",
+  "files": {
+    "glb": [
+      "fabric_cloth_checkered.glb"
+    ],
+    "reference_image": [
+      "fabric_cloth_checkered_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,18 @@
+{
+  "mesh_id": "hanoi_disk_m_yellow",
+  "status": "complete",
+  "prompt": "Medium yellow wooden disk for Tower of Hanoi, 4cm diameter with center hole, painted wood, photorealistic, white background",
+  "enhanced_prompt": "wooden toy, smooth finish, Medium yellow wooden disk for Tower of Hanoi, 4cm diameter with center hole, painted wood, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "hanoi",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:13:24.359386",
+  "generation_time_seconds": 24.072322130203247,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "hanoi_disk_m_yellow_reference.png",
+    "glb": "hanoi_disk_m_yellow.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

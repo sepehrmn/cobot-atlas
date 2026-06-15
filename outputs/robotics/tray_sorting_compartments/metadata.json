@@ -1,0 +1,18 @@
+{
+  "mesh_id": "tray_sorting_compartments",
+  "status": "complete",
+  "prompt": "Sorting tray with compartments, divided tray for organizing small items, photorealistic, white background",
+  "enhanced_prompt": "Sorting tray with compartments, divided tray for organizing small items, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "sorting",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:20:33.212002",
+  "generation_time_seconds": 17.82626485824585,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "tray_sorting_compartments_reference.png",
+    "glb": "tray_sorting_compartments.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

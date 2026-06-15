@@ -1,0 +1,17 @@
+{
+  "mesh_id": "packaging_bubble_wrap",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.385024",
+  "prompt": "Section of bubble wrap, plastic packing material, product photography, white background",
+  "files": {
+    "glb": [
+      "packaging_bubble_wrap.glb"
+    ],
+    "reference_image": [
+      "packaging_bubble_wrap_reference.png"
+    ]
+  },
+  "status": "complete"
+}

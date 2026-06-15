@@ -1,0 +1,18 @@
+{
+  "mesh_id": "kitchen_fork_metal",
+  "status": "complete",
+  "prompt": "Metal dinner fork, stainless steel fork, photorealistic, white background",
+  "enhanced_prompt": "kitchenware, clean design, Metal dinner fork, stainless steel fork, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "kitchen",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:22:24.343171",
+  "generation_time_seconds": 15.113397121429443,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "kitchen_fork_metal_reference.png",
+    "glb": "kitchen_fork_metal.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

@@ -1,0 +1,18 @@
+{
+  "mesh_id": "office_tape_dispenser",
+  "status": "complete",
+  "prompt": "Clear tape dispenser with tape, desktop tape dispenser, photorealistic, white background",
+  "enhanced_prompt": "Clear tape dispenser with tape, desktop tape dispenser, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "office",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:23:10.242191",
+  "generation_time_seconds": 22.541789054870605,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "office_tape_dispenser_reference.png",
+    "glb": "office_tape_dispenser.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

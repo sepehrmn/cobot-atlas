@@ -1,0 +1,1 @@
+Depth camera sensor, Intel RealSense style RGBD camera, photorealistic, white background

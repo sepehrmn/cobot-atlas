@@ -1,0 +1,18 @@
+{
+  "mesh_id": "gripper_shadow_hand",
+  "status": "complete",
+  "prompt": "Shadow Robot hand, highly dexterous 5-finger robot hand, many degrees of freedom, photorealistic, white background",
+  "enhanced_prompt": "robotic end effector, mechanical precision, Shadow Robot hand, highly dexterous 5-finger robot hand, many degrees of freedom, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "gripper",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:15:50.148834",
+  "generation_time_seconds": 19.969766855239868,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "gripper_shadow_hand_reference.png",
+    "glb": "gripper_shadow_hand.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

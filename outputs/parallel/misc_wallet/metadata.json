@@ -1,0 +1,17 @@
+{
+  "mesh_id": "misc_wallet",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.366781",
+  "prompt": "Brown leather wallet, bifold wallet, product photography, white background",
+  "files": {
+    "glb": [
+      "misc_wallet.glb"
+    ],
+    "reference_image": [
+      "misc_wallet_reference.png"
+    ]
+  },
+  "status": "complete"
+}

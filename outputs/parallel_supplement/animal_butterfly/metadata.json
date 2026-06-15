@@ -1,0 +1,17 @@
+{
+  "mesh_id": "animal_butterfly",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.484932",
+  "prompt": "Toy butterfly figurine, colorful butterfly, product photography, white background",
+  "files": {
+    "glb": [
+      "animal_butterfly.glb"
+    ],
+    "reference_image": [
+      "animal_butterfly_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "food_sushi_nigiri",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.458188",
+  "prompt": "Sushi nigiri, fish on rice, product photography, white background",
+  "files": {
+    "glb": [
+      "food_sushi_nigiri.glb"
+    ],
+    "reference_image": [
+      "food_sushi_nigiri_reference.png"
+    ]
+  },
+  "status": "complete"
+}

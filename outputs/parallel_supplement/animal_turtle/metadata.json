@@ -1,0 +1,17 @@
+{
+  "mesh_id": "animal_turtle",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.480616",
+  "prompt": "Toy turtle figurine, green turtle, product photography, white background",
+  "files": {
+    "glb": [
+      "animal_turtle.glb"
+    ],
+    "reference_image": [
+      "animal_turtle_reference.png"
+    ]
+  },
+  "status": "complete"
+}

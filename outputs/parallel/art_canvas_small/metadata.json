@@ -1,0 +1,17 @@
+{
+  "mesh_id": "art_canvas_small",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.413427",
+  "prompt": "Small blank canvas, stretched canvas on frame, product photography, white background",
+  "files": {
+    "glb": [
+      "art_canvas_small.glb"
+    ],
+    "reference_image": [
+      "art_canvas_small_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,18 @@
+{
+  "mesh_id": "sensor_tactile_array",
+  "status": "complete",
+  "prompt": "Tactile sensor array, touch sensing pad for robot fingertip, photorealistic, white background",
+  "enhanced_prompt": "Tactile sensor array, touch sensing pad for robot fingertip, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "sensor",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:24:53.924626",
+  "generation_time_seconds": 30.275301218032837,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "sensor_tactile_array_reference.png",
+    "glb": "sensor_tactile_array.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "misc_pinwheel",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.407146",
+  "prompt": "Colorful pinwheel, spinning wind toy, product photography, white background",
+  "files": {
+    "glb": [
+      "misc_pinwheel.glb"
+    ],
+    "reference_image": [
+      "misc_pinwheel_reference.png"
+    ]
+  },
+  "status": "complete"
+}

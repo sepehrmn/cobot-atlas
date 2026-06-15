@@ -1,0 +1,8 @@
+{
+  "id": "block_unit_double",
+  "category": "block_stacking",
+  "prompt": "Wooden double unit block, rectangular 2:1 ratio wood block, photorealistic, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T02:31:29.064639"
+}

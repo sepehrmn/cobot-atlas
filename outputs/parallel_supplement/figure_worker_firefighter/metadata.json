@@ -1,0 +1,17 @@
+{
+  "mesh_id": "figure_worker_firefighter",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.491230",
+  "prompt": "Firefighter figurine, person in fire gear, product photography, white background",
+  "files": {
+    "glb": [
+      "figure_worker_firefighter.glb"
+    ],
+    "reference_image": [
+      "figure_worker_firefighter_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,18 @@
+{
+  "mesh_id": "kitchen_pot_small",
+  "status": "complete",
+  "prompt": "Small stainless steel pot with lid, cooking pot, photorealistic, white background",
+  "enhanced_prompt": "kitchenware, clean design, Small stainless steel pot with lid, cooking pot, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "kitchen",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:22:48.902094",
+  "generation_time_seconds": 20.77839708328247,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "kitchen_pot_small_reference.png",
+    "glb": "kitchen_pot_small.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

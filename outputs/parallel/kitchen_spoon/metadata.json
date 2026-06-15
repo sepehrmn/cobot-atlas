@@ -1,0 +1,17 @@
+{
+  "mesh_id": "kitchen_spoon",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.350429",
+  "prompt": "Metal tablespoon, stainless steel spoon, product photography, white background",
+  "files": {
+    "glb": [
+      "kitchen_spoon.glb"
+    ],
+    "reference_image": [
+      "kitchen_spoon_reference.png"
+    ]
+  },
+  "status": "complete"
+}

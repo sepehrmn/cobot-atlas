@@ -1,0 +1,17 @@
+{
+  "mesh_id": "sports_dumbbell",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.360351",
+  "prompt": "Black dumbbell weight, single hand weight, product photography, white background",
+  "files": {
+    "glb": [
+      "sports_dumbbell.glb"
+    ],
+    "reference_image": [
+      "sports_dumbbell_reference.png"
+    ]
+  },
+  "status": "complete"
+}

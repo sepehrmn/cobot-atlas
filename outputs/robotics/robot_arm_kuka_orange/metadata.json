@@ -1,0 +1,18 @@
+{
+  "mesh_id": "robot_arm_kuka_orange",
+  "status": "complete",
+  "prompt": "KUKA industrial robot arm, orange and black, heavy duty 6-axis robot, industrial automation, photorealistic, white background",
+  "enhanced_prompt": "industrial design, mechanical precision, KUKA industrial robot arm, orange and black, heavy duty 6-axis robot, industrial automation, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "robot_arm",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:14:25.455831",
+  "generation_time_seconds": 37.372111082077026,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "robot_arm_kuka_orange_reference.png",
+    "glb": "robot_arm_kuka_orange.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

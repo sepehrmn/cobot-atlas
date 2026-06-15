@@ -1,0 +1,17 @@
+{
+  "mesh_id": "hanoi_complete_set",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.344041",
+  "prompt": "Complete Tower of Hanoi puzzle set, wooden base with colorful graduated disks stacked, product photography, white background",
+  "files": {
+    "glb": [
+      "hanoi_complete_set.glb"
+    ],
+    "reference_image": [
+      "hanoi_complete_set_reference.png"
+    ]
+  },
+  "status": "complete"
+}

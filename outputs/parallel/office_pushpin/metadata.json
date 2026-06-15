@@ -1,0 +1,17 @@
+{
+  "mesh_id": "office_pushpin",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.379976",
+  "prompt": "Red pushpin thumbtack, round plastic head, product photography, white background",
+  "files": {
+    "glb": [
+      "office_pushpin.glb"
+    ],
+    "reference_image": [
+      "office_pushpin_reference.png"
+    ]
+  },
+  "status": "complete"
+}

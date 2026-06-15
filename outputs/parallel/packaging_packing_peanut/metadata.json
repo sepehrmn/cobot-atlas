@@ -1,0 +1,17 @@
+{
+  "mesh_id": "packaging_packing_peanut",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.387566",
+  "prompt": "White packing peanuts, foam shipping material, product photography, white background",
+  "files": {
+    "glb": [
+      "packaging_packing_peanut.glb"
+    ],
+    "reference_image": [
+      "packaging_packing_peanut_reference.png"
+    ]
+  },
+  "status": "complete"
+}

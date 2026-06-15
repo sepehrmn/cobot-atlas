@@ -1,0 +1,17 @@
+{
+  "mesh_id": "office_pen_black",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.372827",
+  "prompt": "Black ballpoint pen, click pen style, product photography, white background",
+  "files": {
+    "glb": [
+      "office_pen_black.glb"
+    ],
+    "reference_image": [
+      "office_pen_black_reference.png"
+    ]
+  },
+  "status": "complete"
+}

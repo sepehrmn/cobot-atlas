@@ -1,0 +1,18 @@
+{
+  "mesh_id": "gripper_needle",
+  "status": "complete",
+  "prompt": "Needle gripper for fabric, multiple fine needle end effector, textile handling, photorealistic, white background",
+  "enhanced_prompt": "robotic end effector, mechanical precision, Needle gripper for fabric, multiple fine needle end effector, textile handling, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "gripper",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:15:44.587100",
+  "generation_time_seconds": 20.968975067138672,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "gripper_needle_reference.png",
+    "glb": "gripper_needle.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cylinder_short_wide",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.337890",
+  "prompt": "Short wide red cylinder, 10cm diameter, 3cm tall, like a hockey puck, product photography, white background",
+  "files": {
+    "glb": [
+      "cylinder_short_wide.glb"
+    ],
+    "reference_image": [
+      "cylinder_short_wide_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "music_tambourine",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.366672",
+  "prompt": "Tambourine with jingles, hand percussion instrument, product photography, white background",
+  "files": {
+    "glb": [
+      "music_tambourine.glb"
+    ],
+    "reference_image": [
+      "music_tambourine_reference.png"
+    ]
+  },
+  "status": "complete"
+}

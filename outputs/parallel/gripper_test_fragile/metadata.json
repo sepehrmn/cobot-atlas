@@ -1,0 +1,17 @@
+{
+  "mesh_id": "gripper_test_fragile",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.359697",
+  "prompt": "Fragile egg-shaped object, delicate thin shell, product photography, white background",
+  "files": {
+    "glb": [
+      "gripper_test_fragile.glb"
+    ],
+    "reference_image": [
+      "gripper_test_fragile_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "pot_cooking",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.324936",
+  "prompt": "Silver stainless steel cooking pot with lid and handles, product photography, white background",
+  "files": {
+    "glb": [
+      "pot_cooking.glb"
+    ],
+    "reference_image": [
+      "pot_cooking_reference.png"
+    ]
+  },
+  "status": "complete"
+}

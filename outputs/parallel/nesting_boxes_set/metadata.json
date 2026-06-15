@@ -1,0 +1,17 @@
+{
+  "mesh_id": "nesting_boxes_set",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.341966",
+  "prompt": "Wooden nesting boxes set, graduated sizes that fit inside each other, product photography, white background",
+  "files": {
+    "glb": [
+      "nesting_boxes_set.glb"
+    ],
+    "reference_image": [
+      "nesting_boxes_set_reference.png"
+    ]
+  },
+  "status": "complete"
+}

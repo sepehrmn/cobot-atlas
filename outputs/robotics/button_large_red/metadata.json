@@ -1,0 +1,18 @@
+{
+  "mesh_id": "button_large_red",
+  "status": "complete",
+  "prompt": "Large red button, sewing button with 4 holes, 3cm diameter, photorealistic, white background",
+  "enhanced_prompt": "Large red button, sewing button with 4 holes, 3cm diameter, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "small_objects",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:20:45.871879",
+  "generation_time_seconds": 21.017446041107178,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "button_large_red_reference.png",
+    "glb": "button_large_red.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

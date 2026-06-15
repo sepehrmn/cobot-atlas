@@ -1,0 +1,17 @@
+{
+  "mesh_id": "heart_pillow",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.461760",
+  "prompt": "Red heart shaped pillow, plush heart cushion, product photography, white background",
+  "files": {
+    "glb": [
+      "heart_pillow.glb"
+    ],
+    "reference_image": [
+      "heart_pillow_reference.png"
+    ]
+  },
+  "status": "complete"
+}

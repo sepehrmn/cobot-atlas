@@ -1,0 +1,17 @@
+{
+  "mesh_id": "ycb_potted_meat",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.464547",
+  "prompt": "Potted meat can, rectangular tin can, product photography, white background",
+  "files": {
+    "glb": [
+      "ycb_potted_meat.glb"
+    ],
+    "reference_image": [
+      "ycb_potted_meat_reference.png"
+    ]
+  },
+  "status": "complete"
+}

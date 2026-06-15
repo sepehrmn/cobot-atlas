@@ -1,0 +1,18 @@
+{
+  "mesh_id": "button_large_green",
+  "status": "complete",
+  "prompt": "Large green button, sewing button, photorealistic, white background",
+  "enhanced_prompt": "Large green button, sewing button, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "small_objects",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:20:47.929254",
+  "generation_time_seconds": 18.11654782295227,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "button_large_green_reference.png",
+    "glb": "button_large_green.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

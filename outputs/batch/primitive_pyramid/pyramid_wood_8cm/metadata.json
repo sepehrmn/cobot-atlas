@@ -1,0 +1,8 @@
+{
+  "id": "pyramid_wood_8cm",
+  "category": "primitive_pyramid",
+  "prompt": "Wooden pyramid, 8cm base, natural wood grain texture, product photography, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T02:47:23.344097"
+}

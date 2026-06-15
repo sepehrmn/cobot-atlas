@@ -1,0 +1,17 @@
+{
+  "mesh_id": "pattern_spiral_cylinder",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.382774",
+  "prompt": "Cylinder with spiral stripe pattern, barber pole style, product photography, white background",
+  "files": {
+    "glb": [
+      "pattern_spiral_cylinder.glb"
+    ],
+    "reference_image": [
+      "pattern_spiral_cylinder_reference.png"
+    ]
+  },
+  "status": "complete"
+}

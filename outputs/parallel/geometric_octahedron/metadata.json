@@ -1,0 +1,17 @@
+{
+  "mesh_id": "geometric_octahedron",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.346104",
+  "prompt": "Octahedron, 8 triangle faces, red plastic geometric shape, product photography, white background",
+  "files": {
+    "glb": [
+      "geometric_octahedron.glb"
+    ],
+    "reference_image": [
+      "geometric_octahedron_reference.png"
+    ]
+  },
+  "status": "complete"
+}

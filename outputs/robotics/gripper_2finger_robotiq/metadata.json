@@ -1,0 +1,18 @@
+{
+  "mesh_id": "gripper_2finger_robotiq",
+  "status": "complete",
+  "prompt": "Robotiq 2F-85 two-finger adaptive gripper, gray industrial robot gripper, photorealistic, white background",
+  "enhanced_prompt": "robotic end effector, mechanical precision, Robotiq 2F-85 two-finger adaptive gripper, gray industrial robot gripper, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "gripper",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:15:26.383844",
+  "generation_time_seconds": 18.27268075942993,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "gripper_2finger_robotiq_reference.png",
+    "glb": "gripper_2finger_robotiq.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

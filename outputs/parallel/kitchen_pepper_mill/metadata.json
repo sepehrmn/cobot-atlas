@@ -1,0 +1,17 @@
+{
+  "mesh_id": "kitchen_pepper_mill",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.350821",
+  "prompt": "Wooden pepper mill grinder, tall pepper grinder, product photography, white background",
+  "files": {
+    "glb": [
+      "kitchen_pepper_mill.glb"
+    ],
+    "reference_image": [
+      "kitchen_pepper_mill_reference.png"
+    ]
+  },
+  "status": "complete"
+}

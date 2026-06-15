@@ -1,0 +1,18 @@
+{
+  "mesh_id": "robot_arm_sawyer",
+  "status": "complete",
+  "prompt": "Sawyer collaborative robot arm by Rethink Robotics, red and black single arm robot, photorealistic, white background",
+  "enhanced_prompt": "industrial design, mechanical precision, Sawyer collaborative robot arm by Rethink Robotics, red and black single arm robot, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "robot_arm",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:15:11.035623",
+  "generation_time_seconds": 20.217733144760132,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "robot_arm_sawyer_reference.png",
+    "glb": "robot_arm_sawyer.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

@@ -1,0 +1,8 @@
+{
+  "id": "robot_arm_sawyer",
+  "category": "robot_arm",
+  "prompt": "Sawyer collaborative robot arm by Rethink Robotics, red and black single arm robot, photorealistic, white background, single isolated object, centered, pure white background, studio lighting, 4K, sharp focus",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis",
+  "timestamp": "2026-01-07T01:50:23.398471"
+}

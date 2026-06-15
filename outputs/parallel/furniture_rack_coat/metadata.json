@@ -1,0 +1,17 @@
+{
+  "mesh_id": "furniture_rack_coat",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.400381",
+  "prompt": "Standing coat rack, metal with hooks, product photography, white background",
+  "files": {
+    "glb": [
+      "furniture_rack_coat.glb"
+    ],
+    "reference_image": [
+      "furniture_rack_coat_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "bathroom_toothbrush",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.330532",
+  "prompt": "Blue plastic toothbrush, standard manual toothbrush, product photography, white background",
+  "files": {
+    "glb": [
+      "bathroom_toothbrush.glb"
+    ],
+    "reference_image": [
+      "bathroom_toothbrush_reference.png"
+    ]
+  },
+  "status": "complete"
+}

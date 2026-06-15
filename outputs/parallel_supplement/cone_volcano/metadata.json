@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cone_volcano",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.456546",
+  "prompt": "Toy volcano cone, brown rocky texture with red lava top, product photography, white background",
+  "files": {
+    "glb": [
+      "cone_volcano.glb"
+    ],
+    "reference_image": [
+      "cone_volcano_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "hanoi_disk_6_purple",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.350693",
+  "prompt": "Purple wooden disk for Tower of Hanoi, largest 8cm diameter with center hole, product photography, white background",
+  "files": {
+    "glb": [
+      "hanoi_disk_6_purple.glb"
+    ],
+    "reference_image": [
+      "hanoi_disk_6_purple_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "number_block_8",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.464237",
+  "prompt": "Wooden number block 8, toy number eight, product photography, white background",
+  "files": {
+    "glb": [
+      "number_block_8.glb"
+    ],
+    "reference_image": [
+      "number_block_8_reference.png"
+    ]
+  },
+  "status": "complete"
+}

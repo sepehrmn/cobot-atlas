@@ -1,0 +1,17 @@
+{
+  "mesh_id": "stairs_block_3step",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.363383",
+  "prompt": "Red plastic stair block, 3 ascending steps, product photography, white background",
+  "files": {
+    "glb": [
+      "stairs_block_3step.glb"
+    ],
+    "reference_image": [
+      "stairs_block_3step_reference.png"
+    ]
+  },
+  "status": "complete"
+}

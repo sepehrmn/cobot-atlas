@@ -1,0 +1,17 @@
+{
+  "mesh_id": "packaging_envelope",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.322999",
+  "prompt": "White envelope, standard mail envelope, product photography, white background",
+  "files": {
+    "glb": [
+      "packaging_envelope.glb"
+    ],
+    "reference_image": [
+      "packaging_envelope_reference.png"
+    ]
+  },
+  "status": "complete"
+}

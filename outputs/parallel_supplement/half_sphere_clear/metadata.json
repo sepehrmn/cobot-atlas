@@ -1,0 +1,17 @@
+{
+  "mesh_id": "half_sphere_clear",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.441122",
+  "prompt": "Clear plastic dome, transparent hemisphere, product photography, white background",
+  "files": {
+    "glb": [
+      "half_sphere_clear.glb"
+    ],
+    "reference_image": [
+      "half_sphere_clear_reference.png"
+    ]
+  },
+  "status": "complete"
+}

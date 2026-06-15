@@ -1,0 +1,17 @@
+{
+  "mesh_id": "figure_astronaut",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.472759",
+  "prompt": "Astronaut figurine, person in space suit, product photography, white background",
+  "files": {
+    "glb": [
+      "figure_astronaut.glb"
+    ],
+    "reference_image": [
+      "figure_astronaut_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "bottle_mustard",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.368588",
+  "prompt": "Yellow plastic mustard squeeze bottle, French's style, product photography, white background",
+  "files": {
+    "glb": [
+      "bottle_mustard.glb"
+    ],
+    "reference_image": [
+      "bottle_mustard_reference.png"
+    ]
+  },
+  "status": "complete"
+}

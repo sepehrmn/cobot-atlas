@@ -1,0 +1,1 @@
+Omnidirectional mobile robot base, robot platform with mecanum wheels, photorealistic, white background

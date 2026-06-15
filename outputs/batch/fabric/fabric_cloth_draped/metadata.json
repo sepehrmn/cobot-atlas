@@ -1,0 +1,8 @@
+{
+  "id": "fabric_cloth_draped",
+  "category": "fabric",
+  "prompt": "Draped fabric cloth, flowing fabric with folds and creases, silk-like material, photorealistic, white background, single isolated object, centered, pure white background, studio lighting, 4K, sharp focus",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis",
+  "timestamp": "2026-01-07T01:54:10.493196"
+}

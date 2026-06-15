@@ -1,0 +1,17 @@
+{
+  "mesh_id": "bin_trash_small",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.358757",
+  "prompt": "Small trash bin, cylindrical plastic wastebasket, product photography, white background",
+  "files": {
+    "glb": [
+      "bin_trash_small.glb"
+    ],
+    "reference_image": [
+      "bin_trash_small_reference.png"
+    ]
+  },
+  "status": "complete"
+}

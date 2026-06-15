@@ -1,0 +1,18 @@
+{
+  "mesh_id": "office_marker_black",
+  "status": "complete",
+  "prompt": "Black permanent marker, Sharpie style marker, photorealistic, white background",
+  "enhanced_prompt": "Black permanent marker, Sharpie style marker, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "office",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:22:57.461985",
+  "generation_time_seconds": 17.76073694229126,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "office_marker_black_reference.png",
+    "glb": "office_marker_black.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

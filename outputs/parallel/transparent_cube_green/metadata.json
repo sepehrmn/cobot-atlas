@@ -1,0 +1,17 @@
+{
+  "mesh_id": "transparent_cube_green",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.319083",
+  "prompt": "Transparent green acrylic cube, see through green, product photography, white background",
+  "files": {
+    "glb": [
+      "transparent_cube_green.glb"
+    ],
+    "reference_image": [
+      "transparent_cube_green_reference.png"
+    ]
+  },
+  "status": "complete"
+}

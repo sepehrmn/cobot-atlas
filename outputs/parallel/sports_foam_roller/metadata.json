@@ -1,0 +1,17 @@
+{
+  "mesh_id": "sports_foam_roller",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.407967",
+  "prompt": "Black foam roller, muscle massage roller, product photography, white background",
+  "files": {
+    "glb": [
+      "sports_foam_roller.glb"
+    ],
+    "reference_image": [
+      "sports_foam_roller_reference.png"
+    ]
+  },
+  "status": "complete"
+}

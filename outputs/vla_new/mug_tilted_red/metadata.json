@@ -1,0 +1,18 @@
+{
+  "mesh_id": "mug_tilted_red",
+  "status": "complete",
+  "prompt": "Red ceramic mug tilted on its side at a 45 degree angle, handle facing up, photorealistic, white background",
+  "enhanced_prompt": "Red ceramic mug tilted on its side at a 45 degree angle, handle facing up, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "pose_variation",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:43:04.955502",
+  "generation_time_seconds": 87.03614473342896,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "mug_tilted_red_reference.png",
+    "glb": "mug_tilted_red.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

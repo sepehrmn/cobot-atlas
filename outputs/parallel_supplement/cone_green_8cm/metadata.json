@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cone_green_8cm",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.475422",
+  "prompt": "Green plastic cone, 6cm base diameter, 8cm tall, pointed top, product photography, white background",
+  "files": {
+    "glb": [
+      "cone_green_8cm.glb"
+    ],
+    "reference_image": [
+      "cone_green_8cm_reference.png"
+    ]
+  },
+  "status": "complete"
+}

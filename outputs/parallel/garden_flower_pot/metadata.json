@@ -1,0 +1,17 @@
+{
+  "mesh_id": "garden_flower_pot",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.399591",
+  "prompt": "Flowering plant in pot, colorful flowers in pot, product photography, white background",
+  "files": {
+    "glb": [
+      "garden_flower_pot.glb"
+    ],
+    "reference_image": [
+      "garden_flower_pot_reference.png"
+    ]
+  },
+  "status": "complete"
+}

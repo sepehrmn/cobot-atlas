@@ -1,0 +1,9 @@
+{
+  "id": "shape_sorter_heart",
+  "category": "shape_sorter",
+  "prompt": "Heart shape for shape sorter, pink heart plastic piece, photorealistic, white background, single isolated object, centered, pure white background, professional studio lighting, ultra high resolution 8K, extremely sharp focus, photorealistic, detailed texture, clean edges",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "mesh_model_key": "trellis2",
+  "timestamp": "2026-01-07T02:20:26.005430"
+}

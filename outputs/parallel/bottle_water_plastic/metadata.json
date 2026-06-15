@@ -1,0 +1,17 @@
+{
+  "mesh_id": "bottle_water_plastic",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.327075",
+  "prompt": "Clear plastic water bottle with blue cap, 500ml, product photography, white background",
+  "files": {
+    "glb": [
+      "bottle_water_plastic.glb"
+    ],
+    "reference_image": [
+      "bottle_water_plastic_reference.png"
+    ]
+  },
+  "status": "complete"
+}

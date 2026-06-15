@@ -1,0 +1,18 @@
+{
+  "mesh_id": "container_box_closed",
+  "status": "complete",
+  "prompt": "Closed cardboard box, sealed brown shipping box, photorealistic, white background",
+  "enhanced_prompt": "Closed cardboard box, sealed brown shipping box, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "container",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:21:58.320919",
+  "generation_time_seconds": 24.70386505126953,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "container_box_closed_reference.png",
+    "glb": "container_box_closed.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

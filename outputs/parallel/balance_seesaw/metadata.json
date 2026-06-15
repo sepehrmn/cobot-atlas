@@ -1,0 +1,17 @@
+{
+  "mesh_id": "balance_seesaw",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.356399",
+  "prompt": "Seesaw toy, teeter totter balance toy, product photography, white background",
+  "files": {
+    "glb": [
+      "balance_seesaw.glb"
+    ],
+    "reference_image": [
+      "balance_seesaw_reference.png"
+    ]
+  },
+  "status": "complete"
+}

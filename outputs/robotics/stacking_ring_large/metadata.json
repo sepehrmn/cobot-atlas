@@ -1,0 +1,18 @@
+{
+  "mesh_id": "stacking_ring_large",
+  "status": "complete",
+  "prompt": "Large red stacking ring, plastic donut ring for ring stacker toy, photorealistic, white background",
+  "enhanced_prompt": "Large red stacking ring, plastic donut ring for ring stacker toy, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "stacking",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:19:40.334854",
+  "generation_time_seconds": 22.854862928390503,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "stacking_ring_large_reference.png",
+    "glb": "stacking_ring_large.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

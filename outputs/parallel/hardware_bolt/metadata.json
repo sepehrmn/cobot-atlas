@@ -1,0 +1,17 @@
+{
+  "mesh_id": "hardware_bolt",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.420248",
+  "prompt": "Metal hex bolt, threaded bolt with hex head, product photography, white background",
+  "files": {
+    "glb": [
+      "hardware_bolt.glb"
+    ],
+    "reference_image": [
+      "hardware_bolt_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,18 @@
+{
+  "mesh_id": "calibration_checkerboard_6x9",
+  "status": "complete",
+  "prompt": "Camera calibration checkerboard pattern, 6x9 black and white squares grid, flat board, photorealistic, white background",
+  "enhanced_prompt": "Camera calibration checkerboard pattern, 6x9 black and white squares grid, flat board, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "calibration",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:26:15.480576",
+  "generation_time_seconds": 72.9335560798645,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "calibration_checkerboard_6x9_reference.png",
+    "glb": "calibration_checkerboard_6x9.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

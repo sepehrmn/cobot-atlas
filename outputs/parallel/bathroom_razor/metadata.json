@@ -1,0 +1,17 @@
+{
+  "mesh_id": "bathroom_razor",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.420093",
+  "prompt": "Disposable razor, plastic handle razor, product photography, white background",
+  "files": {
+    "glb": [
+      "bathroom_razor.glb"
+    ],
+    "reference_image": [
+      "bathroom_razor_reference.png"
+    ]
+  },
+  "status": "complete"
+}

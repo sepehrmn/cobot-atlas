@@ -1,0 +1,17 @@
+{
+  "mesh_id": "hollow_box_open",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.380912",
+  "prompt": "Open hollow box, empty cube with one open face, product photography, white background",
+  "files": {
+    "glb": [
+      "hollow_box_open.glb"
+    ],
+    "reference_image": [
+      "hollow_box_open_reference.png"
+    ]
+  },
+  "status": "complete"
+}

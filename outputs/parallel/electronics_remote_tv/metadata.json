@@ -1,0 +1,17 @@
+{
+  "mesh_id": "electronics_remote_tv",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.376225",
+  "prompt": "Black TV remote control with buttons, standard remote, product photography, white background",
+  "files": {
+    "glb": [
+      "electronics_remote_tv.glb"
+    ],
+    "reference_image": [
+      "electronics_remote_tv_reference.png"
+    ]
+  },
+  "status": "complete"
+}

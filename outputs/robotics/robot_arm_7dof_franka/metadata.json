@@ -1,0 +1,18 @@
+{
+  "mesh_id": "robot_arm_7dof_franka",
+  "status": "complete",
+  "prompt": "Franka Emika Panda 7-DOF collaborative robot arm, white and light gray, smooth modern design, articulated joints, photorealistic, white background",
+  "enhanced_prompt": "industrial design, mechanical precision, Franka Emika Panda 7-DOF collaborative robot arm, white and light gray, smooth modern design, articulated joints, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "robot_arm",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:14:04.619084",
+  "generation_time_seconds": 24.399695873260498,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "robot_arm_7dof_franka_reference.png",
+    "glb": "robot_arm_7dof_franka.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

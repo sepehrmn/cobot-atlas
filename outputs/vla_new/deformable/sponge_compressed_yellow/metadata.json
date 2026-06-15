@@ -1,0 +1,8 @@
+{
+  "id": "sponge_compressed_yellow",
+  "category": "deformable",
+  "prompt": "Yellow kitchen sponge squeezed in the middle, compressed shape, porous texture, photorealistic, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T04:27:02.175407"
+}

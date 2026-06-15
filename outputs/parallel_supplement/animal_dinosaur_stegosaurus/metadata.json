@@ -1,0 +1,17 @@
+{
+  "mesh_id": "animal_dinosaur_stegosaurus",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.473168",
+  "prompt": "Toy stegosaurus dinosaur, plated dinosaur, product photography, white background",
+  "files": {
+    "glb": [
+      "animal_dinosaur_stegosaurus.glb"
+    ],
+    "reference_image": [
+      "animal_dinosaur_stegosaurus_reference.png"
+    ]
+  },
+  "status": "complete"
+}

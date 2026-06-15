@@ -1,0 +1,17 @@
+{
+  "mesh_id": "star_3d_red",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.475741",
+  "prompt": "3D red star, puffy star shape, product photography, white background",
+  "files": {
+    "glb": [
+      "star_3d_red.glb"
+    ],
+    "reference_image": [
+      "star_3d_red_reference.png"
+    ]
+  },
+  "status": "complete"
+}

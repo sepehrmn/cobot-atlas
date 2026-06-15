@@ -1,0 +1,17 @@
+{
+  "mesh_id": "deformable_balloon",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.373750",
+  "prompt": "Inflated red balloon, round latex balloon, product photography, white background",
+  "files": {
+    "glb": [
+      "deformable_balloon.glb"
+    ],
+    "reference_image": [
+      "deformable_balloon_reference.png"
+    ]
+  },
+  "status": "complete"
+}

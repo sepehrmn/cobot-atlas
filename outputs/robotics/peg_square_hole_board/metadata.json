@@ -1,0 +1,18 @@
+{
+  "mesh_id": "peg_square_hole_board",
+  "status": "complete",
+  "prompt": "Square hole peg board, wooden board with square holes, shape sorting, photorealistic, white background",
+  "enhanced_prompt": "Square hole peg board, wooden board with square holes, shape sorting, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "peg_task",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:18:57.307688",
+  "generation_time_seconds": 61.08733105659485,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "peg_square_hole_board_reference.png",
+    "glb": "peg_square_hole_board.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

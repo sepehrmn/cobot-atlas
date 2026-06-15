@@ -1,0 +1,18 @@
+{
+  "mesh_id": "bowl_sorting_blue",
+  "status": "complete",
+  "prompt": "Blue sorting bowl, small colored bowl, photorealistic, white background",
+  "enhanced_prompt": "Blue sorting bowl, small colored bowl, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "sorting",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:20:46.215952",
+  "generation_time_seconds": 28.02361798286438,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "bowl_sorting_blue_reference.png",
+    "glb": "bowl_sorting_blue.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

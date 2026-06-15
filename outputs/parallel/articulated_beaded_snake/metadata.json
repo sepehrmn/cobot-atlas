@@ -1,0 +1,17 @@
+{
+  "mesh_id": "articulated_beaded_snake",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.330232",
+  "prompt": "Wooden bead snake toy, connected wood segments, product photography, white background",
+  "files": {
+    "glb": [
+      "articulated_beaded_snake.glb"
+    ],
+    "reference_image": [
+      "articulated_beaded_snake_reference.png"
+    ]
+  },
+  "status": "complete"
+}

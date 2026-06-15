@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cube_red_10cm",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.379619",
+  "prompt": "Large red plastic cube, 10cm sides, clean edges, product photography, white background",
+  "files": {
+    "glb": [
+      "cube_red_10cm.glb"
+    ],
+    "reference_image": [
+      "cube_red_10cm_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,18 @@
+{
+  "mesh_id": "ycb_021_bleach_cleanser",
+  "status": "complete",
+  "prompt": "Bleach cleanser bottle, YCB benchmark object, white cleaning bottle, photorealistic, white background",
+  "enhanced_prompt": "YCB benchmark style, realistic object, Bleach cleanser bottle, YCB benchmark object, white cleaning bottle, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "ycb",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:29:53.728481",
+  "generation_time_seconds": 38.905203342437744,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "ycb_021_bleach_cleanser_reference.png",
+    "glb": "ycb_021_bleach_cleanser.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

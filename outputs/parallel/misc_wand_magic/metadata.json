@@ -1,0 +1,17 @@
+{
+  "mesh_id": "misc_wand_magic",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.349535",
+  "prompt": "Magic wand toy, black and white wand, product photography, white background",
+  "files": {
+    "glb": [
+      "misc_wand_magic.glb"
+    ],
+    "reference_image": [
+      "misc_wand_magic_reference.png"
+    ]
+  },
+  "status": "complete"
+}

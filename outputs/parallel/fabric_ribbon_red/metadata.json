@@ -1,0 +1,17 @@
+{
+  "mesh_id": "fabric_ribbon_red",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.417131",
+  "prompt": "Red satin ribbon, decorative ribbon strip, product photography, white background",
+  "files": {
+    "glb": [
+      "fabric_ribbon_red.glb"
+    ],
+    "reference_image": [
+      "fabric_ribbon_red_reference.png"
+    ]
+  },
+  "status": "complete"
+}

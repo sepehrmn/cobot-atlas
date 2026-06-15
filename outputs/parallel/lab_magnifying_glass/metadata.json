@@ -1,0 +1,17 @@
+{
+  "mesh_id": "lab_magnifying_glass",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.363520",
+  "prompt": "Magnifying glass with handle, glass lens magnifier, product photography, white background",
+  "files": {
+    "glb": [
+      "lab_magnifying_glass.glb"
+    ],
+    "reference_image": [
+      "lab_magnifying_glass_reference.png"
+    ]
+  },
+  "status": "complete"
+}

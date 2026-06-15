@@ -1,0 +1,17 @@
+{
+  "mesh_id": "tool_wrench_adjustable",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.351870",
+  "prompt": "Adjustable wrench, chrome metal with black handle, crescent style, product photography, white background",
+  "files": {
+    "glb": [
+      "tool_wrench_adjustable.glb"
+    ],
+    "reference_image": [
+      "tool_wrench_adjustable_reference.png"
+    ]
+  },
+  "status": "complete"
+}

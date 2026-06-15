@@ -1,0 +1,17 @@
+{
+  "mesh_id": "animal_pig",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.464707",
+  "prompt": "Toy pig figurine, pink plastic pig, product photography, white background",
+  "files": {
+    "glb": [
+      "animal_pig.glb"
+    ],
+    "reference_image": [
+      "animal_pig_reference.png"
+    ]
+  },
+  "status": "complete"
+}

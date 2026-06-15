@@ -1,0 +1,8 @@
+{
+  "id": "fastener_rivet_black_oxide_long",
+  "category": "industrial_fasteners",
+  "prompt": "black oxide rivet, long, industrial standard, isolated, photorealistic, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T04:52:20.039138"
+}

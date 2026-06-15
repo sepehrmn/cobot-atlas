@@ -1,0 +1,17 @@
+{
+  "mesh_id": "magnetic_rod",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.411146",
+  "prompt": "Magnetic rod, metal rod that is magnetic, product photography, white background",
+  "files": {
+    "glb": [
+      "magnetic_rod.glb"
+    ],
+    "reference_image": [
+      "magnetic_rod_reference.png"
+    ]
+  },
+  "status": "complete"
+}

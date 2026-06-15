@@ -1,0 +1,17 @@
+{
+  "mesh_id": "bottle_ketchup",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.367550",
+  "prompt": "Red plastic ketchup squeeze bottle, Heinz style, product photography, white background",
+  "files": {
+    "glb": [
+      "bottle_ketchup.glb"
+    ],
+    "reference_image": [
+      "bottle_ketchup_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cone_orange_traffic",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.350161",
+  "prompt": "Orange traffic cone, small desktop size, 10cm tall, product photography, white background",
+  "files": {
+    "glb": [
+      "cone_orange_traffic.glb"
+    ],
+    "reference_image": [
+      "cone_orange_traffic_reference.png"
+    ]
+  },
+  "status": "complete"
+}
