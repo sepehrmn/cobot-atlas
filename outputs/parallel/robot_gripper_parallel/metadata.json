@@ -1,0 +1,17 @@
+{
+  "mesh_id": "robot_gripper_parallel",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.414892",
+  "prompt": "Robot parallel jaw gripper, two finger industrial gripper, product photography, white background",
+  "files": {
+    "glb": [
+      "robot_gripper_parallel.glb"
+    ],
+    "reference_image": [
+      "robot_gripper_parallel_reference.png"
+    ]
+  },
+  "status": "complete"
+}

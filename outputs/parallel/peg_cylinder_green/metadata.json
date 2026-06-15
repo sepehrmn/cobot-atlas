@@ -1,0 +1,17 @@
+{
+  "mesh_id": "peg_cylinder_green",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.338310",
+  "prompt": "Green wooden peg, small cylindrical peg, product photography, white background",
+  "files": {
+    "glb": [
+      "peg_cylinder_green.glb"
+    ],
+    "reference_image": [
+      "peg_cylinder_green_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "table_round_cafe",
+  "category": "environment",
+  "prompt": "Round cafe table, white top with single central metal pedestal leg, photorealistic, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T04:24:59.500007"
+}

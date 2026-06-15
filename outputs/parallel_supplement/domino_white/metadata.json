@@ -1,0 +1,17 @@
+{
+  "mesh_id": "domino_white",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.476222",
+  "prompt": "White domino tile, rectangular with black dots, product photography, white background",
+  "files": {
+    "glb": [
+      "domino_white.glb"
+    ],
+    "reference_image": [
+      "domino_white_reference.png"
+    ]
+  },
+  "status": "complete"
+}

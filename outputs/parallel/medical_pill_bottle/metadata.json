@@ -1,0 +1,17 @@
+{
+  "mesh_id": "medical_pill_bottle",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.377099",
+  "prompt": "Orange prescription pill bottle, medicine container, product photography, white background",
+  "files": {
+    "glb": [
+      "medical_pill_bottle.glb"
+    ],
+    "reference_image": [
+      "medical_pill_bottle_reference.png"
+    ]
+  },
+  "status": "complete"
+}

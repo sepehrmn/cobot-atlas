@@ -1,0 +1,17 @@
+{
+  "mesh_id": "occluder_box_large",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.369369",
+  "prompt": "Large open box for hiding objects, cardboard hiding box, product photography, white background",
+  "files": {
+    "glb": [
+      "occluder_box_large.glb"
+    ],
+    "reference_image": [
+      "occluder_box_large_reference.png"
+    ]
+  },
+  "status": "complete"
+}

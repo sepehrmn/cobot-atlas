@@ -1,0 +1,8 @@
+{
+  "id": "robot_arm_stanford",
+  "category": "robot_arm",
+  "prompt": "Stanford arm style robot, classic 6-DOF educational robot arm design, photorealistic, white background, single isolated object, centered, pure white background, studio lighting, 4K, sharp focus",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis",
+  "timestamp": "2026-01-07T01:49:40.437708"
+}

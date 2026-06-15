@@ -1,0 +1,17 @@
+{
+  "mesh_id": "torus_tire",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.470727",
+  "prompt": "Black rubber tire torus, car tire shape, product photography, white background",
+  "files": {
+    "glb": [
+      "torus_tire.glb"
+    ],
+    "reference_image": [
+      "torus_tire_reference.png"
+    ]
+  },
+  "status": "complete"
+}

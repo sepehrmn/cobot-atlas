@@ -1,0 +1,17 @@
+{
+  "mesh_id": "wedge_red",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.465856",
+  "prompt": "Red plastic wedge, triangular ramp shape, product photography, white background",
+  "files": {
+    "glb": [
+      "wedge_red.glb"
+    ],
+    "reference_image": [
+      "wedge_red_reference.png"
+    ]
+  },
+  "status": "complete"
+}

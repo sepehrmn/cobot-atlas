@@ -1,0 +1,1 @@
+ArUco marker board, grid of ArUco markers for camera calibration, photorealistic, white background

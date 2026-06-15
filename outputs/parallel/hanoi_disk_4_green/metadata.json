@@ -1,0 +1,17 @@
+{
+  "mesh_id": "hanoi_disk_4_green",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.383516",
+  "prompt": "Green wooden disk for Tower of Hanoi, 6cm diameter with center hole, product photography, white background",
+  "files": {
+    "glb": [
+      "hanoi_disk_4_green.glb"
+    ],
+    "reference_image": [
+      "hanoi_disk_4_green_reference.png"
+    ]
+  },
+  "status": "complete"
+}

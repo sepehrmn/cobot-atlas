@@ -1,0 +1,18 @@
+{
+  "mesh_id": "table_wood_workshop",
+  "status": "complete",
+  "prompt": "Wooden workshop table, sturdy construction, natural wood grain, industrial look, photorealistic, white background",
+  "enhanced_prompt": "Wooden workshop table, sturdy construction, natural wood grain, industrial look, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "environment",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:43:33.129754",
+  "generation_time_seconds": 115.20971989631653,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "table_wood_workshop_reference.png",
+    "glb": "table_wood_workshop.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

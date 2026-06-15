@@ -1,0 +1,17 @@
+{
+  "mesh_id": "vehicle_ship_cargo",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.466662",
+  "prompt": "Toy cargo ship, container ship model, product photography, white background",
+  "files": {
+    "glb": [
+      "vehicle_ship_cargo.glb"
+    ],
+    "reference_image": [
+      "vehicle_ship_cargo_reference.png"
+    ]
+  },
+  "status": "complete"
+}

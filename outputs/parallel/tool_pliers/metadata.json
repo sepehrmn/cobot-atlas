@@ -1,0 +1,17 @@
+{
+  "mesh_id": "tool_pliers",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.394201",
+  "prompt": "Standard pliers with red rubber handles, metal jaws, product photography, white background",
+  "files": {
+    "glb": [
+      "tool_pliers.glb"
+    ],
+    "reference_image": [
+      "tool_pliers_reference.png"
+    ]
+  },
+  "status": "complete"
+}

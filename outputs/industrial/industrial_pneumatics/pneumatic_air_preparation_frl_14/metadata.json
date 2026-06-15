@@ -1,0 +1,8 @@
+{
+  "id": "pneumatic_air_preparation_frl_14",
+  "category": "industrial_pneumatics",
+  "prompt": "Industrial pneumatic component, air preparation frl, variation 14, metal and blue plastic, studio lighting, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T04:52:07.770472"
+}

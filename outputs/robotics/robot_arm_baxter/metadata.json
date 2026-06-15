@@ -1,0 +1,18 @@
+{
+  "mesh_id": "robot_arm_baxter",
+  "status": "complete",
+  "prompt": "Baxter robot dual arm torso, red dual-arm collaborative robot with screen face, two 7-DOF arms, photorealistic, white background",
+  "enhanced_prompt": "industrial design, mechanical precision, Baxter robot dual arm torso, red dual-arm collaborative robot with screen face, two 7-DOF arms, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "robot_arm",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:15:19.119209",
+  "generation_time_seconds": 25.780176877975464,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "robot_arm_baxter_reference.png",
+    "glb": "robot_arm_baxter.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cylinder_battery_d",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.440635",
+  "prompt": "D size battery, large cylindrical battery, product photography, white background",
+  "files": {
+    "glb": [
+      "cylinder_battery_d.glb"
+    ],
+    "reference_image": [
+      "cylinder_battery_d_reference.png"
+    ]
+  },
+  "status": "complete"
+}

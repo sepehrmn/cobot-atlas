@@ -1,0 +1,17 @@
+{
+  "mesh_id": "kitchen_salt_shaker",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.380347",
+  "prompt": "Glass salt shaker with metal top, table salt dispenser, product photography, white background",
+  "files": {
+    "glb": [
+      "kitchen_salt_shaker.glb"
+    ],
+    "reference_image": [
+      "kitchen_salt_shaker_reference.png"
+    ]
+  },
+  "status": "complete"
+}

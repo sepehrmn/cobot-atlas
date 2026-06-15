@@ -1,0 +1,17 @@
+{
+  "mesh_id": "bathroom_shampoo",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.384209",
+  "prompt": "Shampoo bottle, white plastic bottle, product photography, white background",
+  "files": {
+    "glb": [
+      "bathroom_shampoo.glb"
+    ],
+    "reference_image": [
+      "bathroom_shampoo_reference.png"
+    ]
+  },
+  "status": "complete"
+}

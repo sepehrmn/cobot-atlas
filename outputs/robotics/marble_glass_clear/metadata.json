@@ -1,0 +1,18 @@
+{
+  "mesh_id": "marble_glass_clear",
+  "status": "complete",
+  "prompt": "Clear glass marble, transparent marble with colorful swirl inside, photorealistic, white background",
+  "enhanced_prompt": "Clear glass marble, transparent marble with colorful swirl inside, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "small_objects",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:21:28.725120",
+  "generation_time_seconds": 25.6594078540802,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "marble_glass_clear_reference.png",
+    "glb": "marble_glass_clear.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

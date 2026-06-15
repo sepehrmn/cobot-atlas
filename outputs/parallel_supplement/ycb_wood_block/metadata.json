@@ -1,0 +1,17 @@
+{
+  "mesh_id": "ycb_wood_block",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.437423",
+  "prompt": "Wooden block, rectangular wood piece, product photography, white background",
+  "files": {
+    "glb": [
+      "ycb_wood_block.glb"
+    ],
+    "reference_image": [
+      "ycb_wood_block_reference.png"
+    ]
+  },
+  "status": "complete"
+}

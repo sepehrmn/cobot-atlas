@@ -1,0 +1,17 @@
+{
+  "mesh_id": "fabric_hat_baseball",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.341824",
+  "prompt": "Red baseball cap, sports hat, product photography, white background",
+  "files": {
+    "glb": [
+      "fabric_hat_baseball.glb"
+    ],
+    "reference_image": [
+      "fabric_hat_baseball_reference.png"
+    ]
+  },
+  "status": "complete"
+}

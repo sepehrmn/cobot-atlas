@@ -1,0 +1,17 @@
+{
+  "mesh_id": "office_pencil_mechanical",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.416253",
+  "prompt": "Mechanical pencil, silver and black, 0.5mm, product photography, white background",
+  "files": {
+    "glb": [
+      "office_pencil_mechanical.glb"
+    ],
+    "reference_image": [
+      "office_pencil_mechanical_reference.png"
+    ]
+  },
+  "status": "complete"
+}

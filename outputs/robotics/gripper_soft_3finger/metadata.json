@@ -1,0 +1,18 @@
+{
+  "mesh_id": "gripper_soft_3finger",
+  "status": "complete",
+  "prompt": "Soft 3-finger gripper, flexible silicone fingers, gentle gripping, photorealistic, white background",
+  "enhanced_prompt": "robotic end effector, mechanical precision, Soft 3-finger gripper, flexible silicone fingers, gentle gripping, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "gripper",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:15:40.716710",
+  "generation_time_seconds": 21.290849208831787,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "gripper_soft_3finger_reference.png",
+    "glb": "gripper_soft_3finger.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

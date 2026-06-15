@@ -1,0 +1,17 @@
+{
+  "mesh_id": "art_glue_stick",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.379374",
+  "prompt": "Glue stick, craft adhesive, product photography, white background",
+  "files": {
+    "glb": [
+      "art_glue_stick.glb"
+    ],
+    "reference_image": [
+      "art_glue_stick_reference.png"
+    ]
+  },
+  "status": "complete"
+}

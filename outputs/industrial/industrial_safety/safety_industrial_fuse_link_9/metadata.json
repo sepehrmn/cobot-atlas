@@ -1,0 +1,8 @@
+{
+  "id": "safety_industrial_fuse_link_9",
+  "category": "industrial_safety",
+  "prompt": "Industrial safety equipment, industrial fuse link, variation 9, bright safety colors, red/yellow, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T04:51:51.916095"
+}

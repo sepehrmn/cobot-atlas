@@ -1,0 +1,146 @@
+{
+  "version": "1.0",
+  "description": "Additional VLA Meshes - Poses, Environments, Deformables, Articulated, & Scenarios",
+  "meshes": [
+    {
+      "id": "mug_upside_down_blue",
+      "category": "pose_variation",
+      "prompt": "Blue ceramic mug positioned upside down, resting on its rim, handle visible, photorealistic, white background"
+    },
+    {
+      "id": "mug_tilted_red",
+      "category": "pose_variation",
+      "prompt": "Red ceramic mug tilted on its side at a 45 degree angle, handle facing up, photorealistic, white background"
+    },
+    {
+      "id": "bowl_inverted_metal",
+      "category": "pose_variation",
+      "prompt": "Stainless steel mixing bowl inverted, upside down position, photorealistic, white background"
+    },
+    {
+      "id": "bottle_lying_flat_water",
+      "category": "pose_variation",
+      "prompt": "Plastic water bottle lying flat on its side, clear plastic with blue cap, photorealistic, white background"
+    },
+    {
+      "id": "table_lab_white",
+      "category": "environment",
+      "prompt": "White laboratory table, clean surface, sturdy metal legs, simple rectangular design, photorealistic, white background"
+    },
+    {
+      "id": "table_wood_workshop",
+      "category": "environment",
+      "prompt": "Wooden workshop table, sturdy construction, natural wood grain, industrial look, photorealistic, white background"
+    },
+    {
+      "id": "workbench_industrial",
+      "category": "environment",
+      "prompt": "Industrial metal workbench, grey steel construction, heavy duty, photorealistic, white background"
+    },
+    {
+      "id": "table_round_cafe",
+      "category": "environment",
+      "prompt": "Round cafe table, white top with single central metal pedestal leg, photorealistic, white background"
+    },
+    {
+      "id": "rope_coiled_blue",
+      "category": "deformable",
+      "prompt": "Blue climbing rope coiled neatly on the floor, circular pattern, texture of braided nylon, photorealistic, white background"
+    },
+    {
+      "id": "rope_pile_red",
+      "category": "deformable",
+      "prompt": "Red rope in a messy pile, tangled arrangement, braided texture, photorealistic, white background"
+    },
+    {
+      "id": "cloth_folded_blue",
+      "category": "deformable",
+      "prompt": "Blue cotton towel folded neatly into a square stack, soft fabric texture, photorealistic, white background"
+    },
+    {
+      "id": "cloth_crumpled_white",
+      "category": "deformable",
+      "prompt": "White fabric cloth crumpled into a ball, wrinkled texture, messy arrangement, photorealistic, white background"
+    },
+    {
+      "id": "sponge_compressed_yellow",
+      "category": "deformable",
+      "prompt": "Yellow kitchen sponge squeezed in the middle, compressed shape, porous texture, photorealistic, white background"
+    },
+    {
+      "id": "drawer_unit_closed_wood",
+      "category": "articulated",
+      "prompt": "Small wooden drawer unit with 3 drawers, all drawers fully closed, simple furniture, photorealistic, white background"
+    },
+    {
+      "id": "drawer_unit_open_top",
+      "category": "articulated",
+      "prompt": "Small wooden drawer unit, top drawer pulled open halfway, other drawers closed, photorealistic, white background"
+    },
+    {
+      "id": "cabinet_2door_closed_white",
+      "category": "articulated",
+      "prompt": "White storage cabinet with 2 doors, doors closed, simple handles, photorealistic, white background"
+    },
+    {
+      "id": "cabinet_2door_open_left",
+      "category": "articulated",
+      "prompt": "White storage cabinet, left door swung open 90 degrees, right door closed, interior shelves visible, photorealistic, white background"
+    },
+    {
+      "id": "laptop_closed_silver",
+      "category": "articulated",
+      "prompt": "Silver laptop computer closed shut, sleek aluminum design, photorealistic, white background"
+    },
+    {
+      "id": "laptop_open_90deg",
+      "category": "articulated",
+      "prompt": "Silver laptop computer open at 90 degree angle, screen and keyboard visible, photorealistic, white background"
+    },
+    {
+      "id": "hammer_striking_pose",
+      "category": "tool_use",
+      "prompt": "Claw hammer positioned vertically as if about to strike, head at top, wooden handle, photorealistic, white background"
+    },
+    {
+      "id": "screwdriver_vertical_phillips",
+      "category": "tool_use",
+      "prompt": "Phillips head screwdriver standing vertically, tip pointing down, orange and black handle, photorealistic, white background"
+    },
+    {
+      "id": "wrench_horizontal_adjustable",
+      "category": "tool_use",
+      "prompt": "Adjustable wrench lying flat horizontally, chrome finish, jaw slightly open, photorealistic, white background"
+    },
+    {
+      "id": "knife_chef_vertical",
+      "category": "tool_use",
+      "prompt": "Chef's knife positioned vertically blade down, stainless steel blade, black handle, photorealistic, white background"
+    },
+    {
+      "id": "plate_with_apple_red",
+      "category": "multi_object",
+      "prompt": "White ceramic dinner plate with a fresh red apple sitting in the center, photorealistic, white background"
+    },
+    {
+      "id": "bowl_with_spoon_cereal",
+      "category": "multi_object",
+      "prompt": "White cereal bowl with a metal spoon resting inside, handle sticking out, photorealistic, white background"
+    },
+    {
+      "id": "cup_on_saucer_coffee",
+      "category": "multi_object",
+      "prompt": "White coffee cup sitting on a matching white saucer, classic design, photorealistic, white background"
+    },
+    {
+      "id": "cutting_board_with_lemon",
+      "category": "multi_object",
+      "prompt": "Wooden cutting board with a whole yellow lemon sitting on it, photorealistic, white background"
+    },
+    {
+      "id": "tray_with_glasses",
+      "category": "multi_object",
+      "prompt": "Rectangular serving tray with two clear glass tumblers on it, photorealistic, white background"
+    }
+  ]
+}

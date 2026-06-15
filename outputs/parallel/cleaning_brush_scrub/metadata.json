@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cleaning_brush_scrub",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.326909",
+  "prompt": "Scrub brush with handle, cleaning brush, product photography, white background",
+  "files": {
+    "glb": [
+      "cleaning_brush_scrub.glb"
+    ],
+    "reference_image": [
+      "cleaning_brush_scrub_reference.png"
+    ]
+  },
+  "status": "complete"
+}

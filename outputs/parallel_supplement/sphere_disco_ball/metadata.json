@@ -1,0 +1,17 @@
+{
+  "mesh_id": "sphere_disco_ball",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.448162",
+  "prompt": "Disco mirror ball, reflective mosaic tiles, product photography, white background",
+  "files": {
+    "glb": [
+      "sphere_disco_ball.glb"
+    ],
+    "reference_image": [
+      "sphere_disco_ball_reference.png"
+    ]
+  },
+  "status": "complete"
+}

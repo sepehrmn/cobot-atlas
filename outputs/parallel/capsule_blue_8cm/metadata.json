@@ -1,0 +1,17 @@
+{
+  "mesh_id": "capsule_blue_8cm",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.363933",
+  "prompt": "Blue plastic capsule pill shape, 3cm diameter, 8cm long, rounded ends, product photography, white background",
+  "files": {
+    "glb": [
+      "capsule_blue_8cm.glb"
+    ],
+    "reference_image": [
+      "capsule_blue_8cm_reference.png"
+    ]
+  },
+  "status": "complete"
+}

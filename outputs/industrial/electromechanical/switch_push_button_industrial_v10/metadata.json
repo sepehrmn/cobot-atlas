@@ -1,0 +1,8 @@
+{
+  "id": "switch_push_button_industrial_v10",
+  "category": "electromechanical",
+  "prompt": "push button industrial, electrical component, detailed macro, metal and plastic, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T04:51:41.467849"
+}

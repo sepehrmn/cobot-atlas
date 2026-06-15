@@ -1,0 +1,4712 @@
+{
+  "version": "2.0",
+  "description": "Combined PID-VLA Mesh Library - ~1000 objects for robotics studies",
+  "notes": "All meshes exported as GLB with Z-up, meters as units. Organized by category for VLA experiments.",
+  "meshes": [
+    {
+      "id": "cube_red_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid red matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_blue_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid blue matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_green_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid green matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_yellow_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid yellow matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_orange_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid orange matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_purple_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid purple matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_pink_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid pink matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_white_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid white matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_black_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid black matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_gray_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid gray matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_red_3cm",
+      "category": "primitive_cube",
+      "prompt": "Small red plastic cube, 3cm sides, toy block style, product photography, white background"
+    },
+    {
+      "id": "cube_blue_3cm",
+      "category": "primitive_cube",
+      "prompt": "Small blue plastic cube, 3cm sides, toy block style, product photography, white background"
+    },
+    {
+      "id": "cube_red_10cm",
+      "category": "primitive_cube",
+      "prompt": "Large red plastic cube, 10cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_blue_10cm",
+      "category": "primitive_cube",
+      "prompt": "Large blue plastic cube, 10cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_wood_5cm",
+      "category": "primitive_cube",
+      "prompt": "Natural wood cube, 5cm sides, oak grain texture, product photography, white background"
+    },
+    {
+      "id": "cube_wood_3cm",
+      "category": "primitive_cube",
+      "prompt": "Small wooden cube, 3cm sides, light wood grain, product photography, white background"
+    },
+    {
+      "id": "cube_metal_5cm",
+      "category": "primitive_cube",
+      "prompt": "Polished metal cube, 5cm sides, chrome finish, reflective, product photography, white background"
+    },
+    {
+      "id": "cube_glass_5cm",
+      "category": "primitive_cube",
+      "prompt": "Transparent glass cube, 5cm sides, clear with visible edges, product photography, white background"
+    },
+    {
+      "id": "cube_rubber_5cm",
+      "category": "primitive_cube",
+      "prompt": "Red rubber cube, 5cm sides, soft matte texture, product photography, white background"
+    },
+    {
+      "id": "cube_foam_5cm",
+      "category": "primitive_cube",
+      "prompt": "Yellow foam cube, 5cm sides, soft spongy texture, product photography, white background"
+    },
+    {
+      "id": "sphere_red_4cm",
+      "category": "primitive_sphere",
+      "prompt": "Solid red plastic sphere, 8cm diameter, matte finish, product photography, white background"
+    },
+    {
+      "id": "sphere_blue_4cm",
+      "category": "primitive_sphere",
+      "prompt": "Solid blue plastic sphere, 8cm diameter, matte finish, product photography, white background"
+    },
+    {
+      "id": "sphere_green_4cm",
+      "category": "primitive_sphere",
+      "prompt": "Solid green plastic sphere, 8cm diameter, matte finish, product photography, white background"
+    },
+    {
+      "id": "sphere_yellow_4cm",
+      "category": "primitive_sphere",
+      "prompt": "Solid yellow plastic sphere, 8cm diameter, matte finish, product photography, white background"
+    },
+    {
+      "id": "sphere_orange_4cm",
+      "category": "primitive_sphere",
+      "prompt": "Solid orange plastic sphere, 8cm diameter, matte finish, product photography, white background"
+    },
+    {
+      "id": "sphere_white_4cm",
+      "category": "primitive_sphere",
+      "prompt": "Solid white plastic sphere, 8cm diameter, matte finish, product photography, white background"
+    },
+    {
+      "id": "sphere_wood_4cm",
+      "category": "primitive_sphere",
+      "prompt": "Wooden sphere, 8cm diameter, natural wood grain, product photography, white background"
+    },
+    {
+      "id": "sphere_metal_4cm",
+      "category": "primitive_sphere",
+      "prompt": "Chrome metal ball bearing, 8cm diameter, highly reflective, product photography, white background"
+    },
+    {
+      "id": "sphere_glass_4cm",
+      "category": "primitive_sphere",
+      "prompt": "Clear glass marble, 8cm diameter, transparent with refraction, product photography, white background"
+    },
+    {
+      "id": "sphere_tennis",
+      "category": "primitive_sphere",
+      "prompt": "Yellow tennis ball, fuzzy texture, regulation size, product photography, white background"
+    },
+    {
+      "id": "sphere_golf",
+      "category": "primitive_sphere",
+      "prompt": "White golf ball with dimples, standard size, product photography, white background"
+    },
+    {
+      "id": "sphere_baseball",
+      "category": "primitive_sphere",
+      "prompt": "White baseball with red stitching, leather texture, product photography, white background"
+    },
+    {
+      "id": "sphere_basketball",
+      "category": "primitive_sphere",
+      "prompt": "Orange basketball with black lines, textured surface, product photography, white background"
+    },
+    {
+      "id": "sphere_soccer",
+      "category": "primitive_sphere",
+      "prompt": "Classic soccer ball, black and white pentagon pattern, product photography, white background"
+    },
+    {
+      "id": "sphere_ping_pong",
+      "category": "primitive_sphere",
+      "prompt": "White ping pong ball, small 4cm diameter, matte plastic, product photography, white background"
+    },
+    {
+      "id": "sphere_stress_ball",
+      "category": "primitive_sphere",
+      "prompt": "Yellow stress ball, soft foam, squeezable, product photography, white background"
+    },
+    {
+      "id": "sphere_billiard_8",
+      "category": "primitive_sphere",
+      "prompt": "Black billiard 8 ball, shiny with white number 8, product photography, white background"
+    },
+    {
+      "id": "sphere_billiard_cue",
+      "category": "primitive_sphere",
+      "prompt": "White billiard cue ball, shiny solid white, product photography, white background"
+    },
+    {
+      "id": "sphere_rubber_bouncy",
+      "category": "primitive_sphere",
+      "prompt": "Colorful rubber bouncy ball, swirl pattern, shiny, product photography, white background"
+    },
+    {
+      "id": "sphere_koosh",
+      "category": "primitive_sphere",
+      "prompt": "Colorful koosh ball with rubber strings, red and blue, product photography, white background"
+    },
+    {
+      "id": "cylinder_red_8cm",
+      "category": "primitive_cylinder",
+      "prompt": "Red plastic cylinder, 6cm diameter, 8cm tall, upright, product photography, white background"
+    },
+    {
+      "id": "cylinder_blue_8cm",
+      "category": "primitive_cylinder",
+      "prompt": "Blue plastic cylinder, 6cm diameter, 8cm tall, upright, product photography, white background"
+    },
+    {
+      "id": "cylinder_green_8cm",
+      "category": "primitive_cylinder",
+      "prompt": "Green plastic cylinder, 6cm diameter, 8cm tall, upright, product photography, white background"
+    },
+    {
+      "id": "cylinder_yellow_8cm",
+      "category": "primitive_cylinder",
+      "prompt": "Yellow plastic cylinder, 6cm diameter, 8cm tall, upright, product photography, white background"
+    },
+    {
+      "id": "cylinder_wood_8cm",
+      "category": "primitive_cylinder",
+      "prompt": "Wooden cylinder, 6cm diameter, 8cm tall, natural grain, product photography, white background"
+    },
+    {
+      "id": "cylinder_metal_8cm",
+      "category": "primitive_cylinder",
+      "prompt": "Steel cylinder, 6cm diameter, 8cm tall, brushed metal finish, product photography, white background"
+    },
+    {
+      "id": "cylinder_short_wide",
+      "category": "primitive_cylinder",
+      "prompt": "Short wide red cylinder, 10cm diameter, 3cm tall, like a hockey puck, product photography, white background"
+    },
+    {
+      "id": "cylinder_tall_thin",
+      "category": "primitive_cylinder",
+      "prompt": "Tall thin blue cylinder, 3cm diameter, 15cm tall, rod-like, product photography, white background"
+    },
+    {
+      "id": "cylinder_hollow_tube",
+      "category": "primitive_cylinder",
+      "prompt": "Orange plastic hollow tube, 6cm outer diameter, 4cm inner hole, 8cm tall, product photography, white background"
+    },
+    {
+      "id": "cylinder_pipe_section",
+      "category": "primitive_cylinder",
+      "prompt": "Gray PVC pipe section, hollow cylinder, 5cm diameter, 10cm long, product photography, white background"
+    },
+    {
+      "id": "cone_red_8cm",
+      "category": "primitive_cone",
+      "prompt": "Red plastic cone, 6cm base diameter, 8cm tall, pointed top, product photography, white background"
+    },
+    {
+      "id": "cone_blue_8cm",
+      "category": "primitive_cone",
+      "prompt": "Blue plastic cone, 6cm base diameter, 8cm tall, pointed top, product photography, white background"
+    },
+    {
+      "id": "cone_orange_traffic",
+      "category": "primitive_cone",
+      "prompt": "Orange traffic cone, small desktop size, 10cm tall, product photography, white background"
+    },
+    {
+      "id": "cone_party_hat",
+      "category": "primitive_cone",
+      "prompt": "Colorful party hat cone, striped pattern, 15cm tall, product photography, white background"
+    },
+    {
+      "id": "cone_ice_cream",
+      "category": "primitive_cone",
+      "prompt": "Waffle ice cream cone, brown wafer pattern, empty cone, product photography, white background"
+    },
+    {
+      "id": "cone_wood_8cm",
+      "category": "primitive_cone",
+      "prompt": "Wooden cone, 6cm base, 8cm tall, natural wood, product photography, white background"
+    },
+    {
+      "id": "cone_metal_8cm",
+      "category": "primitive_cone",
+      "prompt": "Polished metal cone, 6cm base, 8cm tall, chrome finish, product photography, white background"
+    },
+    {
+      "id": "cone_truncated",
+      "category": "primitive_cone",
+      "prompt": "Truncated cone frustum, red plastic, flat top, product photography, white background"
+    },
+    {
+      "id": "torus_red_8cm",
+      "category": "primitive_torus",
+      "prompt": "Red plastic torus donut ring, 8cm outer diameter, 3cm tube thickness, product photography, white background"
+    },
+    {
+      "id": "torus_blue_8cm",
+      "category": "primitive_torus",
+      "prompt": "Blue plastic torus donut ring, 8cm outer diameter, 3cm tube thickness, product photography, white background"
+    },
+    {
+      "id": "torus_yellow_8cm",
+      "category": "primitive_torus",
+      "prompt": "Yellow plastic torus ring, 8cm diameter, smooth surface, product photography, white background"
+    },
+    {
+      "id": "torus_wood_8cm",
+      "category": "primitive_torus",
+      "prompt": "Wooden torus ring, 8cm diameter, natural wood grain, product photography, white background"
+    },
+    {
+      "id": "torus_metal_8cm",
+      "category": "primitive_torus",
+      "prompt": "Chrome metal torus ring, 8cm diameter, shiny reflective, product photography, white background"
+    },
+    {
+      "id": "torus_rubber_8cm",
+      "category": "primitive_torus",
+      "prompt": "Black rubber O-ring torus, 8cm diameter, industrial look, product photography, white background"
+    },
+    {
+      "id": "torus_pool_float",
+      "category": "primitive_torus",
+      "prompt": "Colorful inflatable pool ring, donut float toy, bright colors, product photography, white background"
+    },
+    {
+      "id": "torus_bagel",
+      "category": "primitive_torus",
+      "prompt": "Plain bagel bread, torus shaped, golden brown, realistic food, product photography, white background"
+    },
+    {
+      "id": "torus_donut_glazed",
+      "category": "primitive_torus",
+      "prompt": "Glazed donut with chocolate frosting and sprinkles, realistic food, product photography, white background"
+    },
+    {
+      "id": "torus_life_preserver",
+      "category": "primitive_torus",
+      "prompt": "Red and white life preserver ring, nautical safety device, product photography, white background"
+    },
+    {
+      "id": "pyramid_red_8cm",
+      "category": "primitive_pyramid",
+      "prompt": "Red plastic pyramid, 8cm square base, 8cm tall, Egyptian style, product photography, white background"
+    },
+    {
+      "id": "pyramid_blue_8cm",
+      "category": "primitive_pyramid",
+      "prompt": "Blue plastic pyramid, 8cm square base, 8cm tall, sharp edges, product photography, white background"
+    },
+    {
+      "id": "pyramid_gold_8cm",
+      "category": "primitive_pyramid",
+      "prompt": "Gold metallic pyramid, 8cm base, 8cm tall, shiny gold finish, product photography, white background"
+    },
+    {
+      "id": "pyramid_glass_8cm",
+      "category": "primitive_pyramid",
+      "prompt": "Clear glass pyramid, 8cm base, transparent with refraction, product photography, white background"
+    },
+    {
+      "id": "pyramid_wood_8cm",
+      "category": "primitive_pyramid",
+      "prompt": "Wooden pyramid, 8cm base, natural wood grain texture, product photography, white background"
+    },
+    {
+      "id": "tetrahedron_red",
+      "category": "primitive_pyramid",
+      "prompt": "Red plastic tetrahedron, triangular pyramid, 6cm edges, product photography, white background"
+    },
+    {
+      "id": "tetrahedron_blue",
+      "category": "primitive_pyramid",
+      "prompt": "Blue plastic tetrahedron, 4 triangular faces, 6cm edges, product photography, white background"
+    },
+    {
+      "id": "prism_triangular_red",
+      "category": "primitive_prism",
+      "prompt": "Red triangular prism, 5cm triangle base, 10cm long, product photography, white background"
+    },
+    {
+      "id": "prism_triangular_blue",
+      "category": "primitive_prism",
+      "prompt": "Blue triangular prism, 5cm triangle base, 10cm long, product photography, white background"
+    },
+    {
+      "id": "prism_glass_optical",
+      "category": "primitive_prism",
+      "prompt": "Clear optical glass prism, triangular, rainbow refraction, product photography, white background"
+    },
+    {
+      "id": "prism_hexagonal",
+      "category": "primitive_prism",
+      "prompt": "Green hexagonal prism, 4cm hexagon base, 8cm tall, product photography, white background"
+    },
+    {
+      "id": "prism_pentagonal",
+      "category": "primitive_prism",
+      "prompt": "Purple pentagonal prism, 4cm pentagon base, 8cm tall, product photography, white background"
+    },
+    {
+      "id": "prism_octagonal",
+      "category": "primitive_prism",
+      "prompt": "Yellow octagonal prism, 5cm octagon base, 6cm tall, product photography, white background"
+    },
+    {
+      "id": "capsule_red_8cm",
+      "category": "primitive_capsule",
+      "prompt": "Red plastic capsule pill shape, 3cm diameter, 8cm long, rounded ends, product photography, white background"
+    },
+    {
+      "id": "capsule_blue_8cm",
+      "category": "primitive_capsule",
+      "prompt": "Blue plastic capsule pill shape, 3cm diameter, 8cm long, rounded ends, product photography, white background"
+    },
+    {
+      "id": "capsule_medicine",
+      "category": "primitive_capsule",
+      "prompt": "Red and white medicine capsule, large pill shape, pharmaceutical style, product photography, white background"
+    },
+    {
+      "id": "capsule_vitamin",
+      "category": "primitive_capsule",
+      "prompt": "Golden vitamin capsule, translucent gel cap, supplement style, product photography, white background"
+    },
+    {
+      "id": "ellipsoid_red",
+      "category": "primitive_ellipsoid",
+      "prompt": "Red plastic ellipsoid, egg-like oval shape, 10cm long, 6cm wide, product photography, white background"
+    },
+    {
+      "id": "ellipsoid_blue",
+      "category": "primitive_ellipsoid",
+      "prompt": "Blue plastic ellipsoid, oval egg shape, smooth surface, product photography, white background"
+    },
+    {
+      "id": "egg_white",
+      "category": "primitive_ellipsoid",
+      "prompt": "White chicken egg, realistic matte shell, standard size, product photography, white background"
+    },
+    {
+      "id": "egg_brown",
+      "category": "primitive_ellipsoid",
+      "prompt": "Brown chicken egg, realistic speckled shell, product photography, white background"
+    },
+    {
+      "id": "egg_easter_decorated",
+      "category": "primitive_ellipsoid",
+      "prompt": "Colorful decorated Easter egg, painted patterns, product photography, white background"
+    },
+    {
+      "id": "football_american",
+      "category": "primitive_ellipsoid",
+      "prompt": "Brown American football, leather texture with white laces, product photography, white background"
+    },
+    {
+      "id": "rugby_ball",
+      "category": "primitive_ellipsoid",
+      "prompt": "White rugby ball, oval pointed ends, product photography, white background"
+    },
+    {
+      "id": "l_block_red",
+      "category": "compound_shape",
+      "prompt": "Red plastic L-shaped block, two perpendicular rectangles joined, product photography, white background"
+    },
+    {
+      "id": "l_block_blue",
+      "category": "compound_shape",
+      "prompt": "Blue plastic L-shaped block, corner piece, product photography, white background"
+    },
+    {
+      "id": "l_block_wood",
+      "category": "compound_shape",
+      "prompt": "Wooden L-shaped block, natural oak, joined pieces, product photography, white background"
+    },
+    {
+      "id": "t_block_red",
+      "category": "compound_shape",
+      "prompt": "Red plastic T-shaped block, perpendicular bars forming T, product photography, white background"
+    },
+    {
+      "id": "t_block_blue",
+      "category": "compound_shape",
+      "prompt": "Blue plastic T-shaped block, T junction shape, product photography, white background"
+    },
+    {
+      "id": "t_block_wood",
+      "category": "compound_shape",
+      "prompt": "Wooden T-shaped block, natural wood T piece, product photography, white background"
+    },
+    {
+      "id": "cross_block_red",
+      "category": "compound_shape",
+      "prompt": "Red plastic cross/plus shaped block, 4 arms from center, product photography, white background"
+    },
+    {
+      "id": "cross_block_blue",
+      "category": "compound_shape",
+      "prompt": "Blue plastic cross shaped block, plus sign shape, product photography, white background"
+    },
+    {
+      "id": "h_block_red",
+      "category": "compound_shape",
+      "prompt": "Red plastic H-shaped block, two vertical bars connected, product photography, white background"
+    },
+    {
+      "id": "u_block_red",
+      "category": "compound_shape",
+      "prompt": "Red plastic U-shaped block, channel or trough shape, product photography, white background"
+    },
+    {
+      "id": "arch_block_red",
+      "category": "compound_shape",
+      "prompt": "Red plastic arch block, curved rainbow arch shape, product photography, white background"
+    },
+    {
+      "id": "arch_block_wood",
+      "category": "compound_shape",
+      "prompt": "Wooden arch block, curved bridge piece, natural wood, product photography, white background"
+    },
+    {
+      "id": "stairs_block_3step",
+      "category": "compound_shape",
+      "prompt": "Red plastic stair block, 3 ascending steps, product photography, white background"
+    },
+    {
+      "id": "stairs_block_5step",
+      "category": "compound_shape",
+      "prompt": "Blue plastic stair block, 5 ascending steps, product photography, white background"
+    },
+    {
+      "id": "ramp_block_red",
+      "category": "compound_shape",
+      "prompt": "Red plastic ramp/wedge block, inclined plane, product photography, white background"
+    },
+    {
+      "id": "ramp_block_blue",
+      "category": "compound_shape",
+      "prompt": "Blue plastic wedge ramp block, triangular profile, product photography, white background"
+    },
+    {
+      "id": "hanoi_base",
+      "category": "hanoi_tower",
+      "prompt": "Wooden Tower of Hanoi base with 3 vertical pegs, classic puzzle, product photography, white background"
+    },
+    {
+      "id": "hanoi_disk_1_red",
+      "category": "hanoi_tower",
+      "prompt": "Red wooden disk for Tower of Hanoi, smallest size, 3cm diameter with center hole, product photography, white background"
+    },
+    {
+      "id": "hanoi_disk_2_orange",
+      "category": "hanoi_tower",
+      "prompt": "Orange wooden disk for Tower of Hanoi, 4cm diameter with center hole, product photography, white background"
+    },
+    {
+      "id": "hanoi_disk_3_yellow",
+      "category": "hanoi_tower",
+      "prompt": "Yellow wooden disk for Tower of Hanoi, 5cm diameter with center hole, product photography, white background"
+    },
+    {
+      "id": "hanoi_disk_4_green",
+      "category": "hanoi_tower",
+      "prompt": "Green wooden disk for Tower of Hanoi, 6cm diameter with center hole, product photography, white background"
+    },
+    {
+      "id": "hanoi_disk_5_blue",
+      "category": "hanoi_tower",
+      "prompt": "Blue wooden disk for Tower of Hanoi, 7cm diameter with center hole, product photography, white background"
+    },
+    {
+      "id": "hanoi_disk_6_purple",
+      "category": "hanoi_tower",
+      "prompt": "Purple wooden disk for Tower of Hanoi, largest 8cm diameter with center hole, product photography, white background"
+    },
+    {
+      "id": "hanoi_complete_set",
+      "category": "hanoi_tower",
+      "prompt": "Complete Tower of Hanoi puzzle set, wooden base with colorful graduated disks stacked, product photography, white background"
+    },
+    {
+      "id": "stacking_ring_base",
+      "category": "stacking_toy",
+      "prompt": "Colorful stacking ring toy base with vertical post, baby toy style, product photography, white background"
+    },
+    {
+      "id": "stacking_ring_red",
+      "category": "stacking_toy",
+      "prompt": "Red plastic stacking ring, donut shape for ring stacker toy, product photography, white background"
+    },
+    {
+      "id": "stacking_ring_orange",
+      "category": "stacking_toy",
+      "prompt": "Orange plastic stacking ring, graduated size ring toy, product photography, white background"
+    },
+    {
+      "id": "stacking_ring_yellow",
+      "category": "stacking_toy",
+      "prompt": "Yellow plastic stacking ring, baby toy ring, product photography, white background"
+    },
+    {
+      "id": "stacking_ring_green",
+      "category": "stacking_toy",
+      "prompt": "Green plastic stacking ring, colorful toy ring, product photography, white background"
+    },
+    {
+      "id": "stacking_ring_blue",
+      "category": "stacking_toy",
+      "prompt": "Blue plastic stacking ring, largest size ring, product photography, white background"
+    },
+    {
+      "id": "stacking_cups_set",
+      "category": "stacking_toy",
+      "prompt": "Colorful stacking cups set, nested cups in rainbow colors, baby toy, product photography, white background"
+    },
+    {
+      "id": "nesting_boxes_set",
+      "category": "stacking_toy",
+      "prompt": "Wooden nesting boxes set, graduated sizes that fit inside each other, product photography, white background"
+    },
+    {
+      "id": "cup_red_plastic",
+      "category": "container",
+      "prompt": "Red plastic cup, solo cup style, 10cm tall, product photography, white background"
+    },
+    {
+      "id": "cup_blue_plastic",
+      "category": "container",
+      "prompt": "Blue plastic cup, drinking cup, 10cm tall, product photography, white background"
+    },
+    {
+      "id": "cup_white_ceramic",
+      "category": "container",
+      "prompt": "White ceramic coffee mug with handle, classic shape, product photography, white background"
+    },
+    {
+      "id": "cup_glass_clear",
+      "category": "container",
+      "prompt": "Clear glass drinking cup, tumbler style, transparent, product photography, white background"
+    },
+    {
+      "id": "cup_paper_coffee",
+      "category": "container",
+      "prompt": "White paper coffee cup with lid, disposable takeaway style, product photography, white background"
+    },
+    {
+      "id": "mug_blue_ceramic",
+      "category": "container",
+      "prompt": "Blue ceramic mug with handle, coffee cup, product photography, white background"
+    },
+    {
+      "id": "mug_travel",
+      "category": "container",
+      "prompt": "Stainless steel travel mug with lid, insulated tumbler, product photography, white background"
+    },
+    {
+      "id": "bowl_white_ceramic",
+      "category": "container",
+      "prompt": "White ceramic bowl, simple round shape, 16cm diameter, product photography, white background"
+    },
+    {
+      "id": "bowl_blue_ceramic",
+      "category": "container",
+      "prompt": "Blue ceramic bowl, soup bowl size, product photography, white background"
+    },
+    {
+      "id": "bowl_wood",
+      "category": "container",
+      "prompt": "Wooden salad bowl, natural wood grain, large size, product photography, white background"
+    },
+    {
+      "id": "bowl_glass",
+      "category": "container",
+      "prompt": "Clear glass mixing bowl, transparent, round, product photography, white background"
+    },
+    {
+      "id": "bowl_metal",
+      "category": "container",
+      "prompt": "Stainless steel mixing bowl, shiny metal, product photography, white background"
+    },
+    {
+      "id": "plate_white_ceramic",
+      "category": "container",
+      "prompt": "White ceramic dinner plate, round flat, 25cm diameter, product photography, white background"
+    },
+    {
+      "id": "plate_blue_ceramic",
+      "category": "container",
+      "prompt": "Blue ceramic plate, flat round plate, product photography, white background"
+    },
+    {
+      "id": "plate_paper",
+      "category": "container",
+      "prompt": "White paper plate, disposable round plate, product photography, white background"
+    },
+    {
+      "id": "basket_wicker",
+      "category": "container",
+      "prompt": "Wicker basket, woven natural material, round with handle, product photography, white background"
+    },
+    {
+      "id": "basket_plastic",
+      "category": "container",
+      "prompt": "Blue plastic storage basket, rectangular with handles, product photography, white background"
+    },
+    {
+      "id": "box_cardboard_small",
+      "category": "container",
+      "prompt": "Small brown cardboard box, 10cm cube, shipping box style, product photography, white background"
+    },
+    {
+      "id": "box_cardboard_medium",
+      "category": "container",
+      "prompt": "Medium brown cardboard box, 20cm cube, packaging box, product photography, white background"
+    },
+    {
+      "id": "box_cardboard_open",
+      "category": "container",
+      "prompt": "Open cardboard box with flaps up, empty inside visible, product photography, white background"
+    },
+    {
+      "id": "bin_trash_small",
+      "category": "container",
+      "prompt": "Small trash bin, cylindrical plastic wastebasket, product photography, white background"
+    },
+    {
+      "id": "bucket_plastic",
+      "category": "container",
+      "prompt": "Red plastic bucket with handle, cleaning pail style, product photography, white background"
+    },
+    {
+      "id": "jar_glass_mason",
+      "category": "container",
+      "prompt": "Clear glass mason jar with lid, canning jar, product photography, white background"
+    },
+    {
+      "id": "jar_cookie",
+      "category": "container",
+      "prompt": "Clear glass cookie jar with lid, round container, product photography, white background"
+    },
+    {
+      "id": "vase_ceramic",
+      "category": "container",
+      "prompt": "White ceramic vase, tall narrow neck, decorative, product photography, white background"
+    },
+    {
+      "id": "pot_cooking",
+      "category": "container",
+      "prompt": "Silver stainless steel cooking pot with lid and handles, product photography, white background"
+    },
+    {
+      "id": "pan_frying",
+      "category": "container",
+      "prompt": "Black non-stick frying pan with handle, skillet, product photography, white background"
+    },
+    {
+      "id": "bottle_water_plastic",
+      "category": "bottle",
+      "prompt": "Clear plastic water bottle with blue cap, 500ml, product photography, white background"
+    },
+    {
+      "id": "bottle_soda_plastic",
+      "category": "bottle",
+      "prompt": "Clear plastic soda bottle, 2 liter size with red cap, product photography, white background"
+    },
+    {
+      "id": "bottle_wine",
+      "category": "bottle",
+      "prompt": "Green glass wine bottle, classic bordeaux shape, product photography, white background"
+    },
+    {
+      "id": "bottle_beer",
+      "category": "bottle",
+      "prompt": "Brown glass beer bottle, standard 12oz size, product photography, white background"
+    },
+    {
+      "id": "bottle_milk",
+      "category": "bottle",
+      "prompt": "White plastic milk jug with handle, 1 gallon size, product photography, white background"
+    },
+    {
+      "id": "bottle_mustard",
+      "category": "bottle",
+      "prompt": "Yellow plastic mustard squeeze bottle, French's style, product photography, white background"
+    },
+    {
+      "id": "bottle_ketchup",
+      "category": "bottle",
+      "prompt": "Red plastic ketchup squeeze bottle, Heinz style, product photography, white background"
+    },
+    {
+      "id": "bottle_shampoo",
+      "category": "bottle",
+      "prompt": "White plastic shampoo bottle with pump, bathroom product, product photography, white background"
+    },
+    {
+      "id": "bottle_spray",
+      "category": "bottle",
+      "prompt": "Blue plastic spray bottle with trigger, cleaning product style, product photography, white background"
+    },
+    {
+      "id": "bottle_medicine",
+      "category": "bottle",
+      "prompt": "Orange prescription medicine bottle with white cap, pharmacy style, product photography, white background"
+    },
+    {
+      "id": "bottle_perfume",
+      "category": "bottle",
+      "prompt": "Clear glass perfume bottle with decorative cap, elegant design, product photography, white background"
+    },
+    {
+      "id": "can_soda",
+      "category": "bottle",
+      "prompt": "Red aluminum soda can, 12oz standard size, product photography, white background"
+    },
+    {
+      "id": "can_food_cylindrical",
+      "category": "bottle",
+      "prompt": "Silver metal food can, soup can size, with label area, product photography, white background"
+    },
+    {
+      "id": "can_spam",
+      "category": "bottle",
+      "prompt": "SPAM canned meat tin, rectangular blue and yellow package, product photography, white background"
+    },
+    {
+      "id": "can_tuna",
+      "category": "bottle",
+      "prompt": "Tuna fish can, short wide cylinder, metal with pull tab, product photography, white background"
+    },
+    {
+      "id": "tool_hammer",
+      "category": "tool",
+      "prompt": "Claw hammer with wooden handle and metal head, standard carpenter tool, product photography, white background"
+    },
+    {
+      "id": "tool_screwdriver_flathead",
+      "category": "tool",
+      "prompt": "Flathead screwdriver with yellow handle, standard size, product photography, white background"
+    },
+    {
+      "id": "tool_screwdriver_phillips",
+      "category": "tool",
+      "prompt": "Phillips head screwdriver with red handle, cross tip, product photography, white background"
+    },
+    {
+      "id": "tool_wrench_adjustable",
+      "category": "tool",
+      "prompt": "Adjustable wrench, chrome metal with black handle, crescent style, product photography, white background"
+    },
+    {
+      "id": "tool_wrench_socket",
+      "category": "tool",
+      "prompt": "Socket wrench with ratchet handle, chrome metal, product photography, white background"
+    },
+    {
+      "id": "tool_pliers",
+      "category": "tool",
+      "prompt": "Standard pliers with red rubber handles, metal jaws, product photography, white background"
+    },
+    {
+      "id": "tool_pliers_needle",
+      "category": "tool",
+      "prompt": "Needle nose pliers with pointed tips, product photography, white background"
+    },
+    {
+      "id": "tool_scissors",
+      "category": "tool",
+      "prompt": "Metal scissors with black handles, office scissors, product photography, white background"
+    },
+    {
+      "id": "tool_tape_measure",
+      "category": "tool",
+      "prompt": "Yellow tape measure, retractable measuring tape, product photography, white background"
+    },
+    {
+      "id": "tool_level",
+      "category": "tool",
+      "prompt": "Yellow spirit level, bubble level tool, product photography, white background"
+    },
+    {
+      "id": "tool_allen_key",
+      "category": "tool",
+      "prompt": "L-shaped hex allen key, chrome metal, product photography, white background"
+    },
+    {
+      "id": "tool_allen_key_set",
+      "category": "tool",
+      "prompt": "Set of allen hex keys in holder, multiple sizes, product photography, white background"
+    },
+    {
+      "id": "tool_drill",
+      "category": "tool",
+      "prompt": "Cordless power drill, blue and black, with battery pack, product photography, white background"
+    },
+    {
+      "id": "tool_saw_hand",
+      "category": "tool",
+      "prompt": "Hand saw with wooden handle, metal blade with teeth, product photography, white background"
+    },
+    {
+      "id": "tool_paintbrush",
+      "category": "tool",
+      "prompt": "Paint brush with wooden handle, medium bristle brush, product photography, white background"
+    },
+    {
+      "id": "tool_roller_paint",
+      "category": "tool",
+      "prompt": "Paint roller with handle, foam roller cover, product photography, white background"
+    },
+    {
+      "id": "tool_trowel",
+      "category": "tool",
+      "prompt": "Garden trowel with green handle, small spade, product photography, white background"
+    },
+    {
+      "id": "tool_flashlight",
+      "category": "tool",
+      "prompt": "Black flashlight torch, cylindrical handheld, product photography, white background"
+    },
+    {
+      "id": "tool_clamp",
+      "category": "tool",
+      "prompt": "C-clamp metal clamp, industrial grip tool, product photography, white background"
+    },
+    {
+      "id": "tool_duct_tape",
+      "category": "tool",
+      "prompt": "Roll of gray duct tape, adhesive tape roll, product photography, white background"
+    },
+    {
+      "id": "office_pen_blue",
+      "category": "office",
+      "prompt": "Blue ballpoint pen, standard writing pen, product photography, white background"
+    },
+    {
+      "id": "office_pen_black",
+      "category": "office",
+      "prompt": "Black ballpoint pen, click pen style, product photography, white background"
+    },
+    {
+      "id": "office_pencil",
+      "category": "office",
+      "prompt": "Yellow wooden pencil with eraser, #2 pencil, product photography, white background"
+    },
+    {
+      "id": "office_pencil_mechanical",
+      "category": "office",
+      "prompt": "Mechanical pencil, silver and black, 0.5mm, product photography, white background"
+    },
+    {
+      "id": "office_marker_red",
+      "category": "office",
+      "prompt": "Red permanent marker, Sharpie style, product photography, white background"
+    },
+    {
+      "id": "office_highlighter_yellow",
+      "category": "office",
+      "prompt": "Yellow highlighter pen, fluorescent marker, product photography, white background"
+    },
+    {
+      "id": "office_eraser",
+      "category": "office",
+      "prompt": "Pink rubber eraser, rectangular block, product photography, white background"
+    },
+    {
+      "id": "office_stapler",
+      "category": "office",
+      "prompt": "Black desktop stapler, standard office stapler, product photography, white background"
+    },
+    {
+      "id": "office_tape_dispenser",
+      "category": "office",
+      "prompt": "Clear tape dispenser with tape roll, desktop style, product photography, white background"
+    },
+    {
+      "id": "office_scissors",
+      "category": "office",
+      "prompt": "Orange handled scissors, office scissors, product photography, white background"
+    },
+    {
+      "id": "office_ruler",
+      "category": "office",
+      "prompt": "Clear plastic ruler, 30cm length, metric measurements, product photography, white background"
+    },
+    {
+      "id": "office_paper_clip",
+      "category": "office",
+      "prompt": "Silver metal paper clip, standard size, product photography, white background"
+    },
+    {
+      "id": "office_binder_clip",
+      "category": "office",
+      "prompt": "Black metal binder clip, medium size, product photography, white background"
+    },
+    {
+      "id": "office_pushpin",
+      "category": "office",
+      "prompt": "Red pushpin thumbtack, round plastic head, product photography, white background"
+    },
+    {
+      "id": "office_rubber_band",
+      "category": "office",
+      "prompt": "Brown rubber band, elastic band, product photography, white background"
+    },
+    {
+      "id": "office_sticky_notes",
+      "category": "office",
+      "prompt": "Yellow sticky note pad, post-it notes stack, product photography, white background"
+    },
+    {
+      "id": "office_notebook",
+      "category": "office",
+      "prompt": "Spiral bound notebook, blue cover, product photography, white background"
+    },
+    {
+      "id": "office_folder",
+      "category": "office",
+      "prompt": "Manila folder, beige paper folder, product photography, white background"
+    },
+    {
+      "id": "office_calculator",
+      "category": "office",
+      "prompt": "Desktop calculator, black with number buttons, product photography, white background"
+    },
+    {
+      "id": "office_mouse",
+      "category": "office",
+      "prompt": "Black computer mouse, wireless optical mouse, product photography, white background"
+    },
+    {
+      "id": "office_keyboard",
+      "category": "office",
+      "prompt": "White computer keyboard, standard layout, product photography, white background"
+    },
+    {
+      "id": "food_apple_red",
+      "category": "food",
+      "prompt": "Red apple fruit, shiny realistic apple, product photography, white background"
+    },
+    {
+      "id": "food_apple_green",
+      "category": "food",
+      "prompt": "Green Granny Smith apple, realistic fruit, product photography, white background"
+    },
+    {
+      "id": "food_banana",
+      "category": "food",
+      "prompt": "Yellow banana, single ripe banana, realistic fruit, product photography, white background"
+    },
+    {
+      "id": "food_orange",
+      "category": "food",
+      "prompt": "Orange citrus fruit, whole orange, realistic, product photography, white background"
+    },
+    {
+      "id": "food_lemon",
+      "category": "food",
+      "prompt": "Yellow lemon citrus, whole lemon, realistic, product photography, white background"
+    },
+    {
+      "id": "food_pear",
+      "category": "food",
+      "prompt": "Green pear fruit, realistic whole pear, product photography, white background"
+    },
+    {
+      "id": "food_strawberry",
+      "category": "food",
+      "prompt": "Red strawberry, single large strawberry, realistic, product photography, white background"
+    },
+    {
+      "id": "food_grape_bunch",
+      "category": "food",
+      "prompt": "Purple grape bunch, cluster of grapes, realistic, product photography, white background"
+    },
+    {
+      "id": "food_watermelon_slice",
+      "category": "food",
+      "prompt": "Watermelon slice, red flesh with black seeds, triangular wedge, product photography, white background"
+    },
+    {
+      "id": "food_tomato",
+      "category": "food",
+      "prompt": "Red tomato, ripe whole tomato, realistic, product photography, white background"
+    },
+    {
+      "id": "food_carrot",
+      "category": "food",
+      "prompt": "Orange carrot with green top, whole carrot, product photography, white background"
+    },
+    {
+      "id": "food_potato",
+      "category": "food",
+      "prompt": "Brown potato, whole russet potato, realistic, product photography, white background"
+    },
+    {
+      "id": "food_onion",
+      "category": "food",
+      "prompt": "Yellow onion, whole onion, realistic, product photography, white background"
+    },
+    {
+      "id": "food_corn",
+      "category": "food",
+      "prompt": "Yellow corn on the cob, fresh corn ear, product photography, white background"
+    },
+    {
+      "id": "food_broccoli",
+      "category": "food",
+      "prompt": "Green broccoli floret, fresh broccoli head, product photography, white background"
+    },
+    {
+      "id": "food_bread_loaf",
+      "category": "food",
+      "prompt": "Loaf of bread, sliced bread in bag shape, product photography, white background"
+    },
+    {
+      "id": "food_bread_slice",
+      "category": "food",
+      "prompt": "Slice of white bread, single bread slice, product photography, white background"
+    },
+    {
+      "id": "food_croissant",
+      "category": "food",
+      "prompt": "Golden croissant pastry, flaky French croissant, product photography, white background"
+    },
+    {
+      "id": "food_cookie",
+      "category": "food",
+      "prompt": "Chocolate chip cookie, round baked cookie, product photography, white background"
+    },
+    {
+      "id": "food_pizza_slice",
+      "category": "food",
+      "prompt": "Slice of pepperoni pizza, triangular pizza slice, product photography, white background"
+    },
+    {
+      "id": "food_hamburger",
+      "category": "food",
+      "prompt": "Hamburger with bun, beef patty and toppings, realistic, product photography, white background"
+    },
+    {
+      "id": "food_hotdog",
+      "category": "food",
+      "prompt": "Hot dog in bun with mustard, classic hot dog, product photography, white background"
+    },
+    {
+      "id": "food_cheese_wedge",
+      "category": "food",
+      "prompt": "Wedge of yellow cheese, Swiss cheese with holes, product photography, white background"
+    },
+    {
+      "id": "food_egg_fried",
+      "category": "food",
+      "prompt": "Fried egg sunny side up, realistic cooked egg, product photography, white background"
+    },
+    {
+      "id": "food_sushi_roll",
+      "category": "food",
+      "prompt": "Sushi roll piece, maki roll with rice and fish, product photography, white background"
+    },
+    {
+      "id": "electronics_phone",
+      "category": "electronics",
+      "prompt": "Smartphone, modern black rectangle phone, screen visible, product photography, white background"
+    },
+    {
+      "id": "electronics_tablet",
+      "category": "electronics",
+      "prompt": "Black tablet device, iPad style, rectangular screen, product photography, white background"
+    },
+    {
+      "id": "electronics_laptop",
+      "category": "electronics",
+      "prompt": "Silver laptop computer, open showing screen and keyboard, product photography, white background"
+    },
+    {
+      "id": "electronics_remote_tv",
+      "category": "electronics",
+      "prompt": "Black TV remote control with buttons, standard remote, product photography, white background"
+    },
+    {
+      "id": "electronics_headphones",
+      "category": "electronics",
+      "prompt": "Black over-ear headphones, studio headphones style, product photography, white background"
+    },
+    {
+      "id": "electronics_earbuds",
+      "category": "electronics",
+      "prompt": "White wireless earbuds in charging case, AirPods style, product photography, white background"
+    },
+    {
+      "id": "electronics_speaker",
+      "category": "electronics",
+      "prompt": "Portable bluetooth speaker, cylindrical black speaker, product photography, white background"
+    },
+    {
+      "id": "electronics_camera",
+      "category": "electronics",
+      "prompt": "Digital camera, black DSLR style camera body, product photography, white background"
+    },
+    {
+      "id": "electronics_usb_drive",
+      "category": "electronics",
+      "prompt": "USB flash drive, small thumb drive, product photography, white background"
+    },
+    {
+      "id": "electronics_charger",
+      "category": "electronics",
+      "prompt": "White phone charger with cable, USB charging cable, product photography, white background"
+    },
+    {
+      "id": "electronics_battery_aa",
+      "category": "electronics",
+      "prompt": "AA battery, standard cylindrical battery, product photography, white background"
+    },
+    {
+      "id": "electronics_lightbulb",
+      "category": "electronics",
+      "prompt": "LED lightbulb, standard A19 bulb shape, product photography, white background"
+    },
+    {
+      "id": "electronics_plug_power",
+      "category": "electronics",
+      "prompt": "Black power plug adapter, electrical outlet adapter, product photography, white background"
+    },
+    {
+      "id": "electronics_watch",
+      "category": "electronics",
+      "prompt": "Black digital smartwatch, rectangular screen with band, product photography, white background"
+    },
+    {
+      "id": "electronics_clock",
+      "category": "electronics",
+      "prompt": "Round analog wall clock, white face with black numbers, product photography, white background"
+    },
+    {
+      "id": "toy_block_set",
+      "category": "toy",
+      "prompt": "Colorful wooden building blocks set, various shapes, product photography, white background"
+    },
+    {
+      "id": "toy_lego_brick_red",
+      "category": "toy",
+      "prompt": "Red LEGO brick, 2x4 studs, plastic building block, product photography, white background"
+    },
+    {
+      "id": "toy_lego_brick_blue",
+      "category": "toy",
+      "prompt": "Blue LEGO brick, 2x4 studs, plastic building block, product photography, white background"
+    },
+    {
+      "id": "toy_lego_brick_yellow",
+      "category": "toy",
+      "prompt": "Yellow LEGO brick, 2x4 studs, plastic building block, product photography, white background"
+    },
+    {
+      "id": "toy_lego_brick_green",
+      "category": "toy",
+      "prompt": "Green LEGO brick, 2x4 studs, plastic building block, product photography, white background"
+    },
+    {
+      "id": "toy_duplo_brick",
+      "category": "toy",
+      "prompt": "Large DUPLO brick, red oversized building block for toddlers, product photography, white background"
+    },
+    {
+      "id": "toy_car_red",
+      "category": "toy",
+      "prompt": "Red toy car, small die-cast metal car, Hot Wheels style, product photography, white background"
+    },
+    {
+      "id": "toy_car_blue",
+      "category": "toy",
+      "prompt": "Blue toy car, small metal toy car, product photography, white background"
+    },
+    {
+      "id": "toy_truck",
+      "category": "toy",
+      "prompt": "Yellow toy dump truck, construction vehicle toy, product photography, white background"
+    },
+    {
+      "id": "toy_train_engine",
+      "category": "toy",
+      "prompt": "Wooden toy train engine, Thomas style, blue and red, product photography, white background"
+    },
+    {
+      "id": "toy_airplane",
+      "category": "toy",
+      "prompt": "White toy airplane, small passenger jet model, product photography, white background"
+    },
+    {
+      "id": "toy_boat",
+      "category": "toy",
+      "prompt": "Red and white toy boat, small sailboat toy, product photography, white background"
+    },
+    {
+      "id": "toy_doll_simple",
+      "category": "toy",
+      "prompt": "Simple wooden peg doll, unpainted natural wood, product photography, white background"
+    },
+    {
+      "id": "toy_action_figure",
+      "category": "toy",
+      "prompt": "Generic action figure toy, poseable humanoid figure, product photography, white background"
+    },
+    {
+      "id": "toy_dinosaur",
+      "category": "toy",
+      "prompt": "Green plastic dinosaur toy, T-Rex figure, product photography, white background"
+    },
+    {
+      "id": "toy_teddy_bear",
+      "category": "toy",
+      "prompt": "Brown teddy bear plush toy, soft stuffed animal, product photography, white background"
+    },
+    {
+      "id": "toy_rubber_duck",
+      "category": "toy",
+      "prompt": "Yellow rubber duck, classic bath toy, product photography, white background"
+    },
+    {
+      "id": "toy_yo_yo",
+      "category": "toy",
+      "prompt": "Red yo-yo toy with string, classic design, product photography, white background"
+    },
+    {
+      "id": "toy_spinning_top",
+      "category": "toy",
+      "prompt": "Colorful wooden spinning top, traditional toy, product photography, white background"
+    },
+    {
+      "id": "toy_puzzle_cube",
+      "category": "toy",
+      "prompt": "Rubik's cube puzzle, colorful 3x3 cube, product photography, white background"
+    },
+    {
+      "id": "toy_jigsaw_piece",
+      "category": "toy",
+      "prompt": "Single jigsaw puzzle piece, cardboard with image, product photography, white background"
+    },
+    {
+      "id": "toy_dice_6sided",
+      "category": "toy",
+      "prompt": "White dice with black dots, standard 6-sided die, product photography, white background"
+    },
+    {
+      "id": "toy_dice_set",
+      "category": "toy",
+      "prompt": "Set of polyhedral gaming dice, D&D dice set colorful, product photography, white background"
+    },
+    {
+      "id": "toy_playing_card",
+      "category": "toy",
+      "prompt": "Playing card, ace of spades, standard card, product photography, white background"
+    },
+    {
+      "id": "toy_domino",
+      "category": "toy",
+      "prompt": "Black domino tile with white dots, single domino, product photography, white background"
+    },
+    {
+      "id": "toy_chess_pawn",
+      "category": "toy",
+      "prompt": "White chess pawn piece, standard Staunton style, product photography, white background"
+    },
+    {
+      "id": "toy_chess_king",
+      "category": "toy",
+      "prompt": "Black chess king piece, tall with cross, product photography, white background"
+    },
+    {
+      "id": "toy_marble",
+      "category": "toy",
+      "prompt": "Glass marble with colorful swirl inside, clear glass ball, product photography, white background"
+    },
+    {
+      "id": "toy_jack",
+      "category": "toy",
+      "prompt": "Metal jack from jacks game, 6 pointed metal piece, product photography, white background"
+    },
+    {
+      "id": "toy_frisbee",
+      "category": "toy",
+      "prompt": "Red plastic frisbee disc, flying disc toy, product photography, white background"
+    },
+    {
+      "id": "fabric_towel_white",
+      "category": "fabric",
+      "prompt": "White folded towel, soft bath towel, product photography, white background"
+    },
+    {
+      "id": "fabric_towel_blue",
+      "category": "fabric",
+      "prompt": "Blue folded towel, bathroom towel, product photography, white background"
+    },
+    {
+      "id": "fabric_cloth_red",
+      "category": "fabric",
+      "prompt": "Red fabric cloth, flat rectangular textile, product photography, white background"
+    },
+    {
+      "id": "fabric_cloth_checkered",
+      "category": "fabric",
+      "prompt": "Red and white checkered cloth, picnic tablecloth pattern, product photography, white background"
+    },
+    {
+      "id": "fabric_napkin_white",
+      "category": "fabric",
+      "prompt": "White cloth napkin, folded square, product photography, white background"
+    },
+    {
+      "id": "fabric_sock_white",
+      "category": "fabric",
+      "prompt": "White sock, single athletic sock, product photography, white background"
+    },
+    {
+      "id": "fabric_sock_striped",
+      "category": "fabric",
+      "prompt": "Colorful striped sock, fun pattern sock, product photography, white background"
+    },
+    {
+      "id": "fabric_glove_rubber",
+      "category": "fabric",
+      "prompt": "Yellow rubber cleaning glove, kitchen glove, product photography, white background"
+    },
+    {
+      "id": "fabric_glove_winter",
+      "category": "fabric",
+      "prompt": "Black winter glove, knit fabric glove, product photography, white background"
+    },
+    {
+      "id": "fabric_hat_baseball",
+      "category": "fabric",
+      "prompt": "Red baseball cap, sports hat, product photography, white background"
+    },
+    {
+      "id": "fabric_hat_beanie",
+      "category": "fabric",
+      "prompt": "Black knit beanie hat, winter cap, product photography, white background"
+    },
+    {
+      "id": "fabric_scarf",
+      "category": "fabric",
+      "prompt": "Blue knit scarf, winter scarf, product photography, white background"
+    },
+    {
+      "id": "fabric_tie",
+      "category": "fabric",
+      "prompt": "Blue striped necktie, business tie, product photography, white background"
+    },
+    {
+      "id": "fabric_ribbon_red",
+      "category": "fabric",
+      "prompt": "Red satin ribbon, decorative ribbon strip, product photography, white background"
+    },
+    {
+      "id": "fabric_string_twine",
+      "category": "fabric",
+      "prompt": "Ball of brown twine string, natural fiber cord, product photography, white background"
+    },
+    {
+      "id": "fabric_rope_coiled",
+      "category": "fabric",
+      "prompt": "Coiled rope, natural fiber rope loop, product photography, white background"
+    },
+    {
+      "id": "fabric_curtain_white",
+      "category": "fabric",
+      "prompt": "White sheer curtain fabric panel, draped fabric, product photography, white background"
+    },
+    {
+      "id": "fabric_curtain_red",
+      "category": "fabric",
+      "prompt": "Red velvet curtain, draped theater curtain fabric, product photography, white background"
+    },
+    {
+      "id": "fabric_curtain_polkadot",
+      "category": "fabric",
+      "prompt": "White curtain with red polka dots, spotted fabric panel, product photography, white background"
+    },
+    {
+      "id": "fabric_curtain_striped",
+      "category": "fabric",
+      "prompt": "Blue and white striped curtain fabric, nautical pattern, product photography, white background"
+    },
+    {
+      "id": "fabric_blanket_folded",
+      "category": "fabric",
+      "prompt": "Folded gray blanket, soft fleece throw, product photography, white background"
+    },
+    {
+      "id": "fabric_pillow_white",
+      "category": "fabric",
+      "prompt": "White pillow, square throw pillow, product photography, white background"
+    },
+    {
+      "id": "fabric_pillow_decorative",
+      "category": "fabric",
+      "prompt": "Decorative patterned pillow, colorful throw pillow, product photography, white background"
+    },
+    {
+      "id": "furniture_table_small",
+      "category": "furniture",
+      "prompt": "Small wooden side table, simple end table, product photography, white background"
+    },
+    {
+      "id": "furniture_table_lab",
+      "category": "furniture",
+      "prompt": "Laboratory work table, metal frame with wood top, clean modern, product photography, white background"
+    },
+    {
+      "id": "furniture_chair_simple",
+      "category": "furniture",
+      "prompt": "Simple wooden chair, four legs and back, product photography, white background"
+    },
+    {
+      "id": "furniture_chair_office",
+      "category": "furniture",
+      "prompt": "Black office chair with wheels, swivel desk chair, product photography, white background"
+    },
+    {
+      "id": "furniture_stool",
+      "category": "furniture",
+      "prompt": "Wooden bar stool, simple round seat, product photography, white background"
+    },
+    {
+      "id": "furniture_shelf_small",
+      "category": "furniture",
+      "prompt": "Small wooden shelf unit, 3 tiers, product photography, white background"
+    },
+    {
+      "id": "furniture_drawer_unit",
+      "category": "furniture",
+      "prompt": "Small drawer unit, 3 drawer organizer, product photography, white background"
+    },
+    {
+      "id": "furniture_cabinet_small",
+      "category": "furniture",
+      "prompt": "Small storage cabinet with door, white finish, product photography, white background"
+    },
+    {
+      "id": "furniture_bench",
+      "category": "furniture",
+      "prompt": "Wooden bench, simple long seat, product photography, white background"
+    },
+    {
+      "id": "furniture_rack_coat",
+      "category": "furniture",
+      "prompt": "Standing coat rack, metal with hooks, product photography, white background"
+    },
+    {
+      "id": "robot_arm_simple",
+      "category": "robot",
+      "prompt": "Simple robot arm, white industrial robotic arm, 6 axis articulated, product photography, white background"
+    },
+    {
+      "id": "robot_arm_franka",
+      "category": "robot",
+      "prompt": "Franka Emika Panda robot arm, white and gray 7-DOF collaborative robot, product photography, white background"
+    },
+    {
+      "id": "robot_arm_ur5",
+      "category": "robot",
+      "prompt": "Universal Robots UR5 robot arm, blue industrial collaborative robot arm, product photography, white background"
+    },
+    {
+      "id": "robot_gripper_parallel",
+      "category": "robot",
+      "prompt": "Robot parallel jaw gripper, two finger industrial gripper, product photography, white background"
+    },
+    {
+      "id": "robot_gripper_3finger",
+      "category": "robot",
+      "prompt": "Three finger robot gripper, adaptive robot hand, product photography, white background"
+    },
+    {
+      "id": "robot_gripper_vacuum",
+      "category": "robot",
+      "prompt": "Robot vacuum gripper, suction cup end effector, product photography, white background"
+    },
+    {
+      "id": "robot_gripper_soft",
+      "category": "robot",
+      "prompt": "Soft robotic gripper, flexible silicone fingers, product photography, white background"
+    },
+    {
+      "id": "robot_hand_anthropomorphic",
+      "category": "robot",
+      "prompt": "Robotic humanoid hand, 5 finger robot hand, gray mechanical, product photography, white background"
+    },
+    {
+      "id": "robot_mobile_base",
+      "category": "robot",
+      "prompt": "Mobile robot base platform, wheeled robot chassis, product photography, white background"
+    },
+    {
+      "id": "robot_quadruped",
+      "category": "robot",
+      "prompt": "Quadruped robot dog, four legged robot like Spot, product photography, white background"
+    },
+    {
+      "id": "robot_humanoid_torso",
+      "category": "robot",
+      "prompt": "Humanoid robot upper body, torso with two arms, white robot, product photography, white background"
+    },
+    {
+      "id": "robot_sensor_camera",
+      "category": "robot",
+      "prompt": "Robot RGB camera sensor, small rectangular camera module, product photography, white background"
+    },
+    {
+      "id": "robot_sensor_lidar",
+      "category": "robot",
+      "prompt": "Lidar sensor, cylindrical 3D scanner, black puck shape, product photography, white background"
+    },
+    {
+      "id": "robot_sensor_depth",
+      "category": "robot",
+      "prompt": "Depth camera sensor, Intel RealSense style, product photography, white background"
+    },
+    {
+      "id": "robot_conveyor_belt",
+      "category": "robot",
+      "prompt": "Small conveyor belt section, industrial conveyor, product photography, white background"
+    },
+    {
+      "id": "kitchen_spoon",
+      "category": "kitchen",
+      "prompt": "Metal tablespoon, stainless steel spoon, product photography, white background"
+    },
+    {
+      "id": "kitchen_fork",
+      "category": "kitchen",
+      "prompt": "Metal dinner fork, stainless steel fork, product photography, white background"
+    },
+    {
+      "id": "kitchen_knife",
+      "category": "kitchen",
+      "prompt": "Kitchen knife with black handle, chef knife, product photography, white background"
+    },
+    {
+      "id": "kitchen_spatula",
+      "category": "kitchen",
+      "prompt": "Black plastic spatula, cooking turner, product photography, white background"
+    },
+    {
+      "id": "kitchen_ladle",
+      "category": "kitchen",
+      "prompt": "Metal soup ladle, stainless steel ladle, product photography, white background"
+    },
+    {
+      "id": "kitchen_whisk",
+      "category": "kitchen",
+      "prompt": "Metal wire whisk, balloon whisk with handle, product photography, white background"
+    },
+    {
+      "id": "kitchen_tongs",
+      "category": "kitchen",
+      "prompt": "Metal kitchen tongs, stainless steel serving tongs, product photography, white background"
+    },
+    {
+      "id": "kitchen_peeler",
+      "category": "kitchen",
+      "prompt": "Vegetable peeler with handle, Y-shaped peeler, product photography, white background"
+    },
+    {
+      "id": "kitchen_grater",
+      "category": "kitchen",
+      "prompt": "Box grater, metal cheese grater, product photography, white background"
+    },
+    {
+      "id": "kitchen_cutting_board",
+      "category": "kitchen",
+      "prompt": "Wooden cutting board, rectangular chopping board, product photography, white background"
+    },
+    {
+      "id": "kitchen_colander",
+      "category": "kitchen",
+      "prompt": "Metal colander with handles, strainer bowl, product photography, white background"
+    },
+    {
+      "id": "kitchen_measuring_cup",
+      "category": "kitchen",
+      "prompt": "Glass measuring cup with markings, Pyrex style, product photography, white background"
+    },
+    {
+      "id": "kitchen_measuring_spoons",
+      "category": "kitchen",
+      "prompt": "Set of measuring spoons, metal spoons on ring, product photography, white background"
+    },
+    {
+      "id": "kitchen_timer",
+      "category": "kitchen",
+      "prompt": "Kitchen timer, mechanical dial timer, product photography, white background"
+    },
+    {
+      "id": "kitchen_salt_shaker",
+      "category": "kitchen",
+      "prompt": "Glass salt shaker with metal top, table salt dispenser, product photography, white background"
+    },
+    {
+      "id": "kitchen_pepper_mill",
+      "category": "kitchen",
+      "prompt": "Wooden pepper mill grinder, tall pepper grinder, product photography, white background"
+    },
+    {
+      "id": "kitchen_bottle_opener",
+      "category": "kitchen",
+      "prompt": "Metal bottle opener, simple opener tool, product photography, white background"
+    },
+    {
+      "id": "kitchen_can_opener",
+      "category": "kitchen",
+      "prompt": "Manual can opener, handheld can opener tool, product photography, white background"
+    },
+    {
+      "id": "kitchen_sponge",
+      "category": "kitchen",
+      "prompt": "Yellow kitchen sponge, rectangular cleaning sponge, product photography, white background"
+    },
+    {
+      "id": "kitchen_dish_soap",
+      "category": "kitchen",
+      "prompt": "Green dish soap bottle, liquid soap dispenser, product photography, white background"
+    },
+    {
+      "id": "cleaning_broom",
+      "category": "cleaning",
+      "prompt": "Household broom with long handle, sweeping broom, product photography, white background"
+    },
+    {
+      "id": "cleaning_dustpan",
+      "category": "cleaning",
+      "prompt": "Plastic dustpan, handheld dust pan, product photography, white background"
+    },
+    {
+      "id": "cleaning_mop",
+      "category": "cleaning",
+      "prompt": "Floor mop with handle, string mop head, product photography, white background"
+    },
+    {
+      "id": "cleaning_vacuum_handheld",
+      "category": "cleaning",
+      "prompt": "Handheld vacuum cleaner, small cordless vacuum, product photography, white background"
+    },
+    {
+      "id": "cleaning_spray_bottle",
+      "category": "cleaning",
+      "prompt": "Blue cleaning spray bottle with trigger, product photography, white background"
+    },
+    {
+      "id": "cleaning_brush_scrub",
+      "category": "cleaning",
+      "prompt": "Scrub brush with handle, cleaning brush, product photography, white background"
+    },
+    {
+      "id": "cleaning_cloth_microfiber",
+      "category": "cleaning",
+      "prompt": "Blue microfiber cleaning cloth, folded, product photography, white background"
+    },
+    {
+      "id": "bathroom_toothbrush",
+      "category": "bathroom",
+      "prompt": "Blue plastic toothbrush, standard manual toothbrush, product photography, white background"
+    },
+    {
+      "id": "bathroom_toothpaste",
+      "category": "bathroom",
+      "prompt": "Toothpaste tube, white tube with cap, product photography, white background"
+    },
+    {
+      "id": "bathroom_soap_bar",
+      "category": "bathroom",
+      "prompt": "White bar of soap, rectangular soap bar, product photography, white background"
+    },
+    {
+      "id": "bathroom_soap_dispenser",
+      "category": "bathroom",
+      "prompt": "Liquid soap dispenser with pump, plastic bottle, product photography, white background"
+    },
+    {
+      "id": "bathroom_shampoo",
+      "category": "bathroom",
+      "prompt": "Shampoo bottle, white plastic bottle, product photography, white background"
+    },
+    {
+      "id": "bathroom_hairbrush",
+      "category": "bathroom",
+      "prompt": "Hairbrush with handle, paddle brush, product photography, white background"
+    },
+    {
+      "id": "bathroom_comb",
+      "category": "bathroom",
+      "prompt": "Black plastic comb, standard hair comb, product photography, white background"
+    },
+    {
+      "id": "bathroom_razor",
+      "category": "bathroom",
+      "prompt": "Disposable razor, plastic handle razor, product photography, white background"
+    },
+    {
+      "id": "bathroom_tissue_box",
+      "category": "bathroom",
+      "prompt": "Box of tissues, rectangular tissue box, product photography, white background"
+    },
+    {
+      "id": "bathroom_toilet_paper",
+      "category": "bathroom",
+      "prompt": "Roll of toilet paper, white paper roll, product photography, white background"
+    },
+    {
+      "id": "medical_bandage_roll",
+      "category": "medical",
+      "prompt": "Roll of white bandage, medical gauze roll, product photography, white background"
+    },
+    {
+      "id": "medical_bandaid",
+      "category": "medical",
+      "prompt": "Adhesive bandage, Band-Aid style, product photography, white background"
+    },
+    {
+      "id": "medical_syringe",
+      "category": "medical",
+      "prompt": "Medical syringe without needle, plastic syringe, product photography, white background"
+    },
+    {
+      "id": "medical_pill_bottle",
+      "category": "medical",
+      "prompt": "Orange prescription pill bottle, medicine container, product photography, white background"
+    },
+    {
+      "id": "medical_thermometer",
+      "category": "medical",
+      "prompt": "Digital thermometer, medical temperature reader, product photography, white background"
+    },
+    {
+      "id": "medical_stethoscope",
+      "category": "medical",
+      "prompt": "Black stethoscope, medical listening device, product photography, white background"
+    },
+    {
+      "id": "medical_first_aid_kit",
+      "category": "medical",
+      "prompt": "Red first aid kit box, medical emergency kit, product photography, white background"
+    },
+    {
+      "id": "medical_gloves_latex",
+      "category": "medical",
+      "prompt": "Blue latex medical gloves, disposable gloves, product photography, white background"
+    },
+    {
+      "id": "medical_mask",
+      "category": "medical",
+      "prompt": "Blue surgical face mask, medical mask, product photography, white background"
+    },
+    {
+      "id": "medical_cotton_ball",
+      "category": "medical",
+      "prompt": "White cotton ball, medical cotton, product photography, white background"
+    },
+    {
+      "id": "garden_pot_terracotta",
+      "category": "garden",
+      "prompt": "Terracotta plant pot, clay flower pot, product photography, white background"
+    },
+    {
+      "id": "garden_pot_plastic",
+      "category": "garden",
+      "prompt": "Green plastic plant pot, nursery pot, product photography, white background"
+    },
+    {
+      "id": "garden_watering_can",
+      "category": "garden",
+      "prompt": "Green watering can with spout, garden watering can, product photography, white background"
+    },
+    {
+      "id": "garden_trowel",
+      "category": "garden",
+      "prompt": "Garden hand trowel, small digging tool, product photography, white background"
+    },
+    {
+      "id": "garden_pruning_shears",
+      "category": "garden",
+      "prompt": "Pruning shears, garden scissors, product photography, white background"
+    },
+    {
+      "id": "garden_gloves",
+      "category": "garden",
+      "prompt": "Garden gloves, green fabric work gloves, product photography, white background"
+    },
+    {
+      "id": "garden_plant_small",
+      "category": "garden",
+      "prompt": "Small potted plant, green succulent in pot, product photography, white background"
+    },
+    {
+      "id": "garden_flower_pot",
+      "category": "garden",
+      "prompt": "Flowering plant in pot, colorful flowers in pot, product photography, white background"
+    },
+    {
+      "id": "garden_seed_packet",
+      "category": "garden",
+      "prompt": "Seed packet envelope, garden seeds paper packet, product photography, white background"
+    },
+    {
+      "id": "garden_fertilizer_bag",
+      "category": "garden",
+      "prompt": "Small bag of plant fertilizer, soil amendment bag, product photography, white background"
+    },
+    {
+      "id": "sports_dumbbell",
+      "category": "sports",
+      "prompt": "Black dumbbell weight, single hand weight, product photography, white background"
+    },
+    {
+      "id": "sports_kettlebell",
+      "category": "sports",
+      "prompt": "Black kettlebell, cast iron kettle bell weight, product photography, white background"
+    },
+    {
+      "id": "sports_yoga_mat",
+      "category": "sports",
+      "prompt": "Rolled yoga mat, purple exercise mat, product photography, white background"
+    },
+    {
+      "id": "sports_jump_rope",
+      "category": "sports",
+      "prompt": "Jump rope with handles, skipping rope, product photography, white background"
+    },
+    {
+      "id": "sports_resistance_band",
+      "category": "sports",
+      "prompt": "Red resistance band loop, exercise band, product photography, white background"
+    },
+    {
+      "id": "sports_foam_roller",
+      "category": "sports",
+      "prompt": "Black foam roller, muscle massage roller, product photography, white background"
+    },
+    {
+      "id": "sports_water_bottle",
+      "category": "sports",
+      "prompt": "Sports water bottle, squeeze bottle with cap, product photography, white background"
+    },
+    {
+      "id": "sports_sweatband",
+      "category": "sports",
+      "prompt": "White sweatband wristband, terry cloth band, product photography, white background"
+    },
+    {
+      "id": "sports_whistle",
+      "category": "sports",
+      "prompt": "Silver metal whistle with cord, referee whistle, product photography, white background"
+    },
+    {
+      "id": "sports_stopwatch",
+      "category": "sports",
+      "prompt": "Digital stopwatch timer, handheld stopwatch, product photography, white background"
+    },
+    {
+      "id": "hardware_screw",
+      "category": "hardware",
+      "prompt": "Metal screw, Phillips head screw, silver, product photography, white background"
+    },
+    {
+      "id": "hardware_bolt",
+      "category": "hardware",
+      "prompt": "Metal hex bolt, threaded bolt with hex head, product photography, white background"
+    },
+    {
+      "id": "hardware_nut",
+      "category": "hardware",
+      "prompt": "Metal hex nut, threaded nut, silver, product photography, white background"
+    },
+    {
+      "id": "hardware_washer",
+      "category": "hardware",
+      "prompt": "Metal washer, flat ring washer, silver, product photography, white background"
+    },
+    {
+      "id": "hardware_nail",
+      "category": "hardware",
+      "prompt": "Metal nail, common nail with flat head, product photography, white background"
+    },
+    {
+      "id": "hardware_hook",
+      "category": "hardware",
+      "prompt": "Metal hook, wall hook curved, product photography, white background"
+    },
+    {
+      "id": "hardware_hinge",
+      "category": "hardware",
+      "prompt": "Metal door hinge, cabinet hinge, product photography, white background"
+    },
+    {
+      "id": "hardware_spring",
+      "category": "hardware",
+      "prompt": "Metal coil spring, compression spring, product photography, white background"
+    },
+    {
+      "id": "hardware_chain_link",
+      "category": "hardware",
+      "prompt": "Metal chain links, short chain section, product photography, white background"
+    },
+    {
+      "id": "hardware_carabiner",
+      "category": "hardware",
+      "prompt": "Metal carabiner clip, spring gate clip, product photography, white background"
+    },
+    {
+      "id": "hardware_padlock",
+      "category": "hardware",
+      "prompt": "Brass padlock with key, security lock, product photography, white background"
+    },
+    {
+      "id": "hardware_key",
+      "category": "hardware",
+      "prompt": "Metal key, standard door key, product photography, white background"
+    },
+    {
+      "id": "hardware_magnet_bar",
+      "category": "hardware",
+      "prompt": "Red and blue bar magnet, rectangular magnet, product photography, white background"
+    },
+    {
+      "id": "hardware_magnet_horseshoe",
+      "category": "hardware",
+      "prompt": "Red horseshoe magnet, U-shaped magnet, product photography, white background"
+    },
+    {
+      "id": "packaging_bubble_wrap",
+      "category": "packaging",
+      "prompt": "Section of bubble wrap, plastic packing material, product photography, white background"
+    },
+    {
+      "id": "packaging_packing_peanut",
+      "category": "packaging",
+      "prompt": "White packing peanuts, foam shipping material, product photography, white background"
+    },
+    {
+      "id": "packaging_envelope",
+      "category": "packaging",
+      "prompt": "White envelope, standard mail envelope, product photography, white background"
+    },
+    {
+      "id": "packaging_padded_envelope",
+      "category": "packaging",
+      "prompt": "Padded mailing envelope, bubble mailer, product photography, white background"
+    },
+    {
+      "id": "packaging_shipping_box",
+      "category": "packaging",
+      "prompt": "Brown shipping box, corrugated cardboard box, product photography, white background"
+    },
+    {
+      "id": "packaging_tape_roll",
+      "category": "packaging",
+      "prompt": "Clear packing tape roll, shipping tape, product photography, white background"
+    },
+    {
+      "id": "packaging_label",
+      "category": "packaging",
+      "prompt": "White shipping label, rectangular sticker label, product photography, white background"
+    },
+    {
+      "id": "geometric_mobius_strip",
+      "category": "geometric",
+      "prompt": "Mobius strip sculpture, twisted loop band, silver metal, product photography, white background"
+    },
+    {
+      "id": "geometric_klein_bottle",
+      "category": "geometric",
+      "prompt": "Glass Klein bottle, mathematical shape, transparent glass, product photography, white background"
+    },
+    {
+      "id": "geometric_trefoil_knot",
+      "category": "geometric",
+      "prompt": "Trefoil knot sculpture, twisted loop shape, shiny metal, product photography, white background"
+    },
+    {
+      "id": "geometric_dodecahedron",
+      "category": "geometric",
+      "prompt": "Dodecahedron, 12 pentagon faces, clear plastic geometric shape, product photography, white background"
+    },
+    {
+      "id": "geometric_icosahedron",
+      "category": "geometric",
+      "prompt": "Icosahedron, 20 triangle faces, blue plastic geometric shape, product photography, white background"
+    },
+    {
+      "id": "geometric_octahedron",
+      "category": "geometric",
+      "prompt": "Octahedron, 8 triangle faces, red plastic geometric shape, product photography, white background"
+    },
+    {
+      "id": "geometric_stellated_dodeca",
+      "category": "geometric",
+      "prompt": "Stellated dodecahedron, spiky star shape, gold metallic, product photography, white background"
+    },
+    {
+      "id": "geometric_buckeyball",
+      "category": "geometric",
+      "prompt": "Buckyball C60 model, spherical molecule structure, black and white, product photography, white background"
+    },
+    {
+      "id": "geometric_tesseract",
+      "category": "geometric",
+      "prompt": "Tesseract hypercube model, 4D cube projection, wire frame metal, product photography, white background"
+    },
+    {
+      "id": "lab_beaker",
+      "category": "lab",
+      "prompt": "Glass laboratory beaker, 250ml with measurements, product photography, white background"
+    },
+    {
+      "id": "lab_flask_erlenmeyer",
+      "category": "lab",
+      "prompt": "Erlenmeyer flask, conical glass flask, product photography, white background"
+    },
+    {
+      "id": "lab_flask_round",
+      "category": "lab",
+      "prompt": "Round bottom flask, spherical glass flask, product photography, white background"
+    },
+    {
+      "id": "lab_test_tube",
+      "category": "lab",
+      "prompt": "Glass test tube, cylindrical tube, product photography, white background"
+    },
+    {
+      "id": "lab_test_tube_rack",
+      "category": "lab",
+      "prompt": "Test tube rack, plastic holder for tubes, product photography, white background"
+    },
+    {
+      "id": "lab_petri_dish",
+      "category": "lab",
+      "prompt": "Glass petri dish with lid, flat round dish, product photography, white background"
+    },
+    {
+      "id": "lab_graduated_cylinder",
+      "category": "lab",
+      "prompt": "Glass graduated cylinder, tall measuring cylinder, product photography, white background"
+    },
+    {
+      "id": "lab_pipette",
+      "category": "lab",
+      "prompt": "Glass pipette, dropper tube, product photography, white background"
+    },
+    {
+      "id": "lab_microscope",
+      "category": "lab",
+      "prompt": "Laboratory microscope, black scientific microscope, product photography, white background"
+    },
+    {
+      "id": "lab_magnifying_glass",
+      "category": "lab",
+      "prompt": "Magnifying glass with handle, glass lens magnifier, product photography, white background"
+    },
+    {
+      "id": "lab_bunsen_burner",
+      "category": "lab",
+      "prompt": "Bunsen burner, laboratory gas burner, product photography, white background"
+    },
+    {
+      "id": "lab_funnel",
+      "category": "lab",
+      "prompt": "Glass funnel, conical laboratory funnel, product photography, white background"
+    },
+    {
+      "id": "lab_stirring_rod",
+      "category": "lab",
+      "prompt": "Glass stirring rod, long thin rod, product photography, white background"
+    },
+    {
+      "id": "lab_mortar_pestle",
+      "category": "lab",
+      "prompt": "Ceramic mortar and pestle, grinding bowl and tool, product photography, white background"
+    },
+    {
+      "id": "lab_safety_goggles",
+      "category": "lab",
+      "prompt": "Safety goggles, clear protective eyewear, product photography, white background"
+    },
+    {
+      "id": "music_drum_stick",
+      "category": "music",
+      "prompt": "Wooden drum stick, single drumstick, product photography, white background"
+    },
+    {
+      "id": "music_tambourine",
+      "category": "music",
+      "prompt": "Tambourine with jingles, hand percussion instrument, product photography, white background"
+    },
+    {
+      "id": "music_maracas",
+      "category": "music",
+      "prompt": "Colorful maracas, pair of shaker instruments, product photography, white background"
+    },
+    {
+      "id": "music_triangle",
+      "category": "music",
+      "prompt": "Metal triangle instrument with striker, percussion, product photography, white background"
+    },
+    {
+      "id": "music_harmonica",
+      "category": "music",
+      "prompt": "Silver harmonica, mouth organ instrument, product photography, white background"
+    },
+    {
+      "id": "music_kazoo",
+      "category": "music",
+      "prompt": "Colorful kazoo, toy instrument, product photography, white background"
+    },
+    {
+      "id": "music_recorder",
+      "category": "music",
+      "prompt": "Plastic recorder flute, white and brown, product photography, white background"
+    },
+    {
+      "id": "music_xylophone_key",
+      "category": "music",
+      "prompt": "Single xylophone bar, colorful metal bar, product photography, white background"
+    },
+    {
+      "id": "music_metronome",
+      "category": "music",
+      "prompt": "Classic metronome, pyramid shaped timer, product photography, white background"
+    },
+    {
+      "id": "music_tuning_fork",
+      "category": "music",
+      "prompt": "Metal tuning fork, U-shaped fork, product photography, white background"
+    },
+    {
+      "id": "art_paintbrush_round",
+      "category": "art",
+      "prompt": "Artist paintbrush, round tip brush with wooden handle, product photography, white background"
+    },
+    {
+      "id": "art_paintbrush_flat",
+      "category": "art",
+      "prompt": "Flat artist brush, wide bristle brush, product photography, white background"
+    },
+    {
+      "id": "art_paint_tube",
+      "category": "art",
+      "prompt": "Oil paint tube, aluminum paint tube, product photography, white background"
+    },
+    {
+      "id": "art_palette",
+      "category": "art",
+      "prompt": "Artist paint palette, wooden oval palette with thumb hole, product photography, white background"
+    },
+    {
+      "id": "art_canvas_small",
+      "category": "art",
+      "prompt": "Small blank canvas, stretched canvas on frame, product photography, white background"
+    },
+    {
+      "id": "art_easel_tabletop",
+      "category": "art",
+      "prompt": "Small tabletop easel, wooden artist easel, product photography, white background"
+    },
+    {
+      "id": "art_crayon",
+      "category": "art",
+      "prompt": "Red crayon, wax crayon, product photography, white background"
+    },
+    {
+      "id": "art_colored_pencil",
+      "category": "art",
+      "prompt": "Colored pencil, blue pencil, product photography, white background"
+    },
+    {
+      "id": "art_chalk_stick",
+      "category": "art",
+      "prompt": "White chalk stick, classroom chalk, product photography, white background"
+    },
+    {
+      "id": "art_charcoal_stick",
+      "category": "art",
+      "prompt": "Artist charcoal stick, drawing charcoal, product photography, white background"
+    },
+    {
+      "id": "art_clay_block",
+      "category": "art",
+      "prompt": "Block of modeling clay, gray sculpting clay, product photography, white background"
+    },
+    {
+      "id": "art_glue_stick",
+      "category": "art",
+      "prompt": "Glue stick, craft adhesive, product photography, white background"
+    },
+    {
+      "id": "art_glue_bottle",
+      "category": "art",
+      "prompt": "White craft glue bottle, Elmer's style, product photography, white background"
+    },
+    {
+      "id": "peg_board_base",
+      "category": "peg_insertion",
+      "prompt": "Wooden peg board with holes, therapy peg board, product photography, white background"
+    },
+    {
+      "id": "peg_cylinder_red",
+      "category": "peg_insertion",
+      "prompt": "Red wooden peg, cylindrical peg for peg board, product photography, white background"
+    },
+    {
+      "id": "peg_cylinder_blue",
+      "category": "peg_insertion",
+      "prompt": "Blue wooden peg, cylindrical therapy peg, product photography, white background"
+    },
+    {
+      "id": "peg_cylinder_yellow",
+      "category": "peg_insertion",
+      "prompt": "Yellow wooden peg, therapy peg piece, product photography, white background"
+    },
+    {
+      "id": "peg_cylinder_green",
+      "category": "peg_insertion",
+      "prompt": "Green wooden peg, small cylindrical peg, product photography, white background"
+    },
+    {
+      "id": "peg_square_red",
+      "category": "peg_insertion",
+      "prompt": "Red square peg, square shaped peg piece, product photography, white background"
+    },
+    {
+      "id": "peg_triangle_blue",
+      "category": "peg_insertion",
+      "prompt": "Blue triangular peg, triangle shaped piece, product photography, white background"
+    },
+    {
+      "id": "shape_sorter_cube",
+      "category": "peg_insertion",
+      "prompt": "Shape sorter toy cube, box with shape holes, colorful, product photography, white background"
+    },
+    {
+      "id": "sorting_tray",
+      "category": "sorting",
+      "prompt": "Sorting tray with compartments, divided organizer tray, product photography, white background"
+    },
+    {
+      "id": "sorting_bin_red",
+      "category": "sorting",
+      "prompt": "Red plastic sorting bin, small container box, product photography, white background"
+    },
+    {
+      "id": "sorting_bin_blue",
+      "category": "sorting",
+      "prompt": "Blue plastic sorting bin, small storage container, product photography, white background"
+    },
+    {
+      "id": "sorting_bin_green",
+      "category": "sorting",
+      "prompt": "Green plastic sorting bin, small plastic box, product photography, white background"
+    },
+    {
+      "id": "sorting_bin_yellow",
+      "category": "sorting",
+      "prompt": "Yellow plastic sorting bin, small container, product photography, white background"
+    },
+    {
+      "id": "bead_red",
+      "category": "sorting",
+      "prompt": "Red wooden bead, round bead for threading, product photography, white background"
+    },
+    {
+      "id": "bead_blue",
+      "category": "sorting",
+      "prompt": "Blue wooden bead, spherical craft bead, product photography, white background"
+    },
+    {
+      "id": "bead_string",
+      "category": "sorting",
+      "prompt": "Threading lace for beads, cord for bead stringing, product photography, white background"
+    },
+    {
+      "id": "button_red",
+      "category": "sorting",
+      "prompt": "Large red button, round sewing button, product photography, white background"
+    },
+    {
+      "id": "button_blue",
+      "category": "sorting",
+      "prompt": "Large blue button, plastic button with holes, product photography, white background"
+    },
+    {
+      "id": "coin_gold",
+      "category": "sorting",
+      "prompt": "Gold coin, round metal coin, product photography, white background"
+    },
+    {
+      "id": "coin_silver",
+      "category": "sorting",
+      "prompt": "Silver coin, metallic round coin, product photography, white background"
+    },
+    {
+      "id": "poker_chip_red",
+      "category": "sorting",
+      "prompt": "Red poker chip, casino chip, product photography, white background"
+    },
+    {
+      "id": "poker_chip_blue",
+      "category": "sorting",
+      "prompt": "Blue poker chip, gambling chip, product photography, white background"
+    },
+    {
+      "id": "poker_chip_white",
+      "category": "sorting",
+      "prompt": "White poker chip, plastic chip, product photography, white background"
+    },
+    {
+      "id": "textured_rough_cube",
+      "category": "textured",
+      "prompt": "Rough textured cube, bumpy surface plastic cube, product photography, white background"
+    },
+    {
+      "id": "textured_smooth_cube",
+      "category": "textured",
+      "prompt": "Very smooth glossy cube, polished shiny cube, product photography, white background"
+    },
+    {
+      "id": "textured_ribbed_cylinder",
+      "category": "textured",
+      "prompt": "Ribbed cylinder with horizontal ridges, grooved surface, product photography, white background"
+    },
+    {
+      "id": "textured_knurled_cylinder",
+      "category": "textured",
+      "prompt": "Knurled metal cylinder, diamond pattern grip texture, product photography, white background"
+    },
+    {
+      "id": "textured_fuzzy_ball",
+      "category": "textured",
+      "prompt": "Fuzzy textured ball, soft pom pom sphere, product photography, white background"
+    },
+    {
+      "id": "textured_spiky_ball",
+      "category": "textured",
+      "prompt": "Spiky massage ball, ball with soft rubber spikes, product photography, white background"
+    },
+    {
+      "id": "textured_bumpy_sphere",
+      "category": "textured",
+      "prompt": "Bumpy textured sphere, ball with raised dots, product photography, white background"
+    },
+    {
+      "id": "textured_wavy_block",
+      "category": "textured",
+      "prompt": "Block with wavy surface pattern, undulating texture, product photography, white background"
+    },
+    {
+      "id": "textured_honeycomb",
+      "category": "textured",
+      "prompt": "Block with honeycomb pattern surface, hexagonal cells, product photography, white background"
+    },
+    {
+      "id": "textured_perforated",
+      "category": "textured",
+      "prompt": "Perforated block with many small holes, swiss cheese pattern, product photography, white background"
+    },
+    {
+      "id": "pattern_striped_cube",
+      "category": "patterned",
+      "prompt": "Cube with red and white stripes, striped pattern block, product photography, white background"
+    },
+    {
+      "id": "pattern_checkered_cube",
+      "category": "patterned",
+      "prompt": "Cube with black and white checkered pattern, checkerboard block, product photography, white background"
+    },
+    {
+      "id": "pattern_polkadot_sphere",
+      "category": "patterned",
+      "prompt": "White sphere with red polka dots, spotted ball, product photography, white background"
+    },
+    {
+      "id": "pattern_polkadot_cube",
+      "category": "patterned",
+      "prompt": "White cube with blue polka dots, spotted block, product photography, white background"
+    },
+    {
+      "id": "pattern_spiral_cylinder",
+      "category": "patterned",
+      "prompt": "Cylinder with spiral stripe pattern, barber pole style, product photography, white background"
+    },
+    {
+      "id": "pattern_gradient_sphere",
+      "category": "patterned",
+      "prompt": "Sphere with gradient color from red to blue, color fade ball, product photography, white background"
+    },
+    {
+      "id": "pattern_camouflage_cube",
+      "category": "patterned",
+      "prompt": "Cube with camouflage pattern, camo printed block, product photography, white background"
+    },
+    {
+      "id": "pattern_leopard_sphere",
+      "category": "patterned",
+      "prompt": "Sphere with leopard print pattern, animal print ball, product photography, white background"
+    },
+    {
+      "id": "pattern_zebra_cube",
+      "category": "patterned",
+      "prompt": "Cube with zebra stripe pattern, black white stripes, product photography, white background"
+    },
+    {
+      "id": "pattern_tie_dye_sphere",
+      "category": "patterned",
+      "prompt": "Sphere with tie dye pattern, colorful swirl ball, product photography, white background"
+    },
+    {
+      "id": "transparent_cube_red",
+      "category": "transparent",
+      "prompt": "Transparent red acrylic cube, see through red block, product photography, white background"
+    },
+    {
+      "id": "transparent_cube_blue",
+      "category": "transparent",
+      "prompt": "Transparent blue acrylic cube, clear blue block, product photography, white background"
+    },
+    {
+      "id": "transparent_cube_green",
+      "category": "transparent",
+      "prompt": "Transparent green acrylic cube, see through green, product photography, white background"
+    },
+    {
+      "id": "transparent_sphere_red",
+      "category": "transparent",
+      "prompt": "Transparent red glass sphere, see through red ball, product photography, white background"
+    },
+    {
+      "id": "transparent_sphere_blue",
+      "category": "transparent",
+      "prompt": "Transparent blue glass marble, clear blue sphere, product photography, white background"
+    },
+    {
+      "id": "transparent_cylinder",
+      "category": "transparent",
+      "prompt": "Clear acrylic cylinder, transparent tube shape, product photography, white background"
+    },
+    {
+      "id": "frosted_cube",
+      "category": "transparent",
+      "prompt": "Frosted translucent cube, milky glass block, product photography, white background"
+    },
+    {
+      "id": "frosted_sphere",
+      "category": "transparent",
+      "prompt": "Frosted glass sphere, milky translucent ball, product photography, white background"
+    },
+    {
+      "id": "deformable_sponge_cube",
+      "category": "deformable",
+      "prompt": "Yellow sponge cube, soft squeezable foam cube, product photography, white background"
+    },
+    {
+      "id": "deformable_sponge_sphere",
+      "category": "deformable",
+      "prompt": "Foam ball, soft squeezable sphere, product photography, white background"
+    },
+    {
+      "id": "deformable_stress_ball",
+      "category": "deformable",
+      "prompt": "Gel stress ball, squishy squeeze ball, product photography, white background"
+    },
+    {
+      "id": "deformable_putty",
+      "category": "deformable",
+      "prompt": "Ball of silly putty, moldable putty blob, product photography, white background"
+    },
+    {
+      "id": "deformable_playdough",
+      "category": "deformable",
+      "prompt": "Ball of play dough, colorful modeling clay ball, product photography, white background"
+    },
+    {
+      "id": "deformable_rubber_band_ball",
+      "category": "deformable",
+      "prompt": "Rubber band ball, ball made of wrapped rubber bands, product photography, white background"
+    },
+    {
+      "id": "deformable_balloon",
+      "category": "deformable",
+      "prompt": "Inflated red balloon, round latex balloon, product photography, white background"
+    },
+    {
+      "id": "deformable_water_balloon",
+      "category": "deformable",
+      "prompt": "Filled water balloon, blue rubber balloon, product photography, white background"
+    },
+    {
+      "id": "articulated_pliers_toy",
+      "category": "articulated",
+      "prompt": "Toy pliers, plastic pliers that open and close, product photography, white background"
+    },
+    {
+      "id": "articulated_scissors_toy",
+      "category": "articulated",
+      "prompt": "Toy scissors, child safe scissors, product photography, white background"
+    },
+    {
+      "id": "articulated_tongs_toy",
+      "category": "articulated",
+      "prompt": "Toy tongs, plastic grabber tool, product photography, white background"
+    },
+    {
+      "id": "articulated_hinge_demo",
+      "category": "articulated",
+      "prompt": "Hinged demonstration model, two plates connected by hinge, product photography, white background"
+    },
+    {
+      "id": "articulated_chain",
+      "category": "articulated",
+      "prompt": "Short chain with links, metal chain segment, product photography, white background"
+    },
+    {
+      "id": "articulated_beaded_snake",
+      "category": "articulated",
+      "prompt": "Wooden bead snake toy, connected wood segments, product photography, white background"
+    },
+    {
+      "id": "articulated_folding_ruler",
+      "category": "articulated",
+      "prompt": "Folding ruler, segmented hinged ruler, product photography, white background"
+    },
+    {
+      "id": "hollow_box_open",
+      "category": "hollow",
+      "prompt": "Open hollow box, empty cube with one open face, product photography, white background"
+    },
+    {
+      "id": "hollow_cylinder_tube",
+      "category": "hollow",
+      "prompt": "Hollow tube cylinder, pipe with both ends open, product photography, white background"
+    },
+    {
+      "id": "hollow_sphere_half",
+      "category": "hollow",
+      "prompt": "Hollow hemisphere, half sphere bowl shape, product photography, white background"
+    },
+    {
+      "id": "hollow_cone_shell",
+      "category": "hollow",
+      "prompt": "Hollow cone shell, thin walled cone, product photography, white background"
+    },
+    {
+      "id": "hollow_torus_tube",
+      "category": "hollow",
+      "prompt": "Hollow torus, thin walled donut ring, product photography, white background"
+    },
+    {
+      "id": "weighted_heavy_cube",
+      "category": "weighted",
+      "prompt": "Heavy metal cube, dense steel cube weight, product photography, white background"
+    },
+    {
+      "id": "weighted_light_cube",
+      "category": "weighted",
+      "prompt": "Light foam cube, very lightweight block, product photography, white background"
+    },
+    {
+      "id": "weighted_heavy_sphere",
+      "category": "weighted",
+      "prompt": "Heavy metal ball, dense steel ball bearing, product photography, white background"
+    },
+    {
+      "id": "weighted_uneven_block",
+      "category": "weighted",
+      "prompt": "Block with off center weight, unbalanced cube, product photography, white background"
+    },
+    {
+      "id": "weighted_pendulum",
+      "category": "weighted",
+      "prompt": "Pendulum weight, hanging weight on string, product photography, white background"
+    },
+    {
+      "id": "magnetic_cube_set",
+      "category": "magnetic",
+      "prompt": "Magnetic building cubes, colorful magnetic blocks that stick together, product photography, white background"
+    },
+    {
+      "id": "magnetic_ball_set",
+      "category": "magnetic",
+      "prompt": "Magnetic ball bearings, silver balls that attract, product photography, white background"
+    },
+    {
+      "id": "magnetic_rod",
+      "category": "magnetic",
+      "prompt": "Magnetic rod, metal rod that is magnetic, product photography, white background"
+    },
+    {
+      "id": "magnetic_letters",
+      "category": "magnetic",
+      "prompt": "Colorful magnetic letters, alphabet fridge magnets, product photography, white background"
+    },
+    {
+      "id": "magnetic_fishing_toy",
+      "category": "magnetic",
+      "prompt": "Magnetic fishing rod toy with fish, children's fishing game, product photography, white background"
+    },
+    {
+      "id": "connector_lego_baseplate",
+      "category": "connector",
+      "prompt": "Green LEGO baseplate, flat building surface with studs, product photography, white background"
+    },
+    {
+      "id": "connector_puzzle_piece_corner",
+      "category": "connector",
+      "prompt": "Corner jigsaw puzzle piece, interlocking piece, product photography, white background"
+    },
+    {
+      "id": "connector_puzzle_piece_edge",
+      "category": "connector",
+      "prompt": "Edge jigsaw puzzle piece, flat side piece, product photography, white background"
+    },
+    {
+      "id": "connector_snap_cube",
+      "category": "connector",
+      "prompt": "Snap cube, interlocking math cube that clicks together, product photography, white background"
+    },
+    {
+      "id": "connector_lincoln_log",
+      "category": "connector",
+      "prompt": "Lincoln log, notched wooden building log, product photography, white background"
+    },
+    {
+      "id": "connector_tinker_toy",
+      "category": "connector",
+      "prompt": "Tinker toy pieces, wooden rods and connector wheels, product photography, white background"
+    },
+    {
+      "id": "balance_scale",
+      "category": "balance",
+      "prompt": "Balance scale, two pan weighing scale, product photography, white background"
+    },
+    {
+      "id": "balance_seesaw",
+      "category": "balance",
+      "prompt": "Seesaw toy, teeter totter balance toy, product photography, white background"
+    },
+    {
+      "id": "balance_stacking_stones",
+      "category": "balance",
+      "prompt": "Stacking balance stones, smooth pebbles for stacking, product photography, white background"
+    },
+    {
+      "id": "balance_wobbly_base",
+      "category": "balance",
+      "prompt": "Wobbly balance board, curved bottom platform, product photography, white background"
+    },
+    {
+      "id": "balance_gyroscope",
+      "category": "balance",
+      "prompt": "Spinning gyroscope toy, metal gyroscope on stand, product photography, white background"
+    },
+    {
+      "id": "misc_key_ring",
+      "category": "misc",
+      "prompt": "Key ring with keys, metal keychain with several keys, product photography, white background"
+    },
+    {
+      "id": "misc_wallet",
+      "category": "misc",
+      "prompt": "Brown leather wallet, bifold wallet, product photography, white background"
+    },
+    {
+      "id": "misc_sunglasses",
+      "category": "misc",
+      "prompt": "Black sunglasses, aviator style sunglasses, product photography, white background"
+    },
+    {
+      "id": "misc_glasses",
+      "category": "misc",
+      "prompt": "Reading glasses, clear lens eyeglasses, product photography, white background"
+    },
+    {
+      "id": "misc_umbrella_closed",
+      "category": "misc",
+      "prompt": "Closed umbrella, folded black umbrella, product photography, white background"
+    },
+    {
+      "id": "misc_lanyard",
+      "category": "misc",
+      "prompt": "ID lanyard with clip, fabric neck strap, product photography, white background"
+    },
+    {
+      "id": "misc_badge",
+      "category": "misc",
+      "prompt": "ID badge, rectangular name badge with clip, product photography, white background"
+    },
+    {
+      "id": "misc_coin_purse",
+      "category": "misc",
+      "prompt": "Small coin purse, fabric change purse, product photography, white background"
+    },
+    {
+      "id": "misc_business_card",
+      "category": "misc",
+      "prompt": "Business card, white rectangle card, product photography, white background"
+    },
+    {
+      "id": "misc_credit_card",
+      "category": "misc",
+      "prompt": "Credit card, plastic payment card, product photography, white background"
+    },
+    {
+      "id": "misc_ticket",
+      "category": "misc",
+      "prompt": "Paper ticket, admission ticket stub, product photography, white background"
+    },
+    {
+      "id": "misc_postcard",
+      "category": "misc",
+      "prompt": "Postcard, rectangular photo card, product photography, white background"
+    },
+    {
+      "id": "misc_photograph",
+      "category": "misc",
+      "prompt": "Printed photograph, 4x6 photo print, product photography, white background"
+    },
+    {
+      "id": "misc_book_small",
+      "category": "misc",
+      "prompt": "Small paperback book, closed book, product photography, white background"
+    },
+    {
+      "id": "misc_magazine",
+      "category": "misc",
+      "prompt": "Magazine, glossy magazine cover, product photography, white background"
+    },
+    {
+      "id": "misc_newspaper",
+      "category": "misc",
+      "prompt": "Folded newspaper, daily newspaper, product photography, white background"
+    },
+    {
+      "id": "misc_calendar",
+      "category": "misc",
+      "prompt": "Desk calendar, small standing calendar, product photography, white background"
+    },
+    {
+      "id": "misc_picture_frame",
+      "category": "misc",
+      "prompt": "Picture frame, small photo frame, product photography, white background"
+    },
+    {
+      "id": "misc_mirror_small",
+      "category": "misc",
+      "prompt": "Small handheld mirror, circular compact mirror, product photography, white background"
+    },
+    {
+      "id": "misc_bell",
+      "category": "misc",
+      "prompt": "Small metal bell, hand bell with handle, product photography, white background"
+    },
+    {
+      "id": "misc_candle",
+      "category": "misc",
+      "prompt": "White pillar candle, cylinder candle, product photography, white background"
+    },
+    {
+      "id": "misc_matchbox",
+      "category": "misc",
+      "prompt": "Matchbox, small box of matches, product photography, white background"
+    },
+    {
+      "id": "misc_lighter",
+      "category": "misc",
+      "prompt": "Disposable lighter, BIC style lighter, product photography, white background"
+    },
+    {
+      "id": "misc_compass",
+      "category": "misc",
+      "prompt": "Magnetic compass, navigation compass, product photography, white background"
+    },
+    {
+      "id": "misc_hourglass",
+      "category": "misc",
+      "prompt": "Sand hourglass timer, glass hourglass, product photography, white background"
+    },
+    {
+      "id": "misc_snow_globe",
+      "category": "misc",
+      "prompt": "Snow globe, decorative snow dome, product photography, white background"
+    },
+    {
+      "id": "misc_trophy_small",
+      "category": "misc",
+      "prompt": "Small trophy, gold cup trophy award, product photography, white background"
+    },
+    {
+      "id": "misc_medal",
+      "category": "misc",
+      "prompt": "Gold medal on ribbon, award medal, product photography, white background"
+    },
+    {
+      "id": "misc_badge_sheriff",
+      "category": "misc",
+      "prompt": "Sheriff star badge, metal star badge, product photography, white background"
+    },
+    {
+      "id": "misc_crown_toy",
+      "category": "misc",
+      "prompt": "Toy crown, gold plastic crown, product photography, white background"
+    },
+    {
+      "id": "misc_wand_magic",
+      "category": "misc",
+      "prompt": "Magic wand toy, black and white wand, product photography, white background"
+    },
+    {
+      "id": "misc_fan_handheld",
+      "category": "misc",
+      "prompt": "Handheld folding fan, paper fan, product photography, white background"
+    },
+    {
+      "id": "misc_pinwheel",
+      "category": "misc",
+      "prompt": "Colorful pinwheel, spinning wind toy, product photography, white background"
+    },
+    {
+      "id": "zone_marker_circle_red",
+      "category": "zone_marker",
+      "prompt": "Flat red circle marker, thin disc zone indicator, product photography, white background"
+    },
+    {
+      "id": "zone_marker_circle_blue",
+      "category": "zone_marker",
+      "prompt": "Flat blue circle marker, thin disc zone indicator, product photography, white background"
+    },
+    {
+      "id": "zone_marker_circle_green",
+      "category": "zone_marker",
+      "prompt": "Flat green circle marker, thin disc zone indicator, product photography, white background"
+    },
+    {
+      "id": "zone_marker_circle_yellow",
+      "category": "zone_marker",
+      "prompt": "Flat yellow circle marker, thin disc zone indicator, product photography, white background"
+    },
+    {
+      "id": "zone_marker_square_red",
+      "category": "zone_marker",
+      "prompt": "Flat red square marker, thin square zone indicator, product photography, white background"
+    },
+    {
+      "id": "zone_marker_square_blue",
+      "category": "zone_marker",
+      "prompt": "Flat blue square marker, thin square zone indicator, product photography, white background"
+    },
+    {
+      "id": "zone_marker_arrow",
+      "category": "zone_marker",
+      "prompt": "Arrow shaped marker, directional arrow indicator, product photography, white background"
+    },
+    {
+      "id": "zone_marker_x",
+      "category": "zone_marker",
+      "prompt": "X shaped marker, cross target marker, product photography, white background"
+    },
+    {
+      "id": "zone_marker_checkmark",
+      "category": "zone_marker",
+      "prompt": "Checkmark shaped marker, tick mark indicator green, product photography, white background"
+    },
+    {
+      "id": "zone_marker_star",
+      "category": "zone_marker",
+      "prompt": "Star shaped marker, flat star zone indicator, product photography, white background"
+    },
+    {
+      "id": "occluder_panel_black",
+      "category": "occluder",
+      "prompt": "Flat black panel, rectangular occluder board, product photography, white background"
+    },
+    {
+      "id": "occluder_panel_white",
+      "category": "occluder",
+      "prompt": "Flat white panel, rectangular occluder board, product photography, white background"
+    },
+    {
+      "id": "occluder_panel_gray",
+      "category": "occluder",
+      "prompt": "Flat gray panel, neutral occluder board, product photography, white background"
+    },
+    {
+      "id": "occluder_screen_portable",
+      "category": "occluder",
+      "prompt": "Portable folding screen, privacy panel, product photography, white background"
+    },
+    {
+      "id": "occluder_box_large",
+      "category": "occluder",
+      "prompt": "Large open box for hiding objects, cardboard hiding box, product photography, white background"
+    },
+    {
+      "id": "distractor_shiny_object",
+      "category": "distractor",
+      "prompt": "Shiny reflective object, chrome metallic shape, product photography, white background"
+    },
+    {
+      "id": "distractor_colorful_object",
+      "category": "distractor",
+      "prompt": "Very colorful rainbow object, attention grabbing, product photography, white background"
+    },
+    {
+      "id": "distractor_noise_maker",
+      "category": "distractor",
+      "prompt": "Bell or rattle noise maker toy, product photography, white background"
+    },
+    {
+      "id": "distractor_moving_toy",
+      "category": "distractor",
+      "prompt": "Wind up walking toy, moving mechanical toy, product photography, white background"
+    },
+    {
+      "id": "distractor_blinking_light",
+      "category": "distractor",
+      "prompt": "LED blinking light toy, flashing light device, product photography, white background"
+    },
+    {
+      "id": "calibration_checkerboard",
+      "category": "calibration",
+      "prompt": "Checkerboard calibration pattern, black and white squares grid, product photography, white background"
+    },
+    {
+      "id": "calibration_aruco_marker",
+      "category": "calibration",
+      "prompt": "ArUco marker square, black and white pattern for tracking, product photography, white background"
+    },
+    {
+      "id": "calibration_color_chart",
+      "category": "calibration",
+      "prompt": "Color calibration chart, grid of color squares, product photography, white background"
+    },
+    {
+      "id": "calibration_ruler_metric",
+      "category": "calibration",
+      "prompt": "Metric ruler, millimeter scale ruler, product photography, white background"
+    },
+    {
+      "id": "calibration_cube_reference",
+      "category": "calibration",
+      "prompt": "Reference cube with measurement markings, size calibration cube, product photography, white background"
+    },
+    {
+      "id": "gripper_test_thin",
+      "category": "gripper_test",
+      "prompt": "Very thin flat object, thin plastic card for grip testing, product photography, white background"
+    },
+    {
+      "id": "gripper_test_thick",
+      "category": "gripper_test",
+      "prompt": "Very thick round object, large diameter cylinder, product photography, white background"
+    },
+    {
+      "id": "gripper_test_small",
+      "category": "gripper_test",
+      "prompt": "Very small bead, tiny sphere for precision gripping, product photography, white background"
+    },
+    {
+      "id": "gripper_test_large",
+      "category": "gripper_test",
+      "prompt": "Large ball, maximum size graspable sphere, product photography, white background"
+    },
+    {
+      "id": "gripper_test_slippery",
+      "category": "gripper_test",
+      "prompt": "Smooth slippery object, polished metal sphere, product photography, white background"
+    },
+    {
+      "id": "gripper_test_rough",
+      "category": "gripper_test",
+      "prompt": "Rough textured graspable object, sandpaper covered block, product photography, white background"
+    },
+    {
+      "id": "gripper_test_fragile",
+      "category": "gripper_test",
+      "prompt": "Fragile egg-shaped object, delicate thin shell, product photography, white background"
+    },
+    {
+      "id": "gripper_test_heavy",
+      "category": "gripper_test",
+      "prompt": "Heavy dense metal block, solid steel weight, product photography, white background"
+    },
+    {
+      "id": "gripper_test_awkward",
+      "category": "gripper_test",
+      "prompt": "Awkwardly shaped object, irregular geometry piece, product photography, white background"
+    },
+    {
+      "id": "cube_cyan_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid cyan matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_magenta_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid magenta matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_lime_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid lime green matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_navy_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid navy blue matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_maroon_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid maroon matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_olive_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid olive green matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_teal_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid teal matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_coral_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid coral matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_lavender_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid lavender matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_peach_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid peach matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_mint_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid mint green matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_salmon_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid salmon pink matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_turquoise_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid turquoise matte plastic cube, 5cm sides, clean edges, product photography, white background"
+    },
+    {
+      "id": "cube_gold_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid gold metallic cube, 5cm sides, shiny finish, product photography, white background"
+    },
+    {
+      "id": "cube_silver_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid silver metallic cube, 5cm sides, shiny finish, product photography, white background"
+    },
+    {
+      "id": "cube_bronze_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid bronze metallic cube, 5cm sides, shiny finish, product photography, white background"
+    },
+    {
+      "id": "cube_copper_5cm",
+      "category": "primitive_cube",
+      "prompt": "Solid copper metallic cube, 5cm sides, shiny finish, product photography, white background"
+    },
+    {
+      "id": "sphere_cyan_4cm",
+      "category": "primitive_sphere",
+      "prompt": "Solid cyan plastic sphere, 8cm diameter, matte finish, product photography, white background"
+    },
+    {
+      "id": "sphere_magenta_4cm",
+      "category": "primitive_sphere",
+      "prompt": "Solid magenta plastic sphere, 8cm diameter, matte finish, product photography, white background"
+    },
+    {
+      "id": "sphere_purple_4cm",
+      "category": "primitive_sphere",
+      "prompt": "Solid purple plastic sphere, 8cm diameter, matte finish, product photography, white background"
+    },
+    {
+      "id": "sphere_pink_4cm",
+      "category": "primitive_sphere",
+      "prompt": "Solid pink plastic sphere, 8cm diameter, matte finish, product photography, white background"
+    },
+    {
+      "id": "sphere_black_4cm",
+      "category": "primitive_sphere",
+      "prompt": "Solid black plastic sphere, 8cm diameter, matte finish, product photography, white background"
+    },
+    {
+      "id": "sphere_gray_4cm",
+      "category": "primitive_sphere",
+      "prompt": "Solid gray plastic sphere, 8cm diameter, matte finish, product photography, white background"
+    },
+    {
+      "id": "sphere_gold_4cm",
+      "category": "primitive_sphere",
+      "prompt": "Gold metallic sphere, 8cm diameter, shiny finish, product photography, white background"
+    },
+    {
+      "id": "sphere_silver_4cm",
+      "category": "primitive_sphere",
+      "prompt": "Silver metallic sphere, 8cm diameter, shiny finish, product photography, white background"
+    },
+    {
+      "id": "sphere_bowling",
+      "category": "primitive_sphere",
+      "prompt": "Black bowling ball with finger holes, shiny finish, product photography, white background"
+    },
+    {
+      "id": "sphere_crystal_ball",
+      "category": "primitive_sphere",
+      "prompt": "Clear crystal ball, fortune teller style, transparent glass, product photography, white background"
+    },
+    {
+      "id": "sphere_disco_ball",
+      "category": "primitive_sphere",
+      "prompt": "Disco mirror ball, reflective mosaic tiles, product photography, white background"
+    },
+    {
+      "id": "sphere_earth_globe",
+      "category": "primitive_sphere",
+      "prompt": "Earth globe, small world globe with continents, product photography, white background"
+    },
+    {
+      "id": "sphere_beach_ball",
+      "category": "primitive_sphere",
+      "prompt": "Colorful beach ball, striped inflatable ball, product photography, white background"
+    },
+    {
+      "id": "sphere_yarn_ball",
+      "category": "primitive_sphere",
+      "prompt": "Ball of red yarn, wound knitting yarn, product photography, white background"
+    },
+    {
+      "id": "cylinder_orange_8cm",
+      "category": "primitive_cylinder",
+      "prompt": "Orange plastic cylinder, 6cm diameter, 8cm tall, upright, product photography, white background"
+    },
+    {
+      "id": "cylinder_purple_8cm",
+      "category": "primitive_cylinder",
+      "prompt": "Purple plastic cylinder, 6cm diameter, 8cm tall, upright, product photography, white background"
+    },
+    {
+      "id": "cylinder_pink_8cm",
+      "category": "primitive_cylinder",
+      "prompt": "Pink plastic cylinder, 6cm diameter, 8cm tall, upright, product photography, white background"
+    },
+    {
+      "id": "cylinder_white_8cm",
+      "category": "primitive_cylinder",
+      "prompt": "White plastic cylinder, 6cm diameter, 8cm tall, upright, product photography, white background"
+    },
+    {
+      "id": "cylinder_black_8cm",
+      "category": "primitive_cylinder",
+      "prompt": "Black plastic cylinder, 6cm diameter, 8cm tall, upright, product photography, white background"
+    },
+    {
+      "id": "cylinder_gray_8cm",
+      "category": "primitive_cylinder",
+      "prompt": "Gray plastic cylinder, 6cm diameter, 8cm tall, upright, product photography, white background"
+    },
+    {
+      "id": "cylinder_glass_8cm",
+      "category": "primitive_cylinder",
+      "prompt": "Clear glass cylinder vase, 6cm diameter, 8cm tall, product photography, white background"
+    },
+    {
+      "id": "cylinder_cork",
+      "category": "primitive_cylinder",
+      "prompt": "Cork cylinder, wine cork shape, natural cork material, product photography, white background"
+    },
+    {
+      "id": "cylinder_candle_red",
+      "category": "primitive_cylinder",
+      "prompt": "Red pillar candle, cylindrical wax candle, product photography, white background"
+    },
+    {
+      "id": "cylinder_battery_d",
+      "category": "primitive_cylinder",
+      "prompt": "D size battery, large cylindrical battery, product photography, white background"
+    },
+    {
+      "id": "cone_green_8cm",
+      "category": "primitive_cone",
+      "prompt": "Green plastic cone, 6cm base diameter, 8cm tall, pointed top, product photography, white background"
+    },
+    {
+      "id": "cone_yellow_8cm",
+      "category": "primitive_cone",
+      "prompt": "Yellow plastic cone, 6cm base diameter, 8cm tall, pointed top, product photography, white background"
+    },
+    {
+      "id": "cone_purple_8cm",
+      "category": "primitive_cone",
+      "prompt": "Purple plastic cone, 6cm base diameter, 8cm tall, pointed top, product photography, white background"
+    },
+    {
+      "id": "cone_white_8cm",
+      "category": "primitive_cone",
+      "prompt": "White plastic cone, 6cm base diameter, 8cm tall, pointed top, product photography, white background"
+    },
+    {
+      "id": "cone_black_8cm",
+      "category": "primitive_cone",
+      "prompt": "Black plastic cone, 6cm base diameter, 8cm tall, pointed top, product photography, white background"
+    },
+    {
+      "id": "cone_christmas_tree",
+      "category": "primitive_cone",
+      "prompt": "Simple green Christmas tree cone shape, stylized tree, product photography, white background"
+    },
+    {
+      "id": "cone_volcano",
+      "category": "primitive_cone",
+      "prompt": "Toy volcano cone, brown rocky texture with red lava top, product photography, white background"
+    },
+    {
+      "id": "cone_megaphone",
+      "category": "primitive_cone",
+      "prompt": "Red megaphone cone, cheerleader megaphone, product photography, white background"
+    },
+    {
+      "id": "cone_funnel",
+      "category": "primitive_cone",
+      "prompt": "White plastic funnel, kitchen funnel cone shape, product photography, white background"
+    },
+    {
+      "id": "cone_wizard_hat",
+      "category": "primitive_cone",
+      "prompt": "Blue wizard hat cone, pointed magical hat, product photography, white background"
+    },
+    {
+      "id": "torus_green_8cm",
+      "category": "primitive_torus",
+      "prompt": "Green plastic torus donut ring, 8cm outer diameter, product photography, white background"
+    },
+    {
+      "id": "torus_orange_8cm",
+      "category": "primitive_torus",
+      "prompt": "Orange plastic torus ring, 8cm diameter, product photography, white background"
+    },
+    {
+      "id": "torus_purple_8cm",
+      "category": "primitive_torus",
+      "prompt": "Purple plastic torus ring, 8cm diameter, product photography, white background"
+    },
+    {
+      "id": "torus_pink_8cm",
+      "category": "primitive_torus",
+      "prompt": "Pink plastic torus ring, 8cm diameter, product photography, white background"
+    },
+    {
+      "id": "torus_black_8cm",
+      "category": "primitive_torus",
+      "prompt": "Black rubber torus ring, tire-like, 8cm diameter, product photography, white background"
+    },
+    {
+      "id": "torus_white_8cm",
+      "category": "primitive_torus",
+      "prompt": "White plastic torus ring, 8cm diameter, product photography, white background"
+    },
+    {
+      "id": "torus_tire",
+      "category": "primitive_torus",
+      "prompt": "Black rubber tire torus, car tire shape, product photography, white background"
+    },
+    {
+      "id": "torus_hula_hoop",
+      "category": "primitive_torus",
+      "prompt": "Colorful hula hoop, large ring toy, product photography, white background"
+    },
+    {
+      "id": "torus_bracelet",
+      "category": "primitive_torus",
+      "prompt": "Gold bangle bracelet, circular jewelry ring, product photography, white background"
+    },
+    {
+      "id": "torus_lifebuoy_orange",
+      "category": "primitive_torus",
+      "prompt": "Orange life buoy ring, safety ring, product photography, white background"
+    },
+    {
+      "id": "rectangular_box_red",
+      "category": "primitive_box",
+      "prompt": "Red rectangular box, 10x6x4cm, matte plastic, product photography, white background"
+    },
+    {
+      "id": "rectangular_box_blue",
+      "category": "primitive_box",
+      "prompt": "Blue rectangular box, 10x6x4cm, matte plastic, product photography, white background"
+    },
+    {
+      "id": "rectangular_box_green",
+      "category": "primitive_box",
+      "prompt": "Green rectangular box, 10x6x4cm, matte plastic, product photography, white background"
+    },
+    {
+      "id": "rectangular_box_yellow",
+      "category": "primitive_box",
+      "prompt": "Yellow rectangular box, 10x6x4cm, matte plastic, product photography, white background"
+    },
+    {
+      "id": "rectangular_box_wood",
+      "category": "primitive_box",
+      "prompt": "Wooden rectangular box, 10x6x4cm, natural wood grain, product photography, white background"
+    },
+    {
+      "id": "rectangular_box_metal",
+      "category": "primitive_box",
+      "prompt": "Metal rectangular box, 10x6x4cm, brushed steel, product photography, white background"
+    },
+    {
+      "id": "brick_red",
+      "category": "primitive_box",
+      "prompt": "Red building brick, rectangular clay brick, product photography, white background"
+    },
+    {
+      "id": "brick_gray",
+      "category": "primitive_box",
+      "prompt": "Gray concrete brick, rectangular cinder block style, product photography, white background"
+    },
+    {
+      "id": "eraser_pink",
+      "category": "primitive_box",
+      "prompt": "Pink rectangular eraser, school eraser, product photography, white background"
+    },
+    {
+      "id": "matchbox_red",
+      "category": "primitive_box",
+      "prompt": "Red matchbox, small box of matches, product photography, white background"
+    },
+    {
+      "id": "domino_white",
+      "category": "primitive_box",
+      "prompt": "White domino tile, rectangular with black dots, product photography, white background"
+    },
+    {
+      "id": "half_sphere_red",
+      "category": "primitive_hemisphere",
+      "prompt": "Red plastic hemisphere, half sphere bowl shape, product photography, white background"
+    },
+    {
+      "id": "half_sphere_blue",
+      "category": "primitive_hemisphere",
+      "prompt": "Blue plastic hemisphere, dome shape, product photography, white background"
+    },
+    {
+      "id": "half_sphere_clear",
+      "category": "primitive_hemisphere",
+      "prompt": "Clear plastic dome, transparent hemisphere, product photography, white background"
+    },
+    {
+      "id": "igloo",
+      "category": "primitive_hemisphere",
+      "prompt": "White igloo dome, snow house shape, product photography, white background"
+    },
+    {
+      "id": "bell_jar",
+      "category": "primitive_hemisphere",
+      "prompt": "Glass bell jar dome, display dome, product photography, white background"
+    },
+    {
+      "id": "mushroom_cap",
+      "category": "primitive_hemisphere",
+      "prompt": "Red mushroom cap with white spots, toadstool top, product photography, white background"
+    },
+    {
+      "id": "wedge_red",
+      "category": "primitive_wedge",
+      "prompt": "Red plastic wedge, triangular ramp shape, product photography, white background"
+    },
+    {
+      "id": "wedge_blue",
+      "category": "primitive_wedge",
+      "prompt": "Blue plastic wedge, door stop shape, product photography, white background"
+    },
+    {
+      "id": "wedge_wood",
+      "category": "primitive_wedge",
+      "prompt": "Wooden wedge, natural wood ramp, product photography, white background"
+    },
+    {
+      "id": "cheese_wedge",
+      "category": "primitive_wedge",
+      "prompt": "Yellow cheese wedge, Swiss cheese slice, product photography, white background"
+    },
+    {
+      "id": "watermelon_wedge",
+      "category": "primitive_wedge",
+      "prompt": "Watermelon wedge slice, red fruit with seeds, product photography, white background"
+    },
+    {
+      "id": "pie_slice",
+      "category": "primitive_wedge",
+      "prompt": "Pie slice, triangular pastry wedge, product photography, white background"
+    },
+    {
+      "id": "pizza_slice",
+      "category": "primitive_wedge",
+      "prompt": "Pizza slice wedge, pepperoni pizza triangle, product photography, white background"
+    },
+    {
+      "id": "cake_slice",
+      "category": "primitive_wedge",
+      "prompt": "Cake slice, chocolate layer cake wedge, product photography, white background"
+    },
+    {
+      "id": "star_5point_red",
+      "category": "primitive_star",
+      "prompt": "Red 5-pointed star, flat star shape, product photography, white background"
+    },
+    {
+      "id": "star_5point_gold",
+      "category": "primitive_star",
+      "prompt": "Gold 5-pointed star, shiny metallic star, product photography, white background"
+    },
+    {
+      "id": "star_6point_blue",
+      "category": "primitive_star",
+      "prompt": "Blue 6-pointed star, Star of David shape, product photography, white background"
+    },
+    {
+      "id": "star_3d_red",
+      "category": "primitive_star",
+      "prompt": "3D red star, puffy star shape, product photography, white background"
+    },
+    {
+      "id": "starfish",
+      "category": "primitive_star",
+      "prompt": "Orange starfish, sea star animal, product photography, white background"
+    },
+    {
+      "id": "sheriff_star",
+      "category": "primitive_star",
+      "prompt": "Gold sheriff star badge, 6-pointed police star, product photography, white background"
+    },
+    {
+      "id": "heart_red",
+      "category": "primitive_heart",
+      "prompt": "Red 3D heart shape, love heart symbol, product photography, white background"
+    },
+    {
+      "id": "heart_pink",
+      "category": "primitive_heart",
+      "prompt": "Pink 3D heart shape, Valentine heart, product photography, white background"
+    },
+    {
+      "id": "heart_gold",
+      "category": "primitive_heart",
+      "prompt": "Gold metallic heart, shiny heart charm, product photography, white background"
+    },
+    {
+      "id": "heart_candy",
+      "category": "primitive_heart",
+      "prompt": "Red candy heart, conversation heart candy, product photography, white background"
+    },
+    {
+      "id": "heart_pillow",
+      "category": "primitive_heart",
+      "prompt": "Red heart shaped pillow, plush heart cushion, product photography, white background"
+    },
+    {
+      "id": "heart_box",
+      "category": "primitive_heart",
+      "prompt": "Red heart shaped box, Valentine candy box, product photography, white background"
+    },
+    {
+      "id": "crescent_moon",
+      "category": "primitive_crescent",
+      "prompt": "Yellow crescent moon shape, curved moon slice, product photography, white background"
+    },
+    {
+      "id": "crescent_croissant",
+      "category": "primitive_crescent",
+      "prompt": "Golden croissant, curved French pastry, product photography, white background"
+    },
+    {
+      "id": "crescent_banana",
+      "category": "primitive_crescent",
+      "prompt": "Yellow banana, curved fruit, product photography, white background"
+    },
+    {
+      "id": "crescent_boomerang",
+      "category": "primitive_crescent",
+      "prompt": "Wooden boomerang, curved throwing stick, product photography, white background"
+    },
+    {
+      "id": "cross_red",
+      "category": "primitive_cross",
+      "prompt": "Red cross shape, medical cross symbol, product photography, white background"
+    },
+    {
+      "id": "cross_wood",
+      "category": "primitive_cross",
+      "prompt": "Wooden cross, simple wood cross shape, product photography, white background"
+    },
+    {
+      "id": "cross_plus_green",
+      "category": "primitive_cross",
+      "prompt": "Green plus sign shape, addition symbol, product photography, white background"
+    },
+    {
+      "id": "cross_swiss",
+      "category": "primitive_cross",
+      "prompt": "White cross on red background, Swiss cross symbol, product photography, white background"
+    },
+    {
+      "id": "arrow_red",
+      "category": "primitive_arrow",
+      "prompt": "Red 3D arrow, pointing right, product photography, white background"
+    },
+    {
+      "id": "arrow_green",
+      "category": "primitive_arrow",
+      "prompt": "Green 3D arrow, direction arrow, product photography, white background"
+    },
+    {
+      "id": "arrow_up_blue",
+      "category": "primitive_arrow",
+      "prompt": "Blue arrow pointing up, upward direction, product photography, white background"
+    },
+    {
+      "id": "arrow_curved",
+      "category": "primitive_arrow",
+      "prompt": "Curved arrow, bent direction indicator, product photography, white background"
+    },
+    {
+      "id": "arrow_double",
+      "category": "primitive_arrow",
+      "prompt": "Double-headed arrow, bidirectional arrow, product photography, white background"
+    },
+    {
+      "id": "ring_gold_band",
+      "category": "jewelry",
+      "prompt": "Gold wedding band ring, simple gold ring, product photography, white background"
+    },
+    {
+      "id": "ring_silver_band",
+      "category": "jewelry",
+      "prompt": "Silver band ring, simple metal ring, product photography, white background"
+    },
+    {
+      "id": "ring_diamond",
+      "category": "jewelry",
+      "prompt": "Diamond engagement ring, ring with gemstone, product photography, white background"
+    },
+    {
+      "id": "necklace_pearl",
+      "category": "jewelry",
+      "prompt": "Pearl necklace, string of white pearls, product photography, white background"
+    },
+    {
+      "id": "earring_hoop",
+      "category": "jewelry",
+      "prompt": "Gold hoop earring, circular earring, product photography, white background"
+    },
+    {
+      "id": "pendant_heart",
+      "category": "jewelry",
+      "prompt": "Heart pendant necklace, heart charm on chain, product photography, white background"
+    },
+    {
+      "id": "brooch_flower",
+      "category": "jewelry",
+      "prompt": "Flower brooch pin, decorative jewelry pin, product photography, white background"
+    },
+    {
+      "id": "cufflink_silver",
+      "category": "jewelry",
+      "prompt": "Silver cufflink, men's dress accessory, product photography, white background"
+    },
+    {
+      "id": "number_block_0",
+      "category": "number_block",
+      "prompt": "Wooden number block 0, toy number zero, product photography, white background"
+    },
+    {
+      "id": "number_block_1",
+      "category": "number_block",
+      "prompt": "Wooden number block 1, toy number one, product photography, white background"
+    },
+    {
+      "id": "number_block_2",
+      "category": "number_block",
+      "prompt": "Wooden number block 2, toy number two, product photography, white background"
+    },
+    {
+      "id": "number_block_3",
+      "category": "number_block",
+      "prompt": "Wooden number block 3, toy number three, product photography, white background"
+    },
+    {
+      "id": "number_block_4",
+      "category": "number_block",
+      "prompt": "Wooden number block 4, toy number four, product photography, white background"
+    },
+    {
+      "id": "number_block_5",
+      "category": "number_block",
+      "prompt": "Wooden number block 5, toy number five, product photography, white background"
+    },
+    {
+      "id": "number_block_6",
+      "category": "number_block",
+      "prompt": "Wooden number block 6, toy number six, product photography, white background"
+    },
+    {
+      "id": "number_block_7",
+      "category": "number_block",
+      "prompt": "Wooden number block 7, toy number seven, product photography, white background"
+    },
+    {
+      "id": "number_block_8",
+      "category": "number_block",
+      "prompt": "Wooden number block 8, toy number eight, product photography, white background"
+    },
+    {
+      "id": "number_block_9",
+      "category": "number_block",
+      "prompt": "Wooden number block 9, toy number nine, product photography, white background"
+    },
+    {
+      "id": "letter_block_A",
+      "category": "letter_block",
+      "prompt": "Wooden letter block A, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_B",
+      "category": "letter_block",
+      "prompt": "Wooden letter block B, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_C",
+      "category": "letter_block",
+      "prompt": "Wooden letter block C, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_D",
+      "category": "letter_block",
+      "prompt": "Wooden letter block D, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_E",
+      "category": "letter_block",
+      "prompt": "Wooden letter block E, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_F",
+      "category": "letter_block",
+      "prompt": "Wooden letter block F, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_G",
+      "category": "letter_block",
+      "prompt": "Wooden letter block G, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_H",
+      "category": "letter_block",
+      "prompt": "Wooden letter block H, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_I",
+      "category": "letter_block",
+      "prompt": "Wooden letter block I, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_J",
+      "category": "letter_block",
+      "prompt": "Wooden letter block J, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_K",
+      "category": "letter_block",
+      "prompt": "Wooden letter block K, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_L",
+      "category": "letter_block",
+      "prompt": "Wooden letter block L, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_M",
+      "category": "letter_block",
+      "prompt": "Wooden letter block M, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_N",
+      "category": "letter_block",
+      "prompt": "Wooden letter block N, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_O",
+      "category": "letter_block",
+      "prompt": "Wooden letter block O, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_P",
+      "category": "letter_block",
+      "prompt": "Wooden letter block P, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_Q",
+      "category": "letter_block",
+      "prompt": "Wooden letter block Q, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_R",
+      "category": "letter_block",
+      "prompt": "Wooden letter block R, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_S",
+      "category": "letter_block",
+      "prompt": "Wooden letter block S, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_T",
+      "category": "letter_block",
+      "prompt": "Wooden letter block T, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_U",
+      "category": "letter_block",
+      "prompt": "Wooden letter block U, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_V",
+      "category": "letter_block",
+      "prompt": "Wooden letter block V, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_W",
+      "category": "letter_block",
+      "prompt": "Wooden letter block W, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_X",
+      "category": "letter_block",
+      "prompt": "Wooden letter block X, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_Y",
+      "category": "letter_block",
+      "prompt": "Wooden letter block Y, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "letter_block_Z",
+      "category": "letter_block",
+      "prompt": "Wooden letter block Z, alphabet toy block, product photography, white background"
+    },
+    {
+      "id": "ycb_banana",
+      "category": "ycb_object",
+      "prompt": "Yellow banana, realistic YCB dataset style banana fruit, product photography, white background"
+    },
+    {
+      "id": "ycb_apple",
+      "category": "ycb_object",
+      "prompt": "Red apple, realistic YCB dataset style apple fruit, product photography, white background"
+    },
+    {
+      "id": "ycb_orange",
+      "category": "ycb_object",
+      "prompt": "Orange citrus, realistic YCB dataset style orange fruit, product photography, white background"
+    },
+    {
+      "id": "ycb_lemon",
+      "category": "ycb_object",
+      "prompt": "Yellow lemon, realistic YCB dataset style lemon, product photography, white background"
+    },
+    {
+      "id": "ycb_pear",
+      "category": "ycb_object",
+      "prompt": "Green pear, realistic YCB dataset style pear fruit, product photography, white background"
+    },
+    {
+      "id": "ycb_peach",
+      "category": "ycb_object",
+      "prompt": "Peach fruit, realistic YCB dataset style peach, product photography, white background"
+    },
+    {
+      "id": "ycb_plum",
+      "category": "ycb_object",
+      "prompt": "Purple plum, realistic YCB dataset style plum fruit, product photography, white background"
+    },
+    {
+      "id": "ycb_strawberry",
+      "category": "ycb_object",
+      "prompt": "Red strawberry, realistic YCB dataset style strawberry, product photography, white background"
+    },
+    {
+      "id": "ycb_potted_meat",
+      "category": "ycb_object",
+      "prompt": "Potted meat can, rectangular tin can, product photography, white background"
+    },
+    {
+      "id": "ycb_gelatin",
+      "category": "ycb_object",
+      "prompt": "Gelatin box, Jello box packaging, product photography, white background"
+    },
+    {
+      "id": "ycb_pudding",
+      "category": "ycb_object",
+      "prompt": "Pudding cup, plastic pudding container, product photography, white background"
+    },
+    {
+      "id": "ycb_chips",
+      "category": "ycb_object",
+      "prompt": "Chips can, Pringles style tube container, product photography, white background"
+    },
+    {
+      "id": "ycb_coffee",
+      "category": "ycb_object",
+      "prompt": "Coffee can, metal coffee container, product photography, white background"
+    },
+    {
+      "id": "ycb_tuna_fish",
+      "category": "ycb_object",
+      "prompt": "Tuna fish can, flat round tin, product photography, white background"
+    },
+    {
+      "id": "ycb_tomato_soup",
+      "category": "ycb_object",
+      "prompt": "Tomato soup can, Campbell's style soup can, product photography, white background"
+    },
+    {
+      "id": "ycb_sugar_box",
+      "category": "ycb_object",
+      "prompt": "Sugar box, rectangular sugar container, product photography, white background"
+    },
+    {
+      "id": "ycb_cracker_box",
+      "category": "ycb_object",
+      "prompt": "Cracker box, rectangular cracker packaging, product photography, white background"
+    },
+    {
+      "id": "ycb_pitcher",
+      "category": "ycb_object",
+      "prompt": "Plastic pitcher, water pitcher with handle, product photography, white background"
+    },
+    {
+      "id": "ycb_plate",
+      "category": "ycb_object",
+      "prompt": "White dinner plate, flat round ceramic plate, product photography, white background"
+    },
+    {
+      "id": "ycb_fork",
+      "category": "ycb_object",
+      "prompt": "Metal dinner fork, stainless steel fork, product photography, white background"
+    },
+    {
+      "id": "ycb_spoon",
+      "category": "ycb_object",
+      "prompt": "Metal tablespoon, stainless steel spoon, product photography, white background"
+    },
+    {
+      "id": "ycb_knife",
+      "category": "ycb_object",
+      "prompt": "Butter knife, flat spreading knife, product photography, white background"
+    },
+    {
+      "id": "ycb_spatula",
+      "category": "ycb_object",
+      "prompt": "Plastic spatula, cooking turner, product photography, white background"
+    },
+    {
+      "id": "ycb_sponge",
+      "category": "ycb_object",
+      "prompt": "Yellow kitchen sponge, rectangular cleaning sponge, product photography, white background"
+    },
+    {
+      "id": "ycb_cleanser",
+      "category": "ycb_object",
+      "prompt": "Cleanser bottle, cleaning product bottle, product photography, white background"
+    },
+    {
+      "id": "ycb_screwdriver",
+      "category": "ycb_object",
+      "prompt": "Flathead screwdriver, tool with handle, product photography, white background"
+    },
+    {
+      "id": "ycb_wood_block",
+      "category": "ycb_object",
+      "prompt": "Wooden block, rectangular wood piece, product photography, white background"
+    },
+    {
+      "id": "ycb_foam_brick",
+      "category": "ycb_object",
+      "prompt": "Foam brick, soft foam block, product photography, white background"
+    },
+    {
+      "id": "ycb_dice",
+      "category": "ycb_object",
+      "prompt": "White dice, 6-sided die with black dots, product photography, white background"
+    },
+    {
+      "id": "ycb_rope",
+      "category": "ycb_object",
+      "prompt": "Coiled rope, natural fiber rope, product photography, white background"
+    },
+    {
+      "id": "ycb_chain",
+      "category": "ycb_object",
+      "prompt": "Metal chain, short chain segment, product photography, white background"
+    },
+    {
+      "id": "ycb_padlock",
+      "category": "ycb_object",
+      "prompt": "Padlock, brass security lock, product photography, white background"
+    },
+    {
+      "id": "ycb_key",
+      "category": "ycb_object",
+      "prompt": "Metal key, standard door key, product photography, white background"
+    },
+    {
+      "id": "ycb_scissors",
+      "category": "ycb_object",
+      "prompt": "Metal scissors, office scissors, product photography, white background"
+    },
+    {
+      "id": "ycb_marker",
+      "category": "ycb_object",
+      "prompt": "Black marker pen, permanent marker, product photography, white background"
+    },
+    {
+      "id": "ycb_timer",
+      "category": "ycb_object",
+      "prompt": "Kitchen timer, dial timer, product photography, white background"
+    },
+    {
+      "id": "ycb_rubiks_cube",
+      "category": "ycb_object",
+      "prompt": "Rubik's cube, colorful puzzle cube, product photography, white background"
+    },
+    {
+      "id": "ycb_nine_hole_peg",
+      "category": "ycb_object",
+      "prompt": "Nine hole peg test board, therapy pegboard, product photography, white background"
+    },
+    {
+      "id": "ycb_baseball",
+      "category": "ycb_object",
+      "prompt": "Baseball, white with red stitching, product photography, white background"
+    },
+    {
+      "id": "ycb_softball",
+      "category": "ycb_object",
+      "prompt": "Softball, yellow softball, product photography, white background"
+    },
+    {
+      "id": "ycb_tennis_ball",
+      "category": "ycb_object",
+      "prompt": "Tennis ball, yellow fuzzy ball, product photography, white background"
+    },
+    {
+      "id": "ycb_racquetball",
+      "category": "ycb_object",
+      "prompt": "Blue racquetball, small rubber ball, product photography, white background"
+    },
+    {
+      "id": "ycb_golf_ball",
+      "category": "ycb_object",
+      "prompt": "Golf ball, white with dimples, product photography, white background"
+    },
+    {
+      "id": "ycb_mini_soccer",
+      "category": "ycb_object",
+      "prompt": "Mini soccer ball, small football, product photography, white background"
+    },
+    {
+      "id": "vehicle_car_sedan",
+      "category": "vehicle",
+      "prompt": "Toy sedan car, red die-cast car model, product photography, white background"
+    },
+    {
+      "id": "vehicle_car_sports",
+      "category": "vehicle",
+      "prompt": "Toy sports car, blue racing car model, product photography, white background"
+    },
+    {
+      "id": "vehicle_car_suv",
+      "category": "vehicle",
+      "prompt": "Toy SUV, black off-road vehicle model, product photography, white background"
+    },
+    {
+      "id": "vehicle_truck_pickup",
+      "category": "vehicle",
+      "prompt": "Toy pickup truck, blue truck model, product photography, white background"
+    },
+    {
+      "id": "vehicle_truck_semi",
+      "category": "vehicle",
+      "prompt": "Toy semi truck, cab truck model, product photography, white background"
+    },
+    {
+      "id": "vehicle_bus_school",
+      "category": "vehicle",
+      "prompt": "Toy school bus, yellow bus model, product photography, white background"
+    },
+    {
+      "id": "vehicle_bus_city",
+      "category": "vehicle",
+      "prompt": "Toy city bus, public transit bus model, product photography, white background"
+    },
+    {
+      "id": "vehicle_ambulance",
+      "category": "vehicle",
+      "prompt": "Toy ambulance, white emergency vehicle, product photography, white background"
+    },
+    {
+      "id": "vehicle_firetruck",
+      "category": "vehicle",
+      "prompt": "Toy fire truck, red fire engine, product photography, white background"
+    },
+    {
+      "id": "vehicle_police_car",
+      "category": "vehicle",
+      "prompt": "Toy police car, black and white cruiser, product photography, white background"
+    },
+    {
+      "id": "vehicle_taxi",
+      "category": "vehicle",
+      "prompt": "Toy taxi cab, yellow taxi car, product photography, white background"
+    },
+    {
+      "id": "vehicle_motorcycle",
+      "category": "vehicle",
+      "prompt": "Toy motorcycle, small motorbike model, product photography, white background"
+    },
+    {
+      "id": "vehicle_bicycle",
+      "category": "vehicle",
+      "prompt": "Toy bicycle, small bike model, product photography, white background"
+    },
+    {
+      "id": "vehicle_scooter",
+      "category": "vehicle",
+      "prompt": "Toy kick scooter, children's scooter, product photography, white background"
+    },
+    {
+      "id": "vehicle_skateboard",
+      "category": "vehicle",
+      "prompt": "Toy skateboard, mini skateboard model, product photography, white background"
+    },
+    {
+      "id": "vehicle_tractor",
+      "category": "vehicle",
+      "prompt": "Toy tractor, green farm tractor, product photography, white background"
+    },
+    {
+      "id": "vehicle_excavator",
+      "category": "vehicle",
+      "prompt": "Toy excavator, yellow construction digger, product photography, white background"
+    },
+    {
+      "id": "vehicle_bulldozer",
+      "category": "vehicle",
+      "prompt": "Toy bulldozer, yellow construction vehicle, product photography, white background"
+    },
+    {
+      "id": "vehicle_crane",
+      "category": "vehicle",
+      "prompt": "Toy crane truck, construction crane, product photography, white background"
+    },
+    {
+      "id": "vehicle_forklift",
+      "category": "vehicle",
+      "prompt": "Toy forklift, warehouse forklift, product photography, white background"
+    },
+    {
+      "id": "vehicle_airplane_jet",
+      "category": "vehicle",
+      "prompt": "Toy jet airplane, passenger plane model, product photography, white background"
+    },
+    {
+      "id": "vehicle_airplane_prop",
+      "category": "vehicle",
+      "prompt": "Toy propeller airplane, small prop plane, product photography, white background"
+    },
+    {
+      "id": "vehicle_helicopter",
+      "category": "vehicle",
+      "prompt": "Toy helicopter, small chopper model, product photography, white background"
+    },
+    {
+      "id": "vehicle_rocket",
+      "category": "vehicle",
+      "prompt": "Toy rocket ship, space rocket model, product photography, white background"
+    },
+    {
+      "id": "vehicle_ship_cargo",
+      "category": "vehicle",
+      "prompt": "Toy cargo ship, container ship model, product photography, white background"
+    },
+    {
+      "id": "vehicle_boat_sail",
+      "category": "vehicle",
+      "prompt": "Toy sailboat, small sailing boat, product photography, white background"
+    },
+    {
+      "id": "vehicle_submarine",
+      "category": "vehicle",
+      "prompt": "Toy submarine, yellow sub model, product photography, white background"
+    },
+    {
+      "id": "animal_dog",
+      "category": "animal",
+      "prompt": "Toy dog figurine, plastic dog, product photography, white background"
+    },
+    {
+      "id": "animal_cat",
+      "category": "animal",
+      "prompt": "Toy cat figurine, plastic cat, product photography, white background"
+    },
+    {
+      "id": "animal_horse",
+      "category": "animal",
+      "prompt": "Toy horse figurine, plastic horse, product photography, white background"
+    },
+    {
+      "id": "animal_cow",
+      "category": "animal",
+      "prompt": "Toy cow figurine, plastic farm cow, product photography, white background"
+    },
+    {
+      "id": "animal_pig",
+      "category": "animal",
+      "prompt": "Toy pig figurine, pink plastic pig, product photography, white background"
+    },
+    {
+      "id": "animal_sheep",
+      "category": "animal",
+      "prompt": "Toy sheep figurine, white wool sheep, product photography, white background"
+    },
+    {
+      "id": "animal_chicken",
+      "category": "animal",
+      "prompt": "Toy chicken figurine, plastic hen, product photography, white background"
+    },
+    {
+      "id": "animal_duck",
+      "category": "animal",
+      "prompt": "Toy duck figurine, yellow plastic duck, product photography, white background"
+    },
+    {
+      "id": "animal_elephant",
+      "category": "animal",
+      "prompt": "Toy elephant figurine, gray plastic elephant, product photography, white background"
+    },
+    {
+      "id": "animal_giraffe",
+      "category": "animal",
+      "prompt": "Toy giraffe figurine, tall spotted giraffe, product photography, white background"
+    },
+    {
+      "id": "animal_lion",
+      "category": "animal",
+      "prompt": "Toy lion figurine, plastic lion with mane, product photography, white background"
+    },
+    {
+      "id": "animal_tiger",
+      "category": "animal",
+      "prompt": "Toy tiger figurine, orange striped tiger, product photography, white background"
+    },
+    {
+      "id": "animal_bear",
+      "category": "animal",
+      "prompt": "Toy bear figurine, brown plastic bear, product photography, white background"
+    },
+    {
+      "id": "animal_rabbit",
+      "category": "animal",
+      "prompt": "Toy rabbit figurine, white bunny, product photography, white background"
+    },
+    {
+      "id": "animal_frog",
+      "category": "animal",
+      "prompt": "Toy frog figurine, green plastic frog, product photography, white background"
+    },
+    {
+      "id": "animal_fish",
+      "category": "animal",
+      "prompt": "Toy fish figurine, colorful fish, product photography, white background"
+    },
+    {
+      "id": "animal_dolphin",
+      "category": "animal",
+      "prompt": "Toy dolphin figurine, gray dolphin, product photography, white background"
+    },
+    {
+      "id": "animal_whale",
+      "category": "animal",
+      "prompt": "Toy whale figurine, blue whale, product photography, white background"
+    },
+    {
+      "id": "animal_shark",
+      "category": "animal",
+      "prompt": "Toy shark figurine, gray shark, product photography, white background"
+    },
+    {
+      "id": "animal_turtle",
+      "category": "animal",
+      "prompt": "Toy turtle figurine, green turtle, product photography, white background"
+    },
+    {
+      "id": "animal_snake",
+      "category": "animal",
+      "prompt": "Toy snake figurine, coiled green snake, product photography, white background"
+    },
+    {
+      "id": "animal_crocodile",
+      "category": "animal",
+      "prompt": "Toy crocodile figurine, green alligator, product photography, white background"
+    },
+    {
+      "id": "animal_bird",
+      "category": "animal",
+      "prompt": "Toy bird figurine, small colorful bird, product photography, white background"
+    },
+    {
+      "id": "animal_penguin",
+      "category": "animal",
+      "prompt": "Toy penguin figurine, black and white penguin, product photography, white background"
+    },
+    {
+      "id": "animal_owl",
+      "category": "animal",
+      "prompt": "Toy owl figurine, brown owl, product photography, white background"
+    },
+    {
+      "id": "animal_butterfly",
+      "category": "animal",
+      "prompt": "Toy butterfly figurine, colorful butterfly, product photography, white background"
+    },
+    {
+      "id": "animal_bee",
+      "category": "animal",
+      "prompt": "Toy bee figurine, yellow and black bee, product photography, white background"
+    },
+    {
+      "id": "animal_ladybug",
+      "category": "animal",
+      "prompt": "Toy ladybug figurine, red spotted ladybug, product photography, white background"
+    },
+    {
+      "id": "animal_dinosaur_trex",
+      "category": "animal",
+      "prompt": "Toy T-Rex dinosaur, green tyrannosaurus, product photography, white background"
+    },
+    {
+      "id": "animal_dinosaur_triceratops",
+      "category": "animal",
+      "prompt": "Toy triceratops dinosaur, horned dinosaur, product photography, white background"
+    },
+    {
+      "id": "animal_dinosaur_stegosaurus",
+      "category": "animal",
+      "prompt": "Toy stegosaurus dinosaur, plated dinosaur, product photography, white background"
+    },
+    {
+      "id": "animal_dinosaur_brachiosaurus",
+      "category": "animal",
+      "prompt": "Toy brachiosaurus dinosaur, long neck dinosaur, product photography, white background"
+    },
+    {
+      "id": "animal_dinosaur_pterodactyl",
+      "category": "animal",
+      "prompt": "Toy pterodactyl, flying dinosaur, product photography, white background"
+    },
+    {
+      "id": "figure_human_male",
+      "category": "figure",
+      "prompt": "Simple human male figurine, standing person, product photography, white background"
+    },
+    {
+      "id": "figure_human_female",
+      "category": "figure",
+      "prompt": "Simple human female figurine, standing person, product photography, white background"
+    },
+    {
+      "id": "figure_human_child",
+      "category": "figure",
+      "prompt": "Simple child figurine, small standing person, product photography, white background"
+    },
+    {
+      "id": "figure_worker_construction",
+      "category": "figure",
+      "prompt": "Construction worker figurine, person with hard hat, product photography, white background"
+    },
+    {
+      "id": "figure_worker_firefighter",
+      "category": "figure",
+      "prompt": "Firefighter figurine, person in fire gear, product photography, white background"
+    },
+    {
+      "id": "figure_worker_police",
+      "category": "figure",
+      "prompt": "Police officer figurine, person in uniform, product photography, white background"
+    },
+    {
+      "id": "figure_worker_doctor",
+      "category": "figure",
+      "prompt": "Doctor figurine, person in white coat, product photography, white background"
+    },
+    {
+      "id": "figure_worker_chef",
+      "category": "figure",
+      "prompt": "Chef figurine, person in chef hat, product photography, white background"
+    },
+    {
+      "id": "figure_astronaut",
+      "category": "figure",
+      "prompt": "Astronaut figurine, person in space suit, product photography, white background"
+    },
+    {
+      "id": "figure_robot_humanoid",
+      "category": "figure",
+      "prompt": "Humanoid robot figurine, standing robot, product photography, white background"
+    },
+    {
+      "id": "plant_cactus_small",
+      "category": "plant",
+      "prompt": "Small cactus in pot, green succulent plant, product photography, white background"
+    },
+    {
+      "id": "plant_succulent",
+      "category": "plant",
+      "prompt": "Succulent plant in pot, small green plant, product photography, white background"
+    },
+    {
+      "id": "plant_fern",
+      "category": "plant",
+      "prompt": "Small fern plant in pot, leafy green plant, product photography, white background"
+    },
+    {
+      "id": "plant_flower_pot",
+      "category": "plant",
+      "prompt": "Flowering plant in pot, colorful flowers, product photography, white background"
+    },
+    {
+      "id": "plant_bonsai",
+      "category": "plant",
+      "prompt": "Small bonsai tree in pot, miniature tree, product photography, white background"
+    },
+    {
+      "id": "plant_grass_tuft",
+      "category": "plant",
+      "prompt": "Tuft of grass, green grass clump, product photography, white background"
+    },
+    {
+      "id": "plant_artificial_flower",
+      "category": "plant",
+      "prompt": "Artificial flower, fake silk flower, product photography, white background"
+    },
+    {
+      "id": "plant_tree_small",
+      "category": "plant",
+      "prompt": "Small decorative tree model, miniature tree, product photography, white background"
+    },
+    {
+      "id": "food_bread_roll",
+      "category": "food_extra",
+      "prompt": "Bread roll, round dinner roll, product photography, white background"
+    },
+    {
+      "id": "food_bagel",
+      "category": "food_extra",
+      "prompt": "Plain bagel, torus bread, product photography, white background"
+    },
+    {
+      "id": "food_pretzel",
+      "category": "food_extra",
+      "prompt": "Soft pretzel, twisted bread, product photography, white background"
+    },
+    {
+      "id": "food_muffin",
+      "category": "food_extra",
+      "prompt": "Blueberry muffin, baked muffin, product photography, white background"
+    },
+    {
+      "id": "food_cupcake",
+      "category": "food_extra",
+      "prompt": "Cupcake with frosting, decorated cupcake, product photography, white background"
+    },
+    {
+      "id": "food_donut_plain",
+      "category": "food_extra",
+      "prompt": "Plain donut, glazed ring donut, product photography, white background"
+    },
+    {
+      "id": "food_donut_chocolate",
+      "category": "food_extra",
+      "prompt": "Chocolate frosted donut with sprinkles, product photography, white background"
+    },
+    {
+      "id": "food_waffle",
+      "category": "food_extra",
+      "prompt": "Waffle, Belgian waffle with grid pattern, product photography, white background"
+    },
+    {
+      "id": "food_pancake",
+      "category": "food_extra",
+      "prompt": "Stack of pancakes, breakfast pancakes, product photography, white background"
+    },
+    {
+      "id": "food_toast",
+      "category": "food_extra",
+      "prompt": "Slice of toast, toasted bread, product photography, white background"
+    },
+    {
+      "id": "food_sandwich",
+      "category": "food_extra",
+      "prompt": "Sandwich, two slices of bread with filling, product photography, white background"
+    },
+    {
+      "id": "food_taco",
+      "category": "food_extra",
+      "prompt": "Taco, hard shell taco with filling, product photography, white background"
+    },
+    {
+      "id": "food_burrito",
+      "category": "food_extra",
+      "prompt": "Burrito, wrapped tortilla, product photography, white background"
+    },
+    {
+      "id": "food_sushi_nigiri",
+      "category": "food_extra",
+      "prompt": "Sushi nigiri, fish on rice, product photography, white background"
+    },
+    {
+      "id": "food_dumpling",
+      "category": "food_extra",
+      "prompt": "Dumpling, Asian dumpling, product photography, white background"
+    },
+    {
+      "id": "food_spring_roll",
+      "category": "food_extra",
+      "prompt": "Spring roll, fried roll, product photography, white background"
+    },
+    {
+      "id": "food_fries",
+      "category": "food_extra",
+      "prompt": "French fries, golden potato fries, product photography, white background"
+    },
+    {
+      "id": "food_chips",
+      "category": "food_extra",
+      "prompt": "Potato chips, crispy chips, product photography, white background"
+    },
+    {
+      "id": "food_popcorn",
+      "category": "food_extra",
+      "prompt": "Popcorn, popped corn kernels, product photography, white background"
+    },
+    {
+      "id": "food_candy_wrapper",
+      "category": "food_extra",
+      "prompt": "Wrapped candy, colorful candy wrapper, product photography, white background"
+    },
+    {
+      "id": "food_chocolate_bar",
+      "category": "food_extra",
+      "prompt": "Chocolate bar, brown candy bar, product photography, white background"
+    },
+    {
+      "id": "food_lollipop",
+      "category": "food_extra",
+      "prompt": "Lollipop, spiral colored lollipop on stick, product photography, white background"
+    },
+    {
+      "id": "food_gummy_bear",
+      "category": "food_extra",
+      "prompt": "Gummy bear candy, colorful gummy, product photography, white background"
+    },
+    {
+      "id": "food_ice_cream_cone",
+      "category": "food_extra",
+      "prompt": "Ice cream cone, soft serve in waffle cone, product photography, white background"
+    },
+    {
+      "id": "food_popsicle",
+      "category": "food_extra",
+      "prompt": "Popsicle, frozen treat on stick, product photography, white background"
+    },
+    {
+      "id": "random_hourglass",
+      "category": "misc_extra",
+      "prompt": "Sand hourglass, glass timer, product photography, white background"
+    },
+    {
+      "id": "random_compass_drawing",
+      "category": "misc_extra",
+      "prompt": "Drawing compass, geometry compass tool, product photography, white background"
+    },
+    {
+      "id": "random_protractor",
+      "category": "misc_extra",
+      "prompt": "Plastic protractor, semicircle measuring tool, product photography, white background"
+    },
+    {
+      "id": "random_globe_small",
+      "category": "misc_extra",
+      "prompt": "Small desk globe, world globe on stand, product photography, white background"
+    },
+    {
+      "id": "random_telescope_small",
+      "category": "misc_extra",
+      "prompt": "Small telescope toy, handheld scope, product photography, white background"
+    },
+    {
+      "id": "random_binoculars_toy",
+      "category": "misc_extra",
+      "prompt": "Toy binoculars, children's binoculars, product photography, white background"
+    },
+    {
+      "id": "random_kaleidoscope",
+      "category": "misc_extra",
+      "prompt": "Kaleidoscope toy, colorful viewing tube, product photography, white background"
+    },
+    {
+      "id": "random_snow_globe",
+      "category": "misc_extra",
+      "prompt": "Snow globe, decorative snow dome, product photography, white background"
+    },
+    {
+      "id": "random_music_box",
+      "category": "misc_extra",
+      "prompt": "Music box, decorative musical box, product photography, white background"
+    },
+    {
+      "id": "random_piggy_bank",
+      "category": "misc_extra",
+      "prompt": "Pink piggy bank, ceramic pig bank, product photography, white background"
+    },
+    {
+      "id": "random_alarm_clock",
+      "category": "misc_extra",
+      "prompt": "Analog alarm clock, vintage style clock, product photography, white background"
+    },
+    {
+      "id": "random_hourglass_small",
+      "category": "misc_extra",
+      "prompt": "Small sand timer, one minute hourglass, product photography, white background"
+    },
+    {
+      "id": "random_compass_navigation",
+      "category": "misc_extra",
+      "prompt": "Navigation compass, magnetic compass, product photography, white background"
+    },
+    {
+      "id": "random_thermometer",
+      "category": "misc_extra",
+      "prompt": "Thermometer, temperature gauge, product photography, white background"
+    },
+    {
+      "id": "random_magnifying_glass",
+      "category": "misc_extra",
+      "prompt": "Magnifying glass, handheld magnifier, product photography, white background"
+    },
+    {
+      "id": "random_hand_mirror",
+      "category": "misc_extra",
+      "prompt": "Hand mirror, oval vanity mirror, product photography, white background"
+    },
+    {
+      "id": "random_comb",
+      "category": "misc_extra",
+      "prompt": "Hair comb, plastic comb, product photography, white background"
+    },
+    {
+      "id": "random_brush",
+      "category": "misc_extra",
+      "prompt": "Hair brush, paddle brush, product photography, white background"
+    },
+    {
+      "id": "random_lipstick",
+      "category": "misc_extra",
+      "prompt": "Red lipstick, cosmetic tube, product photography, white background"
+    },
+    {
+      "id": "random_perfume_bottle",
+      "category": "misc_extra",
+      "prompt": "Perfume bottle, decorative glass bottle, product photography, white background"
+    }
+  ]
+}

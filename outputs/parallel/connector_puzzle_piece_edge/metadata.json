@@ -1,0 +1,17 @@
+{
+  "mesh_id": "connector_puzzle_piece_edge",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.402330",
+  "prompt": "Edge jigsaw puzzle piece, flat side piece, product photography, white background",
+  "files": {
+    "glb": [
+      "connector_puzzle_piece_edge.glb"
+    ],
+    "reference_image": [
+      "connector_puzzle_piece_edge_reference.png"
+    ]
+  },
+  "status": "complete"
+}

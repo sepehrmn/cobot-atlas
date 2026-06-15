@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cylinder_hollow_tube",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.378311",
+  "prompt": "Orange plastic hollow tube, 6cm outer diameter, 4cm inner hole, 8cm tall, product photography, white background",
+  "files": {
+    "glb": [
+      "cylinder_hollow_tube.glb"
+    ],
+    "reference_image": [
+      "cylinder_hollow_tube_reference.png"
+    ]
+  },
+  "status": "complete"
+}

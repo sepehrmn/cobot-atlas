@@ -1,0 +1,17 @@
+{
+  "mesh_id": "stacking_ring_base",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.324637",
+  "prompt": "Colorful stacking ring toy base with vertical post, baby toy style, product photography, white background",
+  "files": {
+    "glb": [
+      "stacking_ring_base.glb"
+    ],
+    "reference_image": [
+      "stacking_ring_base_reference.png"
+    ]
+  },
+  "status": "complete"
+}

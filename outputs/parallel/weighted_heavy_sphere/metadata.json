@@ -1,0 +1,17 @@
+{
+  "mesh_id": "weighted_heavy_sphere",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.337481",
+  "prompt": "Heavy metal ball, dense steel ball bearing, product photography, white background",
+  "files": {
+    "glb": [
+      "weighted_heavy_sphere.glb"
+    ],
+    "reference_image": [
+      "weighted_heavy_sphere_reference.png"
+    ]
+  },
+  "status": "complete"
+}

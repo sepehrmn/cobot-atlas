@@ -1,0 +1,17 @@
+{
+  "mesh_id": "food_croissant",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.349782",
+  "prompt": "Golden croissant pastry, flaky French croissant, product photography, white background",
+  "files": {
+    "glb": [
+      "food_croissant.glb"
+    ],
+    "reference_image": [
+      "food_croissant_reference.png"
+    ]
+  },
+  "status": "complete"
+}

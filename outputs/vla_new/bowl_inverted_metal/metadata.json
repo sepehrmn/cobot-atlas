@@ -1,0 +1,18 @@
+{
+  "mesh_id": "bowl_inverted_metal",
+  "status": "complete",
+  "prompt": "Stainless steel mixing bowl inverted, upside down position, photorealistic, white background",
+  "enhanced_prompt": "Stainless steel mixing bowl inverted, upside down position, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "pose_variation",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:43:28.398982",
+  "generation_time_seconds": 110.47953677177429,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "bowl_inverted_metal_reference.png",
+    "glb": "bowl_inverted_metal.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

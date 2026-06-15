@@ -1,0 +1,17 @@
+{
+  "mesh_id": "music_harmonica",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.320356",
+  "prompt": "Silver harmonica, mouth organ instrument, product photography, white background",
+  "files": {
+    "glb": [
+      "music_harmonica.glb"
+    ],
+    "reference_image": [
+      "music_harmonica_reference.png"
+    ]
+  },
+  "status": "complete"
+}

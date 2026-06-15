@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cylinder_cork",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.465697",
+  "prompt": "Cork cylinder, wine cork shape, natural cork material, product photography, white background",
+  "files": {
+    "glb": [
+      "cylinder_cork.glb"
+    ],
+    "reference_image": [
+      "cylinder_cork_reference.png"
+    ]
+  },
+  "status": "complete"
+}

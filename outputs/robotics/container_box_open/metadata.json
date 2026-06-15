@@ -1,0 +1,18 @@
+{
+  "mesh_id": "container_box_open",
+  "status": "complete",
+  "prompt": "Open cardboard box, brown box with flaps open, empty inside, photorealistic, white background",
+  "enhanced_prompt": "Open cardboard box, brown box with flaps open, empty inside, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "container",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:21:53.573670",
+  "generation_time_seconds": 21.494467973709106,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "container_box_open_reference.png",
+    "glb": "container_box_open.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

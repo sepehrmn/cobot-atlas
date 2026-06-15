@@ -1,0 +1,17 @@
+{
+  "mesh_id": "furniture_chair_office",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.322580",
+  "prompt": "Black office chair with wheels, swivel desk chair, product photography, white background",
+  "files": {
+    "glb": [
+      "furniture_chair_office.glb"
+    ],
+    "reference_image": [
+      "furniture_chair_office_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "art_glue_bottle",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.393132",
+  "prompt": "White craft glue bottle, Elmer's style, product photography, white background",
+  "files": {
+    "glb": [
+      "art_glue_bottle.glb"
+    ],
+    "reference_image": [
+      "art_glue_bottle_reference.png"
+    ]
+  },
+  "status": "complete"
+}

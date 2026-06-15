@@ -1,0 +1,17 @@
+{
+  "mesh_id": "garden_watering_can",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.323273",
+  "prompt": "Green watering can with spout, garden watering can, product photography, white background",
+  "files": {
+    "glb": [
+      "garden_watering_can.glb"
+    ],
+    "reference_image": [
+      "garden_watering_can_reference.png"
+    ]
+  },
+  "status": "complete"
+}

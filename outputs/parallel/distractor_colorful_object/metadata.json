@@ -1,0 +1,17 @@
+{
+  "mesh_id": "distractor_colorful_object",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.391010",
+  "prompt": "Very colorful rainbow object, attention grabbing, product photography, white background",
+  "files": {
+    "glb": [
+      "distractor_colorful_object.glb"
+    ],
+    "reference_image": [
+      "distractor_colorful_object_reference.png"
+    ]
+  },
+  "status": "complete"
+}

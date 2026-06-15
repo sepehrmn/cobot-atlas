@@ -1,0 +1,17 @@
+{
+  "mesh_id": "deformable_stress_ball",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.341549",
+  "prompt": "Gel stress ball, squishy squeeze ball, product photography, white background",
+  "files": {
+    "glb": [
+      "deformable_stress_ball.glb"
+    ],
+    "reference_image": [
+      "deformable_stress_ball_reference.png"
+    ]
+  },
+  "status": "complete"
+}

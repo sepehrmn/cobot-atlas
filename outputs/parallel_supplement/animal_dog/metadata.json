@@ -1,0 +1,17 @@
+{
+  "mesh_id": "animal_dog",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.441915",
+  "prompt": "Toy dog figurine, plastic dog, product photography, white background",
+  "files": {
+    "glb": [
+      "animal_dog.glb"
+    ],
+    "reference_image": [
+      "animal_dog_reference.png"
+    ]
+  },
+  "status": "complete"
+}

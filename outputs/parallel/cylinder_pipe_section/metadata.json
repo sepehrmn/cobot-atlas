@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cylinder_pipe_section",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.336719",
+  "prompt": "Gray PVC pipe section, hollow cylinder, 5cm diameter, 10cm long, product photography, white background",
+  "files": {
+    "glb": [
+      "cylinder_pipe_section.glb"
+    ],
+    "reference_image": [
+      "cylinder_pipe_section_reference.png"
+    ]
+  },
+  "status": "complete"
+}

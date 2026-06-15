@@ -1,0 +1,17 @@
+{
+  "mesh_id": "torus_bagel",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.338707",
+  "prompt": "Plain bagel bread, torus shaped, golden brown, realistic food, product photography, white background",
+  "files": {
+    "glb": [
+      "torus_bagel.glb"
+    ],
+    "reference_image": [
+      "torus_bagel_reference.png"
+    ]
+  },
+  "status": "complete"
+}

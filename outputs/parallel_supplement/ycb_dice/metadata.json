@@ -1,0 +1,17 @@
+{
+  "mesh_id": "ycb_dice",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.431099",
+  "prompt": "White dice, 6-sided die with black dots, product photography, white background",
+  "files": {
+    "glb": [
+      "ycb_dice.glb"
+    ],
+    "reference_image": [
+      "ycb_dice_reference.png"
+    ]
+  },
+  "status": "complete"
+}

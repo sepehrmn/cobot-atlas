@@ -1,0 +1,8 @@
+{
+  "id": "office_rubber_band",
+  "category": "office",
+  "prompt": "Brown rubber band, elastic band, product photography, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T02:57:49.755686"
+}

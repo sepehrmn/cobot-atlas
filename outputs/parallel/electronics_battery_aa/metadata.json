@@ -1,0 +1,17 @@
+{
+  "mesh_id": "electronics_battery_aa",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.419626",
+  "prompt": "AA battery, standard cylindrical battery, product photography, white background",
+  "files": {
+    "glb": [
+      "electronics_battery_aa.glb"
+    ],
+    "reference_image": [
+      "electronics_battery_aa_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "misc_credit_card",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.396062",
+  "prompt": "Credit card, plastic payment card, product photography, white background",
+  "files": {
+    "glb": [
+      "misc_credit_card.glb"
+    ],
+    "reference_image": [
+      "misc_credit_card_reference.png"
+    ]
+  },
+  "status": "complete"
+}

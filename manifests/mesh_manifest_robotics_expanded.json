@@ -1,0 +1,104 @@
+{
+  "meshes": [
+    {
+      "id": "painter_easel_large",
+      "category": "painter_studio",
+      "prompt": "large wooden artist easel, empty canvas, standing upright"
+    },
+    {
+      "id": "painter_canvas_stretched",
+      "category": "painter_studio",
+      "prompt": "blank white stretched canvas, rectangular, wooden frame back"
+    },
+    {
+      "id": "painter_palette_wood",
+      "category": "painter_studio",
+      "prompt": "traditional wooden painter's palette, kidney shape, thumb hole"
+    },
+    {
+      "id": "painter_brush_set_jar",
+      "category": "painter_studio",
+      "prompt": "ceramic jar filled with various paintbrushes, different sizes"
+    },
+    {
+      "id": "painter_tube_paint_red",
+      "category": "painter_studio",
+      "prompt": "squeezed tube of red oil paint, metal tube, cap on"
+    },
+    {
+      "id": "painter_tube_paint_blue",
+      "category": "painter_studio",
+      "prompt": "squeezed tube of blue oil paint, metal tube, cap on"
+    },
+    {
+      "id": "painter_tube_paint_yellow",
+      "category": "painter_studio",
+      "prompt": "squeezed tube of yellow oil paint, metal tube, cap on"
+    },
+    {
+      "id": "painter_palette_knife",
+      "category": "painter_studio",
+      "prompt": "metal palette knife, wooden handle, used for mixing paint"
+    },
+    {
+      "id": "painter_rag_messy",
+      "category": "painter_studio",
+      "prompt": "crumpled paint rag, stained with various colors"
+    },
+    {
+      "id": "painter_turpentine_jar",
+      "category": "painter_studio",
+      "prompt": "glass jar with turpentine solvent, slightly cloudy"
+    },
+    {
+      "id": "mechanic_wrench_adjustable",
+      "category": "mechanic_shop",
+      "prompt": "adjustable crescent wrench, metal, heavy duty"
+    },
+    {
+      "id": "mechanic_screwdriver_phillips",
+      "category": "mechanic_shop",
+      "prompt": "phillips head screwdriver, ergonomic rubber handle, black and yellow"
+    },
+    {
+      "id": "mechanic_screwdriver_flat",
+      "category": "mechanic_shop",
+      "prompt": "flathead screwdriver, ergonomic rubber handle, black and red"
+    },
+    {
+      "id": "mechanic_oil_can_vintage",
+      "category": "mechanic_shop",
+      "prompt": "vintage metal oil can, pump handle, long spout"
+    },
+    {
+      "id": "mechanic_car_jack",
+      "category": "mechanic_shop",
+      "prompt": "hydraulic floor jack, red painted metal, heavy"
+    },
+    {
+      "id": "mechanic_toolbox_metal",
+      "category": "mechanic_shop",
+      "prompt": "red metal toolbox, latched closed, handle on top"
+    },
+    {
+      "id": "mechanic_tire_pressure_gauge",
+      "category": "mechanic_shop",
+      "prompt": "tire pressure gauge, metal stick type"
+    },
+    {
+      "id": "mechanic_spark_plug",
+      "category": "mechanic_shop",
+      "prompt": "clean new spark plug, ceramic insulator, metal threads"
+    },
+    {
+      "id": "mechanic_filter_oil",
+      "category": "mechanic_shop",
+      "prompt": "cylindrical oil filter, orange metal casing"
+    },
+    {
+      "id": "mechanic_battery_car",
+      "category": "mechanic_shop",
+      "prompt": "12v car battery, black casing, positive and negative terminals"
+    }
+  ]
+}

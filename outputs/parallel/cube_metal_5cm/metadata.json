@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cube_metal_5cm",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.408413",
+  "prompt": "Polished metal cube, 5cm sides, chrome finish, reflective, product photography, white background",
+  "files": {
+    "glb": [
+      "cube_metal_5cm.glb"
+    ],
+    "reference_image": [
+      "cube_metal_5cm_reference.png"
+    ]
+  },
+  "status": "complete"
+}

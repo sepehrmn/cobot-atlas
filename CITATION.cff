@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "cobot-atlas: A Large-Scale 3D Mesh Dataset for Robot Simulation"
+type: dataset
+authors:
+  - family-names: Mahmoudian
+    given-names: Sepehr
+    orcid: ""
+year: 2026
+doi: "10.5281/zenodo.20697491"
+license: MIT
+repository-code: "https://github.com/sepehrmn/cobot-atlas"
+url: "https://huggingface.co/datasets/torusprime/cobot-atlas"
+abstract: >
+  A comprehensive, curated collection of 2,023 unique 3D meshes
+  (glTF 2.0 Binary) for collaborative robot simulation, manipulation
+  research, vision-language-action model training, and robotics
+  benchmarking. Covers industrial components, geometric primitives,
+  household items, YCB benchmark objects, robot hardware, food,
+  fabric, tools, toys, vehicles, laboratory equipment, and more.
+keywords:
+  - robotics
+  - 3d-meshes
+  - simulation
+  - manipulation
+  - embodied-ai
+  - cobot
+  - synthetic-data
+  - benchmark

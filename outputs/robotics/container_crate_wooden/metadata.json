@@ -1,0 +1,18 @@
+{
+  "mesh_id": "container_crate_wooden",
+  "status": "complete",
+  "prompt": "Wooden crate, small wooden storage crate with slats, photorealistic, white background",
+  "enhanced_prompt": "Wooden crate, small wooden storage crate with slats, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "container",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:22:06.974417",
+  "generation_time_seconds": 21.923484802246094,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "container_crate_wooden_reference.png",
+    "glb": "container_crate_wooden.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

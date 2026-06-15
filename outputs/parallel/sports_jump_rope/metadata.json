@@ -1,0 +1,17 @@
+{
+  "mesh_id": "sports_jump_rope",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.338024",
+  "prompt": "Jump rope with handles, skipping rope, product photography, white background",
+  "files": {
+    "glb": [
+      "sports_jump_rope.glb"
+    ],
+    "reference_image": [
+      "sports_jump_rope_reference.png"
+    ]
+  },
+  "status": "complete"
+}

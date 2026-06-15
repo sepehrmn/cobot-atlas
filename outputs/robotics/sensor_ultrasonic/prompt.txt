@@ -1,0 +1,1 @@
+Ultrasonic distance sensor, HC-SR04 style sensor with two transducers, photorealistic, white background

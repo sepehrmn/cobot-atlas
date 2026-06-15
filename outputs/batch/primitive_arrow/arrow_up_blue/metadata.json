@@ -1,0 +1,8 @@
+{
+  "id": "arrow_up_blue",
+  "category": "primitive_arrow",
+  "prompt": "Blue arrow pointing up, upward direction, product photography, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T03:53:22.793846"
+}

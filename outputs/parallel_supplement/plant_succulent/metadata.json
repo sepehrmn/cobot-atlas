@@ -1,0 +1,17 @@
+{
+  "mesh_id": "plant_succulent",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.474912",
+  "prompt": "Succulent plant in pot, small green plant, product photography, white background",
+  "files": {
+    "glb": [
+      "plant_succulent.glb"
+    ],
+    "reference_image": [
+      "plant_succulent_reference.png"
+    ]
+  },
+  "status": "complete"
+}

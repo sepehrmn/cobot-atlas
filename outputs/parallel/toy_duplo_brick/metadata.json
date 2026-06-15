@@ -1,0 +1,17 @@
+{
+  "mesh_id": "toy_duplo_brick",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.417319",
+  "prompt": "Large DUPLO brick, red oversized building block for toddlers, product photography, white background",
+  "files": {
+    "glb": [
+      "toy_duplo_brick.glb"
+    ],
+    "reference_image": [
+      "toy_duplo_brick_reference.png"
+    ]
+  },
+  "status": "complete"
+}

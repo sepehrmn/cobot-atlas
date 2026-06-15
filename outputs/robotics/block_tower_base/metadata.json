@@ -1,0 +1,18 @@
+{
+  "mesh_id": "block_tower_base",
+  "status": "complete",
+  "prompt": "Wooden block tower base, large flat wooden block for building tower, photorealistic, white background",
+  "enhanced_prompt": "Wooden block tower base, large flat wooden block for building tower, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "block_stacking",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:19:50.436944",
+  "generation_time_seconds": 30.74614381790161,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "block_tower_base_reference.png",
+    "glb": "block_tower_base.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

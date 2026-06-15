@@ -1,0 +1,18 @@
+{
+  "mesh_id": "stacking_cup_yellow",
+  "status": "complete",
+  "prompt": "Yellow plastic stacking cup, nesting cup, photorealistic, white background",
+  "enhanced_prompt": "Yellow plastic stacking cup, nesting cup, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "stacking",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:19:18.754958",
+  "generation_time_seconds": 21.141295194625854,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "stacking_cup_yellow_reference.png",
+    "glb": "stacking_cup_yellow.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

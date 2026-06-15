@@ -1,0 +1,17 @@
+{
+  "mesh_id": "balance_scale",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.354220",
+  "prompt": "Balance scale, two pan weighing scale, product photography, white background",
+  "files": {
+    "glb": [
+      "balance_scale.glb"
+    ],
+    "reference_image": [
+      "balance_scale_reference.png"
+    ]
+  },
+  "status": "complete"
+}

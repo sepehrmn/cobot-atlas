@@ -1,0 +1,18 @@
+{
+  "mesh_id": "distractor_colorful",
+  "status": "complete",
+  "prompt": "Very colorful rainbow object, attention-grabbing multicolor item, photorealistic, white background",
+  "enhanced_prompt": "Very colorful rainbow object, attention-grabbing multicolor item, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "perturbation",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:32:20.561787",
+  "generation_time_seconds": 44.95962595939636,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "distractor_colorful_reference.png",
+    "glb": "distractor_colorful.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

@@ -1,0 +1,18 @@
+{
+  "mesh_id": "hanoi_disk_xxxl_pink",
+  "status": "complete",
+  "prompt": "Base disk pink wooden Tower of Hanoi, 8cm diameter with center hole, largest size, painted wood, photorealistic, white background",
+  "enhanced_prompt": "wooden toy, smooth finish, Base disk pink wooden Tower of Hanoi, 8cm diameter with center hole, largest size, painted wood, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "hanoi",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:13:46.942632",
+  "generation_time_seconds": 46.6552619934082,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "hanoi_disk_xxxl_pink_reference.png",
+    "glb": "hanoi_disk_xxxl_pink.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "food_grape_bunch",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.403395",
+  "prompt": "Purple grape bunch, cluster of grapes, realistic, product photography, white background",
+  "files": {
+    "glb": [
+      "food_grape_bunch.glb"
+    ],
+    "reference_image": [
+      "food_grape_bunch_reference.png"
+    ]
+  },
+  "status": "complete"
+}

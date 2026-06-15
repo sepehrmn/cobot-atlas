@@ -1,0 +1,18 @@
+{
+  "mesh_id": "fabric_velcro_strip",
+  "status": "complete",
+  "prompt": "Velcro strip, hook and loop fastener strip, photorealistic, white background",
+  "enhanced_prompt": "soft material texture, natural folds, Velcro strip, hook and loop fastener strip, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "fabric",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:17:55.914638",
+  "generation_time_seconds": 20.026762008666992,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "fabric_velcro_strip_reference.png",
+    "glb": "fabric_velcro_strip.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

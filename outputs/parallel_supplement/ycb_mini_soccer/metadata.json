@@ -1,0 +1,17 @@
+{
+  "mesh_id": "ycb_mini_soccer",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.491056",
+  "prompt": "Mini soccer ball, small football, product photography, white background",
+  "files": {
+    "glb": [
+      "ycb_mini_soccer.glb"
+    ],
+    "reference_image": [
+      "ycb_mini_soccer_reference.png"
+    ]
+  },
+  "status": "complete"
+}

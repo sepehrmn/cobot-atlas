@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cross_block_blue",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.334940",
+  "prompt": "Blue plastic cross shaped block, plus sign shape, product photography, white background",
+  "files": {
+    "glb": [
+      "cross_block_blue.glb"
+    ],
+    "reference_image": [
+      "cross_block_blue_reference.png"
+    ]
+  },
+  "status": "complete"
+}

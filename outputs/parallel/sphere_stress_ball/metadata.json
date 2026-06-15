@@ -1,0 +1,17 @@
+{
+  "mesh_id": "sphere_stress_ball",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.343510",
+  "prompt": "Yellow stress ball, soft foam, squeezable, product photography, white background",
+  "files": {
+    "glb": [
+      "sphere_stress_ball.glb"
+    ],
+    "reference_image": [
+      "sphere_stress_ball_reference.png"
+    ]
+  },
+  "status": "complete"
+}

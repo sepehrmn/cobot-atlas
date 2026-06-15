@@ -1,0 +1,17 @@
+{
+  "mesh_id": "zone_marker_circle_green",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.386906",
+  "prompt": "Flat green circle marker, thin disc zone indicator, product photography, white background",
+  "files": {
+    "glb": [
+      "zone_marker_circle_green.glb"
+    ],
+    "reference_image": [
+      "zone_marker_circle_green_reference.png"
+    ]
+  },
+  "status": "complete"
+}

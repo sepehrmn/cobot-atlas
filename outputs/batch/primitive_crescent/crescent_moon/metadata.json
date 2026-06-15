@@ -1,0 +1,8 @@
+{
+  "id": "crescent_moon",
+  "category": "primitive_crescent",
+  "prompt": "Yellow crescent moon shape, curved moon slice, product photography, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T03:51:52.814598"
+}

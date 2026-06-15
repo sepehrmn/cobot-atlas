@@ -1,0 +1,18 @@
+{
+  "mesh_id": "mobile_robot_turtlebot",
+  "status": "complete",
+  "prompt": "TurtleBot mobile robot, small wheeled robot platform, ROS robot, photorealistic, white background",
+  "enhanced_prompt": "industrial design, mechanical precision, TurtleBot mobile robot, small wheeled robot platform, ROS robot, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "mobile_robot",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:23:43.612938",
+  "generation_time_seconds": 26.343098163604736,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "mobile_robot_turtlebot_reference.png",
+    "glb": "mobile_robot_turtlebot.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "fabric_glove_rubber",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.333010",
+  "prompt": "Yellow rubber cleaning glove, kitchen glove, product photography, white background",
+  "files": {
+    "glb": [
+      "fabric_glove_rubber.glb"
+    ],
+    "reference_image": [
+      "fabric_glove_rubber_reference.png"
+    ]
+  },
+  "status": "complete"
+}

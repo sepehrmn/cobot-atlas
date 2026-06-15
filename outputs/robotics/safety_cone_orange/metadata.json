@@ -1,0 +1,18 @@
+{
+  "mesh_id": "safety_cone_orange",
+  "status": "complete",
+  "prompt": "Orange traffic safety cone, standard warning cone, photorealistic, white background",
+  "enhanced_prompt": "Orange traffic safety cone, standard warning cone, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "environment",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:25:14.477177",
+  "generation_time_seconds": 20.248198747634888,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "safety_cone_orange_reference.png",
+    "glb": "safety_cone_orange.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

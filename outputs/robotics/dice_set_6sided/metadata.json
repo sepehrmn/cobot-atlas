@@ -1,0 +1,18 @@
+{
+  "mesh_id": "dice_set_6sided",
+  "status": "complete",
+  "prompt": "Set of 6-sided dice, white dice with black dots, multiple dice, photorealistic, white background",
+  "enhanced_prompt": "Set of 6-sided dice, white dice with black dots, multiple dice, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "small_objects",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:21:17.529522",
+  "generation_time_seconds": 26.431936025619507,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "dice_set_6sided_reference.png",
+    "glb": "dice_set_6sided.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "robot_gripper_3finger",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.401445",
+  "prompt": "Three finger robot gripper, adaptive robot hand, product photography, white background",
+  "files": {
+    "glb": [
+      "robot_gripper_3finger.glb"
+    ],
+    "reference_image": [
+      "robot_gripper_3finger_reference.png"
+    ]
+  },
+  "status": "complete"
+}

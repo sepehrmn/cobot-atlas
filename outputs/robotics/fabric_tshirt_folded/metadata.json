@@ -1,0 +1,18 @@
+{
+  "mesh_id": "fabric_tshirt_folded",
+  "status": "complete",
+  "prompt": "Folded t-shirt, white cotton t-shirt neatly folded, rectangular stack, photorealistic, white background",
+  "enhanced_prompt": "soft material texture, natural folds, Folded t-shirt, white cotton t-shirt neatly folded, rectangular stack, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "fabric",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:16:19.285570",
+  "generation_time_seconds": 25.678617000579834,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "fabric_tshirt_folded_reference.png",
+    "glb": "fabric_tshirt_folded.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

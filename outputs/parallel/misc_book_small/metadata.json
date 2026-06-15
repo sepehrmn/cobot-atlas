@@ -1,0 +1,17 @@
+{
+  "mesh_id": "misc_book_small",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.378024",
+  "prompt": "Small paperback book, closed book, product photography, white background",
+  "files": {
+    "glb": [
+      "misc_book_small.glb"
+    ],
+    "reference_image": [
+      "misc_book_small_reference.png"
+    ]
+  },
+  "status": "complete"
+}

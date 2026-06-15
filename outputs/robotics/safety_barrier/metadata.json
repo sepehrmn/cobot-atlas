@@ -1,0 +1,18 @@
+{
+  "mesh_id": "safety_barrier",
+  "status": "complete",
+  "prompt": "Safety barrier, yellow and black striped barrier, photorealistic, white background",
+  "enhanced_prompt": "Safety barrier, yellow and black striped barrier, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "environment",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:25:13.593222",
+  "generation_time_seconds": 16.226126670837402,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "safety_barrier_reference.png",
+    "glb": "safety_barrier.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

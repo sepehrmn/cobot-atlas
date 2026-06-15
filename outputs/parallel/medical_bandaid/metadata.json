@@ -1,0 +1,17 @@
+{
+  "mesh_id": "medical_bandaid",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.363087",
+  "prompt": "Adhesive bandage, Band-Aid style, product photography, white background",
+  "files": {
+    "glb": [
+      "medical_bandaid.glb"
+    ],
+    "reference_image": [
+      "medical_bandaid_reference.png"
+    ]
+  },
+  "status": "complete"
+}

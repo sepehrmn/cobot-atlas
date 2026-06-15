@@ -1,0 +1,17 @@
+{
+  "mesh_id": "box_cardboard_medium",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.368920",
+  "prompt": "Medium brown cardboard box, 20cm cube, packaging box, product photography, white background",
+  "files": {
+    "glb": [
+      "box_cardboard_medium.glb"
+    ],
+    "reference_image": [
+      "box_cardboard_medium_reference.png"
+    ]
+  },
+  "status": "complete"
+}

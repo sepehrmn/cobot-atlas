@@ -1,0 +1,18 @@
+{
+  "mesh_id": "block_jenga",
+  "status": "complete",
+  "prompt": "Wooden Jenga block, rectangular wooden block for stacking game, photorealistic, white background",
+  "enhanced_prompt": "Wooden Jenga block, rectangular wooden block for stacking game, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "block_stacking",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:19:54.515848",
+  "generation_time_seconds": 21.941553115844727,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "block_jenga_reference.png",
+    "glb": "block_jenga.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

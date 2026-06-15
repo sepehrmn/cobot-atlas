@@ -1,0 +1,17 @@
+{
+  "mesh_id": "tool_tape_measure",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.409463",
+  "prompt": "Yellow tape measure, retractable measuring tape, product photography, white background",
+  "files": {
+    "glb": [
+      "tool_tape_measure.glb"
+    ],
+    "reference_image": [
+      "tool_tape_measure_reference.png"
+    ]
+  },
+  "status": "complete"
+}

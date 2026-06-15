@@ -1,0 +1,18 @@
+{
+  "mesh_id": "ycb_040_large_marker",
+  "status": "complete",
+  "prompt": "Large marker pen, YCB benchmark object, thick black marker, photorealistic, white background",
+  "enhanced_prompt": "YCB benchmark style, realistic object, Large marker pen, YCB benchmark object, thick black marker, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "ycb",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:31:34.720874",
+  "generation_time_seconds": 76.24984908103943,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "ycb_040_large_marker_reference.png",
+    "glb": "ycb_040_large_marker.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "articulated_folding_ruler",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.393452",
+  "prompt": "Folding ruler, segmented hinged ruler, product photography, white background",
+  "files": {
+    "glb": [
+      "articulated_folding_ruler.glb"
+    ],
+    "reference_image": [
+      "articulated_folding_ruler_reference.png"
+    ]
+  },
+  "status": "complete"
+}

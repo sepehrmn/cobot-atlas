@@ -1,0 +1,17 @@
+{
+  "mesh_id": "robot_sensor_lidar",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.328638",
+  "prompt": "Lidar sensor, cylindrical 3D scanner, black puck shape, product photography, white background",
+  "files": {
+    "glb": [
+      "robot_sensor_lidar.glb"
+    ],
+    "reference_image": [
+      "robot_sensor_lidar_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,18 @@
+{
+  "mesh_id": "lab_table_workbench",
+  "status": "complete",
+  "prompt": "Laboratory workbench, metal frame table with light gray laminate top, clean work surface, photorealistic, white background",
+  "enhanced_prompt": "Laboratory workbench, metal frame table with light gray laminate top, clean work surface, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "environment",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:24:50.719438",
+  "generation_time_seconds": 19.80507802963257,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "lab_table_workbench_reference.png",
+    "glb": "lab_table_workbench.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

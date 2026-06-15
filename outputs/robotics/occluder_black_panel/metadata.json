@@ -1,0 +1,18 @@
+{
+  "mesh_id": "occluder_black_panel",
+  "status": "complete",
+  "prompt": "Black flat occlusion panel, rectangular matte black board, photorealistic, white background",
+  "enhanced_prompt": "Black flat occlusion panel, rectangular matte black board, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "perturbation",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:32:37.230354",
+  "generation_time_seconds": 88.68292808532715,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "occluder_black_panel_reference.png",
+    "glb": "occluder_black_panel.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

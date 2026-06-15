@@ -1,0 +1,17 @@
+{
+  "mesh_id": "brick_gray",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.479918",
+  "prompt": "Gray concrete brick, rectangular cinder block style, product photography, white background",
+  "files": {
+    "glb": [
+      "brick_gray.glb"
+    ],
+    "reference_image": [
+      "brick_gray_reference.png"
+    ]
+  },
+  "status": "complete"
+}

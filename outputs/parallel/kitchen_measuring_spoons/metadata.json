@@ -1,0 +1,17 @@
+{
+  "mesh_id": "kitchen_measuring_spoons",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.333152",
+  "prompt": "Set of measuring spoons, metal spoons on ring, product photography, white background",
+  "files": {
+    "glb": [
+      "kitchen_measuring_spoons.glb"
+    ],
+    "reference_image": [
+      "kitchen_measuring_spoons_reference.png"
+    ]
+  },
+  "status": "complete"
+}

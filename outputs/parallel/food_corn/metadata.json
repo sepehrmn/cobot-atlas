@@ -1,0 +1,17 @@
+{
+  "mesh_id": "food_corn",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.335067",
+  "prompt": "Yellow corn on the cob, fresh corn ear, product photography, white background",
+  "files": {
+    "glb": [
+      "food_corn.glb"
+    ],
+    "reference_image": [
+      "food_corn_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "vehicle_forklift",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.473589",
+  "prompt": "Toy forklift, warehouse forklift, product photography, white background",
+  "files": {
+    "glb": [
+      "vehicle_forklift.glb"
+    ],
+    "reference_image": [
+      "vehicle_forklift_reference.png"
+    ]
+  },
+  "status": "complete"
+}

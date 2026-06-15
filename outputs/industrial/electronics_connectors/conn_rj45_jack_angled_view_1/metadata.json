@@ -1,0 +1,8 @@
+{
+  "id": "conn_rj45_jack_angled_view_1",
+  "category": "electronics_connectors",
+  "prompt": "Electrical connector rj45 jack, angled view, metallic contacts, plastic housing, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T04:49:54.093303"
+}

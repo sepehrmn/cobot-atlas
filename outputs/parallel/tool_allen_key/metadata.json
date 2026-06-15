@@ -1,0 +1,17 @@
+{
+  "mesh_id": "tool_allen_key",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.388488",
+  "prompt": "L-shaped hex allen key, chrome metal, product photography, white background",
+  "files": {
+    "glb": [
+      "tool_allen_key.glb"
+    ],
+    "reference_image": [
+      "tool_allen_key_reference.png"
+    ]
+  },
+  "status": "complete"
+}

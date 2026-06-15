@@ -1,0 +1,17 @@
+{
+  "mesh_id": "arrow_curved",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.440807",
+  "prompt": "Curved arrow, bent direction indicator, product photography, white background",
+  "files": {
+    "glb": [
+      "arrow_curved.glb"
+    ],
+    "reference_image": [
+      "arrow_curved_reference.png"
+    ]
+  },
+  "status": "complete"
+}

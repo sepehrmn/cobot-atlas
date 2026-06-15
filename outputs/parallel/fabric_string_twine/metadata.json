@@ -1,0 +1,17 @@
+{
+  "mesh_id": "fabric_string_twine",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.412063",
+  "prompt": "Ball of brown twine string, natural fiber cord, product photography, white background",
+  "files": {
+    "glb": [
+      "fabric_string_twine.glb"
+    ],
+    "reference_image": [
+      "fabric_string_twine_reference.png"
+    ]
+  },
+  "status": "complete"
+}

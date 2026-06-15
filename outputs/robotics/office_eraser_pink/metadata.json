@@ -1,0 +1,18 @@
+{
+  "mesh_id": "office_eraser_pink",
+  "status": "complete",
+  "prompt": "Pink rubber eraser, rectangular eraser, photorealistic, white background",
+  "enhanced_prompt": "Pink rubber eraser, rectangular eraser, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "office",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:23:11.923165",
+  "generation_time_seconds": 27.4845712184906,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "office_eraser_pink_reference.png",
+    "glb": "office_eraser_pink.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

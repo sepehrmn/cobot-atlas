@@ -1,0 +1,18 @@
+{
+  "mesh_id": "container_basket_wicker",
+  "status": "complete",
+  "prompt": "Wicker basket with handle, woven basket container, photorealistic, white background",
+  "enhanced_prompt": "Wicker basket with handle, woven basket container, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "container",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:22:03.474546",
+  "generation_time_seconds": 27.316705226898193,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "container_basket_wicker_reference.png",
+    "glb": "container_basket_wicker.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

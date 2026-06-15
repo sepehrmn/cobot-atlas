@@ -1,0 +1,17 @@
+{
+  "mesh_id": "bottle_milk",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.417509",
+  "prompt": "White plastic milk jug with handle, 1 gallon size, product photography, white background",
+  "files": {
+    "glb": [
+      "bottle_milk.glb"
+    ],
+    "reference_image": [
+      "bottle_milk_reference.png"
+    ]
+  },
+  "status": "complete"
+}

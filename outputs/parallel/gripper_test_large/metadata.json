@@ -1,0 +1,17 @@
+{
+  "mesh_id": "gripper_test_large",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.389751",
+  "prompt": "Large ball, maximum size graspable sphere, product photography, white background",
+  "files": {
+    "glb": [
+      "gripper_test_large.glb"
+    ],
+    "reference_image": [
+      "gripper_test_large_reference.png"
+    ]
+  },
+  "status": "complete"
+}

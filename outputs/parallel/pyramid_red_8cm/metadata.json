@@ -1,0 +1,17 @@
+{
+  "mesh_id": "pyramid_red_8cm",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.329703",
+  "prompt": "Red plastic pyramid, 8cm square base, 8cm tall, Egyptian style, product photography, white background",
+  "files": {
+    "glb": [
+      "pyramid_red_8cm.glb"
+    ],
+    "reference_image": [
+      "pyramid_red_8cm_reference.png"
+    ]
+  },
+  "status": "complete"
+}

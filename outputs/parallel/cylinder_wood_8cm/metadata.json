@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cylinder_wood_8cm",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.379492",
+  "prompt": "Wooden cylinder, 6cm diameter, 8cm tall, natural grain, product photography, white background",
+  "files": {
+    "glb": [
+      "cylinder_wood_8cm.glb"
+    ],
+    "reference_image": [
+      "cylinder_wood_8cm_reference.png"
+    ]
+  },
+  "status": "complete"
+}

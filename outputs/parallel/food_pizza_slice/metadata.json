@@ -1,0 +1,17 @@
+{
+  "mesh_id": "food_pizza_slice",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.370628",
+  "prompt": "Slice of pepperoni pizza, triangular pizza slice, product photography, white background",
+  "files": {
+    "glb": [
+      "food_pizza_slice.glb"
+    ],
+    "reference_image": [
+      "food_pizza_slice_reference.png"
+    ]
+  },
+  "status": "complete"
+}

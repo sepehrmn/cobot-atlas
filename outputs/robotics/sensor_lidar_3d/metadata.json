@@ -1,0 +1,18 @@
+{
+  "mesh_id": "sensor_lidar_3d",
+  "status": "complete",
+  "prompt": "3D lidar sensor, Velodyne style rotating lidar, cylindrical scanner, photorealistic, white background",
+  "enhanced_prompt": "3D lidar sensor, Velodyne style rotating lidar, cylindrical scanner, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "sensor",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:24:30.609239",
+  "generation_time_seconds": 25.300113916397095,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "sensor_lidar_3d_reference.png",
+    "glb": "sensor_lidar_3d.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

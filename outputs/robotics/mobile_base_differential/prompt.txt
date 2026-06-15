@@ -1,0 +1,1 @@
+Differential drive mobile robot base, two-wheel robot platform with caster, photorealistic, white background

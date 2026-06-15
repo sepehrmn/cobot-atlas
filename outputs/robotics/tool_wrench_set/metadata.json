@@ -1,0 +1,18 @@
+{
+  "mesh_id": "tool_wrench_set",
+  "status": "complete",
+  "prompt": "Wrench set, multiple wrenches of different sizes, photorealistic, white background",
+  "enhanced_prompt": "professional tool, industrial quality, Wrench set, multiple wrenches of different sizes, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "tools",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:21:33.314420",
+  "generation_time_seconds": 21.82480525970459,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "tool_wrench_set_reference.png",
+    "glb": "tool_wrench_set.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

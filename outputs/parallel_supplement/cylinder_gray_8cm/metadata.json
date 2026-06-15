@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cylinder_gray_8cm",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.478965",
+  "prompt": "Gray plastic cylinder, 6cm diameter, 8cm tall, upright, product photography, white background",
+  "files": {
+    "glb": [
+      "cylinder_gray_8cm.glb"
+    ],
+    "reference_image": [
+      "cylinder_gray_8cm_reference.png"
+    ]
+  },
+  "status": "complete"
+}

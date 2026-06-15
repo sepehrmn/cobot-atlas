@@ -1,0 +1,17 @@
+{
+  "mesh_id": "hardware_washer",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.340396",
+  "prompt": "Metal washer, flat ring washer, silver, product photography, white background",
+  "files": {
+    "glb": [
+      "hardware_washer.glb"
+    ],
+    "reference_image": [
+      "hardware_washer_reference.png"
+    ]
+  },
+  "status": "complete"
+}

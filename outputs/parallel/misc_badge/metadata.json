@@ -1,0 +1,17 @@
+{
+  "mesh_id": "misc_badge",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.377235",
+  "prompt": "ID badge, rectangular name badge with clip, product photography, white background",
+  "files": {
+    "glb": [
+      "misc_badge.glb"
+    ],
+    "reference_image": [
+      "misc_badge_reference.png"
+    ]
+  },
+  "status": "complete"
+}

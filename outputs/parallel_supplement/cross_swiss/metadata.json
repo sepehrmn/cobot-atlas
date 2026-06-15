@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cross_swiss",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.486754",
+  "prompt": "White cross on red background, Swiss cross symbol, product photography, white background",
+  "files": {
+    "glb": [
+      "cross_swiss.glb"
+    ],
+    "reference_image": [
+      "cross_swiss_reference.png"
+    ]
+  },
+  "status": "complete"
+}

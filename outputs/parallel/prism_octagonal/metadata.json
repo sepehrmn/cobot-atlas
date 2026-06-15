@@ -1,0 +1,17 @@
+{
+  "mesh_id": "prism_octagonal",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.377751",
+  "prompt": "Yellow octagonal prism, 5cm octagon base, 6cm tall, product photography, white background",
+  "files": {
+    "glb": [
+      "prism_octagonal.glb"
+    ],
+    "reference_image": [
+      "prism_octagonal_reference.png"
+    ]
+  },
+  "status": "complete"
+}

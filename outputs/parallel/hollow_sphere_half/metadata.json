@@ -1,0 +1,17 @@
+{
+  "mesh_id": "hollow_sphere_half",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.371825",
+  "prompt": "Hollow hemisphere, half sphere bowl shape, product photography, white background",
+  "files": {
+    "glb": [
+      "hollow_sphere_half.glb"
+    ],
+    "reference_image": [
+      "hollow_sphere_half_reference.png"
+    ]
+  },
+  "status": "complete"
+}

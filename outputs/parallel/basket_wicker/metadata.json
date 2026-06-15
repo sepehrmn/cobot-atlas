@@ -1,0 +1,17 @@
+{
+  "mesh_id": "basket_wicker",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.387800",
+  "prompt": "Wicker basket, woven natural material, round with handle, product photography, white background",
+  "files": {
+    "glb": [
+      "basket_wicker.glb"
+    ],
+    "reference_image": [
+      "basket_wicker_reference.png"
+    ]
+  },
+  "status": "complete"
+}

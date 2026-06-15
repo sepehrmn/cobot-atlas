@@ -1,0 +1,17 @@
+{
+  "mesh_id": "transparent_cube_red",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.343235",
+  "prompt": "Transparent red acrylic cube, see through red block, product photography, white background",
+  "files": {
+    "glb": [
+      "transparent_cube_red.glb"
+    ],
+    "reference_image": [
+      "transparent_cube_red_reference.png"
+    ]
+  },
+  "status": "complete"
+}

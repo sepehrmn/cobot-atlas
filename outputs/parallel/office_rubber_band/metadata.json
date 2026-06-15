@@ -1,0 +1,17 @@
+{
+  "mesh_id": "office_rubber_band",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.356641",
+  "prompt": "Brown rubber band, elastic band, product photography, white background",
+  "files": {
+    "glb": [
+      "office_rubber_band.glb"
+    ],
+    "reference_image": [
+      "office_rubber_band_reference.png"
+    ]
+  },
+  "status": "complete"
+}

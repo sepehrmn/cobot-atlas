@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cake_slice",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.481697",
+  "prompt": "Cake slice, chocolate layer cake wedge, product photography, white background",
+  "files": {
+    "glb": [
+      "cake_slice.glb"
+    ],
+    "reference_image": [
+      "cake_slice_reference.png"
+    ]
+  },
+  "status": "complete"
+}

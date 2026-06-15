@@ -1,0 +1,17 @@
+{
+  "mesh_id": "can_soda",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.343094",
+  "prompt": "Red aluminum soda can, 12oz standard size, product photography, white background",
+  "files": {
+    "glb": [
+      "can_soda.glb"
+    ],
+    "reference_image": [
+      "can_soda_reference.png"
+    ]
+  },
+  "status": "complete"
+}

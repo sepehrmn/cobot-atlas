@@ -1,0 +1,8 @@
+{
+  "id": "fabric_velcro_strip",
+  "category": "fabric",
+  "prompt": "Velcro strip, hook and loop fastener strip, photorealistic, white background, single isolated object, centered, pure white background, studio lighting, 4K, sharp focus",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis",
+  "timestamp": "2026-01-07T01:56:05.288678"
+}

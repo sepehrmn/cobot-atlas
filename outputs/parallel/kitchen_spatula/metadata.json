@@ -1,0 +1,17 @@
+{
+  "mesh_id": "kitchen_spatula",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.407813",
+  "prompt": "Black plastic spatula, cooking turner, product photography, white background",
+  "files": {
+    "glb": [
+      "kitchen_spatula.glb"
+    ],
+    "reference_image": [
+      "kitchen_spatula_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "bathroom_hairbrush",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.323417",
+  "prompt": "Hairbrush with handle, paddle brush, product photography, white background",
+  "files": {
+    "glb": [
+      "bathroom_hairbrush.glb"
+    ],
+    "reference_image": [
+      "bathroom_hairbrush_reference.png"
+    ]
+  },
+  "status": "complete"
+}

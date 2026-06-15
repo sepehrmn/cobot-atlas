@@ -1,0 +1,17 @@
+{
+  "mesh_id": "ring_silver_band",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.468949",
+  "prompt": "Silver band ring, simple metal ring, product photography, white background",
+  "files": {
+    "glb": [
+      "ring_silver_band.glb"
+    ],
+    "reference_image": [
+      "ring_silver_band_reference.png"
+    ]
+  },
+  "status": "complete"
+}

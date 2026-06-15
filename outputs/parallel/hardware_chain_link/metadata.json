@@ -1,0 +1,17 @@
+{
+  "mesh_id": "hardware_chain_link",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.341153",
+  "prompt": "Metal chain links, short chain section, product photography, white background",
+  "files": {
+    "glb": [
+      "hardware_chain_link.glb"
+    ],
+    "reference_image": [
+      "hardware_chain_link_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "hardware_magnet_horseshoe",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.324374",
+  "prompt": "Red horseshoe magnet, U-shaped magnet, product photography, white background",
+  "files": {
+    "glb": [
+      "hardware_magnet_horseshoe.glb"
+    ],
+    "reference_image": [
+      "hardware_magnet_horseshoe_reference.png"
+    ]
+  },
+  "status": "complete"
+}

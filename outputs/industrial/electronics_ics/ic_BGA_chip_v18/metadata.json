@@ -1,0 +1,8 @@
+{
+  "id": "ic_BGA_chip_v18",
+  "category": "electronics_ics",
+  "prompt": "Electronic component BGA chip, macro view, black epoxy, metal pins, silicon chip, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T04:48:36.167515"
+}

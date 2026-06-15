@@ -1,0 +1,18 @@
+{
+  "mesh_id": "mobile_robot_pr2",
+  "status": "complete",
+  "prompt": "PR2 robot, dual-arm mobile manipulation robot, Willow Garage style, photorealistic, white background",
+  "enhanced_prompt": "industrial design, mechanical precision, PR2 robot, dual-arm mobile manipulation robot, Willow Garage style, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "mobile_robot",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:24:00.393834",
+  "generation_time_seconds": 36.742931842803955,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "mobile_robot_pr2_reference.png",
+    "glb": "mobile_robot_pr2.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

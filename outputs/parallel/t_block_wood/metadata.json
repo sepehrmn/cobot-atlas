@@ -1,0 +1,17 @@
+{
+  "mesh_id": "t_block_wood",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.347464",
+  "prompt": "Wooden T-shaped block, natural wood T piece, product photography, white background",
+  "files": {
+    "glb": [
+      "t_block_wood.glb"
+    ],
+    "reference_image": [
+      "t_block_wood_reference.png"
+    ]
+  },
+  "status": "complete"
+}

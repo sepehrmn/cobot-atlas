@@ -1,0 +1,17 @@
+{
+  "mesh_id": "robot_sensor_camera",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.362524",
+  "prompt": "Robot RGB camera sensor, small rectangular camera module, product photography, white background",
+  "files": {
+    "glb": [
+      "robot_sensor_camera.glb"
+    ],
+    "reference_image": [
+      "robot_sensor_camera_reference.png"
+    ]
+  },
+  "status": "complete"
+}

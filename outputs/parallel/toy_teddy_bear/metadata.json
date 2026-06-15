@@ -1,0 +1,17 @@
+{
+  "mesh_id": "toy_teddy_bear",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.364848",
+  "prompt": "Brown teddy bear plush toy, soft stuffed animal, product photography, white background",
+  "files": {
+    "glb": [
+      "toy_teddy_bear.glb"
+    ],
+    "reference_image": [
+      "toy_teddy_bear_reference.png"
+    ]
+  },
+  "status": "complete"
+}

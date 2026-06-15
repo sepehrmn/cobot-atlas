@@ -1,0 +1,17 @@
+{
+  "mesh_id": "mushroom_cap",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.428468",
+  "prompt": "Red mushroom cap with white spots, toadstool top, product photography, white background",
+  "files": {
+    "glb": [
+      "mushroom_cap.glb"
+    ],
+    "reference_image": [
+      "mushroom_cap_reference.png"
+    ]
+  },
+  "status": "complete"
+}

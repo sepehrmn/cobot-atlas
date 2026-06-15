@@ -1,0 +1,17 @@
+{
+  "mesh_id": "electronics_charger",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.419456",
+  "prompt": "White phone charger with cable, USB charging cable, product photography, white background",
+  "files": {
+    "glb": [
+      "electronics_charger.glb"
+    ],
+    "reference_image": [
+      "electronics_charger_reference.png"
+    ]
+  },
+  "status": "complete"
+}

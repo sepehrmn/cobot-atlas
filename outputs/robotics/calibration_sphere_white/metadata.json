@@ -1,0 +1,18 @@
+{
+  "mesh_id": "calibration_sphere_white",
+  "status": "complete",
+  "prompt": "White calibration sphere, perfect matte white ball for calibration, photorealistic, white background",
+  "enhanced_prompt": "White calibration sphere, perfect matte white ball for calibration, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "calibration",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:25:38.586926",
+  "generation_time_seconds": 23.79948115348816,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "calibration_sphere_white_reference.png",
+    "glb": "calibration_sphere_white.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

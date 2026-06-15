@@ -1,0 +1,17 @@
+{
+  "mesh_id": "vehicle_taxi",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.427879",
+  "prompt": "Toy taxi cab, yellow taxi car, product photography, white background",
+  "files": {
+    "glb": [
+      "vehicle_taxi.glb"
+    ],
+    "reference_image": [
+      "vehicle_taxi_reference.png"
+    ]
+  },
+  "status": "complete"
+}

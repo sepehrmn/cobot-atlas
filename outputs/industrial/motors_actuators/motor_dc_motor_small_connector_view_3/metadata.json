@@ -1,0 +1,8 @@
+{
+  "id": "motor_dc_motor_small_connector_view_3",
+  "category": "motors_actuators",
+  "prompt": "dc motor small, connector view, industrial motor, metal casing, wires visible, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T04:49:50.593849"
+}

@@ -1,0 +1,18 @@
+{
+  "mesh_id": "peg_insertion_peg_yellow",
+  "status": "complete",
+  "prompt": "Yellow wooden peg for peg board, cylindrical peg, painted wood, photorealistic, white background",
+  "enhanced_prompt": "Yellow wooden peg for peg board, cylindrical peg, painted wood, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "peg_task",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:18:14.915690",
+  "generation_time_seconds": 19.484562158584595,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "peg_insertion_peg_yellow_reference.png",
+    "glb": "peg_insertion_peg_yellow.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

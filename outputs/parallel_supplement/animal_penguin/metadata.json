@@ -1,0 +1,17 @@
+{
+  "mesh_id": "animal_penguin",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.431221",
+  "prompt": "Toy penguin figurine, black and white penguin, product photography, white background",
+  "files": {
+    "glb": [
+      "animal_penguin.glb"
+    ],
+    "reference_image": [
+      "animal_penguin_reference.png"
+    ]
+  },
+  "status": "complete"
+}

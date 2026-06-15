@@ -1,0 +1,17 @@
+{
+  "mesh_id": "ycb_strawberry",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.485556",
+  "prompt": "Red strawberry, realistic YCB dataset style strawberry, product photography, white background",
+  "files": {
+    "glb": [
+      "ycb_strawberry.glb"
+    ],
+    "reference_image": [
+      "ycb_strawberry_reference.png"
+    ]
+  },
+  "status": "complete"
+}

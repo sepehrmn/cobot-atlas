@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cube_foam_5cm",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.353640",
+  "prompt": "Yellow foam cube, 5cm sides, soft spongy texture, product photography, white background",
+  "files": {
+    "glb": [
+      "cube_foam_5cm.glb"
+    ],
+    "reference_image": [
+      "cube_foam_5cm_reference.png"
+    ]
+  },
+  "status": "complete"
+}

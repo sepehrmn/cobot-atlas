@@ -1,0 +1,261 @@
+{
+  "version": "1.0",
+  "description": "PID-VLA Simulation Environment - Required 3D Mesh Assets",
+  "notes": "All meshes should be exported as GLB/GLTF with Z-up, meters as units. These are used for physics collision proxies and visual rendering.",
+  
+  "meshes": [
+    {
+      "id": "red_cube",
+      "category": "manipulation_object",
+      "dimensions": "5x5x5 cm cube",
+      "physics_proxy": "cuboid",
+      "mass_kg": 0.1,
+      "material": "plastic_red",
+      "purpose": "Primary manipulation target for pick-and-place experiments (Exp1, Exp2)",
+      "text_prompt": "A simple solid red plastic cube, 5cm on each side, matte finish, photorealistic, product photography style, clean white background, studio lighting, no shadows on background",
+      "image_prompt": "Solid red matte plastic cube toy block, clean edges, photorealistic rendering, white studio background, soft shadows"
+    },
+    {
+      "id": "blue_cube",
+      "category": "manipulation_object",
+      "dimensions": "5x5x5 cm cube",
+      "physics_proxy": "cuboid",
+      "mass_kg": 0.1,
+      "material": "plastic_blue",
+      "purpose": "Stacking experiments (Exp2) - middle layer",
+      "text_prompt": "A simple solid blue plastic cube, 5cm on each side, matte finish, photorealistic, product photography style, clean white background, studio lighting",
+      "image_prompt": "Solid blue matte plastic cube toy block, clean edges, photorealistic rendering, white studio background, soft shadows"
+    },
+    {
+      "id": "green_cube",
+      "category": "manipulation_object",
+      "dimensions": "5x5x5 cm cube",
+      "physics_proxy": "cuboid",
+      "mass_kg": 0.1,
+      "material": "plastic_green",
+      "purpose": "Stacking experiments (Exp2) - top layer",
+      "text_prompt": "A simple solid green plastic cube, 5cm on each side, matte finish, photorealistic, product photography style, clean white background, studio lighting",
+      "image_prompt": "Solid green matte plastic cube toy block, clean edges, photorealistic rendering, white studio background, soft shadows"
+    },
+    {
+      "id": "blue_cylinder",
+      "category": "manipulation_object",
+      "dimensions": "radius 3cm, height 8cm",
+      "physics_proxy": "cylinder",
+      "mass_kg": 0.15,
+      "material": "plastic_blue",
+      "purpose": "Distractor object and manipulation target",
+      "text_prompt": "A solid blue plastic cylinder, 3cm radius and 8cm tall, matte finish, photorealistic, product photography, clean white background, studio lighting",
+      "image_prompt": "Blue matte plastic cylinder standing upright, 8cm tall 6cm diameter, photorealistic rendering, white studio background"
+    },
+    {
+      "id": "green_sphere",
+      "category": "manipulation_object",
+      "dimensions": "radius 4cm",
+      "physics_proxy": "ball",
+      "mass_kg": 0.2,
+      "material": "plastic_green",
+      "purpose": "Spherical manipulation target for grasping experiments",
+      "text_prompt": "A solid green plastic sphere, 4cm radius (8cm diameter), matte finish, photorealistic, product photography, clean white background, studio lighting",
+      "image_prompt": "Green matte plastic ball sphere, 8cm diameter, photorealistic rendering, white studio background, soft shadows"
+    },
+    {
+      "id": "blue_plate",
+      "category": "target_surface",
+      "dimensions": "radius 10cm, height 1cm",
+      "physics_proxy": "cylinder",
+      "mass_kg": 0.25,
+      "material": "ceramic_blue",
+      "purpose": "Placement target for pick-and-place experiments",
+      "text_prompt": "A flat circular blue ceramic plate, 20cm diameter and 1cm thick, matte glaze finish, photorealistic, product photography, clean white background, studio lighting",
+      "image_prompt": "Blue ceramic dinner plate, flat circular, 20cm diameter, matte glaze, photorealistic rendering, white studio background"
+    },
+    {
+      "id": "wooden_block_A",
+      "category": "manipulation_object",
+      "dimensions": "10x5x3 cm rectangular block",
+      "physics_proxy": "cuboid",
+      "mass_kg": 0.12,
+      "material": "wood_natural",
+      "purpose": "Stacking base for assembly experiments",
+      "text_prompt": "A natural wood rectangular block, 10cm x 5cm x 3cm, light oak color, visible wood grain, photorealistic, product photography, clean white background, studio lighting",
+      "image_prompt": "Natural wooden rectangular block, light oak wood grain texture, 10x5x3cm, photorealistic rendering, white studio background"
+    },
+    {
+      "id": "wooden_block_B",
+      "category": "manipulation_object",
+      "dimensions": "8x4x4 cm rectangular block",
+      "physics_proxy": "cuboid",
+      "mass_kg": 0.1,
+      "material": "wood_natural",
+      "purpose": "Mid-level stacking block",
+      "text_prompt": "A natural wood rectangular block, 8cm x 4cm x 4cm, light oak color, visible wood grain, photorealistic, product photography, clean white background, studio lighting",
+      "image_prompt": "Natural wooden block, light oak wood grain texture, 8x4x4cm, photorealistic rendering, white studio background"
+    },
+    {
+      "id": "ycb_mustard",
+      "category": "ycb_object",
+      "dimensions": "19x6x6 cm bottle shape",
+      "physics_proxy": "convex_hull",
+      "mass_kg": 0.6,
+      "material": "plastic_yellow",
+      "purpose": "YCB benchmark object for real-world manipulation comparison",
+      "text_prompt": "A yellow plastic mustard squeeze bottle, realistic YCB dataset style, 19cm tall, product photography, clean white background, studio lighting, photorealistic",
+      "image_prompt": "Yellow plastic mustard squeeze bottle, French's mustard style, 19cm tall, photorealistic product shot, white studio background"
+    },
+    {
+      "id": "ycb_spam",
+      "category": "ycb_object",
+      "dimensions": "9x8x6 cm rectangular can",
+      "physics_proxy": "cuboid",
+      "mass_kg": 0.35,
+      "material": "metal_can",
+      "purpose": "YCB benchmark object, distractor",
+      "text_prompt": "A SPAM canned meat rectangular tin, 9x8x6cm, realistic product packaging, product photography, clean white background, studio lighting, photorealistic",
+      "image_prompt": "SPAM canned meat tin, blue and yellow packaging, rectangular shape, photorealistic product shot, white studio background"
+    },
+    {
+      "id": "ycb_bowl",
+      "category": "ycb_object",
+      "dimensions": "radius 8cm, height 5cm",
+      "physics_proxy": "trimesh",
+      "mass_kg": 0.18,
+      "material": "ceramic_white",
+      "purpose": "YCB benchmark object, containment target",
+      "text_prompt": "A simple white ceramic bowl, 16cm diameter and 5cm deep, smooth matte finish, product photography, clean white background, studio lighting, photorealistic",
+      "image_prompt": "White ceramic bowl, simple round shape, 16cm diameter 5cm deep, matte finish, photorealistic rendering, white studio background"
+    },
+    {
+      "id": "red_zone_marker",
+      "category": "target_marker",
+      "dimensions": "radius 8cm, height 0.1cm",
+      "physics_proxy": "cylinder",
+      "mass_kg": 0.01,
+      "material": "plastic_red_translucent",
+      "purpose": "Visual target zone for sorting experiments",
+      "text_prompt": "A flat circular red translucent plastic marker disc, 16cm diameter and 1mm thick, semi-transparent red, product photography, clean white background",
+      "image_prompt": "Flat circular red translucent acrylic disc, 16cm diameter, very thin 1mm, semi-transparent, white background"
+    },
+    {
+      "id": "blue_zone_marker",
+      "category": "target_marker",
+      "dimensions": "radius 8cm, height 0.1cm",
+      "physics_proxy": "cylinder",
+      "mass_kg": 0.01,
+      "material": "plastic_blue_translucent",
+      "purpose": "Visual target zone for sorting experiments",
+      "text_prompt": "A flat circular blue translucent plastic marker disc, 16cm diameter and 1mm thick, semi-transparent blue, product photography, clean white background",
+      "image_prompt": "Flat circular blue translucent acrylic disc, 16cm diameter, very thin 1mm, semi-transparent, white background"
+    },
+    {
+      "id": "target_marker",
+      "category": "target_marker",
+      "dimensions": "radius 4cm, height 0.1cm",
+      "physics_proxy": "cylinder",
+      "mass_kg": 0.005,
+      "material": "plastic_gray_matte",
+      "purpose": "Generic stacking target marker",
+      "text_prompt": "A flat circular gray matte plastic marker disc, 8cm diameter and 1mm thick, neutral gray color, product photography, clean white background",
+      "image_prompt": "Flat circular gray matte plastic disc marker, 8cm diameter, very thin, neutral gray, white background"
+    },
+    {
+      "id": "hollow_cylinder",
+      "category": "novel_geometry",
+      "dimensions": "outer radius 3cm, inner radius 2cm, height 8cm",
+      "physics_proxy": "compound_cylinder",
+      "mass_kg": 0.08,
+      "material": "plastic_orange",
+      "purpose": "Novel geometry challenge for Exp7 - hollow tube for peg insertion",
+      "text_prompt": "An orange plastic hollow tube/cylinder, outer diameter 6cm, inner hole 4cm, 8cm tall, like a pipe section, product photography, clean white background, studio lighting",
+      "image_prompt": "Orange plastic hollow cylinder tube, pipe-like with visible hole through center, 6cm outer 4cm inner diameter, 8cm tall, photorealistic, white background"
+    },
+    {
+      "id": "dice_cup",
+      "category": "novel_geometry",
+      "dimensions": "outer radius 4cm, height 6cm, open top",
+      "physics_proxy": "trimesh",
+      "mass_kg": 0.05,
+      "material": "leather_brown",
+      "purpose": "Containment target for weighted die (Exp7)",
+      "text_prompt": "A brown leather dice cup, 8cm diameter and 6cm tall, open at top, classic bar dice cup style, product photography, clean white background, studio lighting",
+      "image_prompt": "Brown leather dice shaker cup, classic bar style, 8cm diameter 6cm tall, open top, photorealistic, white studio background"
+    },
+    {
+      "id": "l_block",
+      "category": "novel_geometry",
+      "dimensions": "L-shaped: 8x4x4cm horizontal + 4x4x8cm vertical",
+      "physics_proxy": "compound_cuboid",
+      "mass_kg": 0.15,
+      "material": "wood_natural",
+      "purpose": "Compound geometry grasp planning challenge (Exp7)",
+      "text_prompt": "An L-shaped wooden block, natural oak wood, formed from two rectangular pieces joined at right angle, total size approximately 8x8x4cm, product photography, clean white background",
+      "image_prompt": "L-shaped natural wooden block, light oak color, two perpendicular rectangular pieces forming L shape, photorealistic, white studio background"
+    },
+    {
+      "id": "target_platform",
+      "category": "target_surface",
+      "dimensions": "8x8x1 cm square platform",
+      "physics_proxy": "cuboid",
+      "mass_kg": 0.02,
+      "material": "plastic_matte_gray",
+      "purpose": "Standard placement target platform",
+      "text_prompt": "A flat square gray matte plastic platform, 8cm x 8cm and 1cm thick, neutral gray color, product photography, clean white background, studio lighting",
+      "image_prompt": "Flat square gray plastic platform tile, 8x8x1cm, matte finish, neutral gray, photorealistic, white background"
+    },
+    {
+      "id": "metal_peg",
+      "category": "novel_geometry",
+      "dimensions": "radius 1.5cm, height 6cm",
+      "physics_proxy": "cylinder",
+      "mass_kg": 0.3,
+      "material": "metal_steel",
+      "purpose": "Precision alignment target for hollow cylinder insertion",
+      "text_prompt": "A polished steel metal peg/cylinder, 3cm diameter and 6cm tall, shiny metallic surface, industrial look, product photography, clean white background, studio lighting",
+      "image_prompt": "Polished steel metal cylindrical peg, shiny chrome finish, 3cm diameter 6cm tall, photorealistic, white studio background"
+    },
+    {
+      "id": "glass_cube",
+      "category": "novel_geometry",
+      "dimensions": "6x6x6 cm cube",
+      "physics_proxy": "cuboid",
+      "mass_kg": 0.25,
+      "material": "glass_transparent",
+      "purpose": "Transparent object physics proxy challenge (Exp7)",
+      "text_prompt": "A transparent glass cube, 6cm on each side, clear glass with visible edges and slight refraction, product photography, clean white background, studio lighting",
+      "image_prompt": "Clear transparent glass cube paperweight, 6cm sides, visible edges and refraction, photorealistic, white studio background with caustics"
+    },
+    {
+      "id": "tabletop_scene",
+      "category": "environment",
+      "dimensions": "120x80x75 cm table",
+      "physics_proxy": "static_mesh",
+      "mass_kg": null,
+      "material": "wood_oak_laminate",
+      "purpose": "Primary environment - lab table surface",
+      "text_prompt": "A standard laboratory table, 120cm x 80cm surface, 75cm tall, light oak wood laminate top with metal legs, clean modern style, product photography, clean white background",
+      "image_prompt": "Modern laboratory work table, light oak laminate top 120x80cm, metal frame legs, 75cm height, photorealistic, clean studio setting"
+    },
+    {
+      "id": "franka_panda_gripper",
+      "category": "robot_part",
+      "dimensions": "standard Franka gripper",
+      "physics_proxy": "compound_mesh",
+      "mass_kg": null,
+      "material": "metal_white_plastic",
+      "purpose": "Franka Panda robot gripper for manipulation",
+      "text_prompt": "A Franka Emika Panda robot parallel gripper, white and gray industrial robot end-effector, two finger gripper, product photography, clean white background",
+      "image_prompt": "Franka Panda robot gripper end-effector, white plastic and metal, two-finger parallel gripper, industrial robot part, photorealistic, white background"
+    },
+    {
+      "id": "black_panel_occluder",
+      "category": "perturbation",
+      "dimensions": "20x20x0.5 cm flat panel",
+      "physics_proxy": "cuboid",
+      "mass_kg": 0.05,
+      "material": "plastic_matte_black",
+      "purpose": "Floating occluder for visual perturbation experiments",
+      "text_prompt": "A flat square black matte plastic panel, 20cm x 20cm and 0.5cm thick, solid black color, product photography, clean gray background",
+      "image_prompt": "Flat square matte black plastic panel, 20x20cm, thin 5mm, solid black, photorealistic, gray background"
+    }
+  ]
+}

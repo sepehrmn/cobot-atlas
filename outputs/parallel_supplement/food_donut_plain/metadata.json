@@ -1,0 +1,17 @@
+{
+  "mesh_id": "food_donut_plain",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.479642",
+  "prompt": "Plain donut, glazed ring donut, product photography, white background",
+  "files": {
+    "glb": [
+      "food_donut_plain.glb"
+    ],
+    "reference_image": [
+      "food_donut_plain_reference.png"
+    ]
+  },
+  "status": "complete"
+}

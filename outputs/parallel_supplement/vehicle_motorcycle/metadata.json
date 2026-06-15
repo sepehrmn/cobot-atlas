@@ -1,0 +1,17 @@
+{
+  "mesh_id": "vehicle_motorcycle",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.438450",
+  "prompt": "Toy motorcycle, small motorbike model, product photography, white background",
+  "files": {
+    "glb": [
+      "vehicle_motorcycle.glb"
+    ],
+    "reference_image": [
+      "vehicle_motorcycle_reference.png"
+    ]
+  },
+  "status": "complete"
+}

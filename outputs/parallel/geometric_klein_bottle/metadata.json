@@ -1,0 +1,17 @@
+{
+  "mesh_id": "geometric_klein_bottle",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.415874",
+  "prompt": "Glass Klein bottle, mathematical shape, transparent glass, product photography, white background",
+  "files": {
+    "glb": [
+      "geometric_klein_bottle.glb"
+    ],
+    "reference_image": [
+      "geometric_klein_bottle_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "bottle_medicine",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.412622",
+  "prompt": "Orange prescription medicine bottle with white cap, pharmacy style, product photography, white background",
+  "files": {
+    "glb": [
+      "bottle_medicine.glb"
+    ],
+    "reference_image": [
+      "bottle_medicine_reference.png"
+    ]
+  },
+  "status": "complete"
+}

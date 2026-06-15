@@ -1,0 +1,8 @@
+{
+  "id": "food_ice_cream_cone",
+  "category": "food_extra",
+  "prompt": "Ice cream cone, soft serve in waffle cone, product photography, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T04:06:05.775589"
+}

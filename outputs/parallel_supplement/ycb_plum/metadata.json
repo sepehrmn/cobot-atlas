@@ -1,0 +1,17 @@
+{
+  "mesh_id": "ycb_plum",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.430733",
+  "prompt": "Purple plum, realistic YCB dataset style plum fruit, product photography, white background",
+  "files": {
+    "glb": [
+      "ycb_plum.glb"
+    ],
+    "reference_image": [
+      "ycb_plum_reference.png"
+    ]
+  },
+  "status": "complete"
+}

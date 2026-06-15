@@ -1,0 +1,17 @@
+{
+  "mesh_id": "toy_dinosaur",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.351353",
+  "prompt": "Green plastic dinosaur toy, T-Rex figure, product photography, white background",
+  "files": {
+    "glb": [
+      "toy_dinosaur.glb"
+    ],
+    "reference_image": [
+      "toy_dinosaur_reference.png"
+    ]
+  },
+  "status": "complete"
+}

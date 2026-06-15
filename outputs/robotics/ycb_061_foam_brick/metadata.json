@@ -1,0 +1,18 @@
+{
+  "mesh_id": "ycb_061_foam_brick",
+  "status": "complete",
+  "prompt": "Blue foam brick, YCB benchmark object, soft foam block, photorealistic, white background",
+  "enhanced_prompt": "YCB benchmark style, realistic object, Blue foam brick, YCB benchmark object, soft foam block, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "ycb",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:32:09.362387",
+  "generation_time_seconds": 66.3426308631897,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "ycb_061_foam_brick_reference.png",
+    "glb": "ycb_061_foam_brick.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

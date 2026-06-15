@@ -1,0 +1,8 @@
+{
+  "id": "sphere_bowling",
+  "category": "primitive_sphere",
+  "prompt": "Black bowling ball with finger holes, shiny finish, product photography, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T03:43:31.347394"
+}

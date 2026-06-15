@@ -1,0 +1,8 @@
+{
+  "id": "robot_arm_ur5_blue",
+  "category": "robot_arm",
+  "prompt": "Universal Robots UR5 collaborative robot arm, blue industrial robot, 6-axis articulated arm, photorealistic product photography, white background, single isolated object, centered, pure white background, studio lighting, 4K, sharp focus",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis",
+  "timestamp": "2026-01-07T01:47:54.807975"
+}

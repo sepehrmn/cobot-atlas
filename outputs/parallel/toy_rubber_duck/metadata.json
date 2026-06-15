@@ -1,0 +1,17 @@
+{
+  "mesh_id": "toy_rubber_duck",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.366553",
+  "prompt": "Yellow rubber duck, classic bath toy, product photography, white background",
+  "files": {
+    "glb": [
+      "toy_rubber_duck.glb"
+    ],
+    "reference_image": [
+      "toy_rubber_duck_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "lab_safety_goggles",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.376101",
+  "prompt": "Safety goggles, clear protective eyewear, product photography, white background",
+  "files": {
+    "glb": [
+      "lab_safety_goggles.glb"
+    ],
+    "reference_image": [
+      "lab_safety_goggles_reference.png"
+    ]
+  },
+  "status": "complete"
+}

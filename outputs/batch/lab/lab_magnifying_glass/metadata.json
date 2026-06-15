@@ -1,0 +1,8 @@
+{
+  "id": "lab_magnifying_glass",
+  "category": "lab",
+  "prompt": "Magnifying glass with handle, glass lens magnifier, product photography, white background, single isolated object, centered, pure white background, professional studio lighting, high resolution, sharp focus, photorealistic, detailed texture",
+  "image_model": "fal-ai/gpt-image-1.5",
+  "mesh_model": "fal-ai/trellis-2",
+  "timestamp": "2026-01-07T03:16:58.883014"
+}

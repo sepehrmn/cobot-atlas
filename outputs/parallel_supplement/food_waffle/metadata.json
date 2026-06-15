@@ -1,0 +1,17 @@
+{
+  "mesh_id": "food_waffle",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.435980",
+  "prompt": "Waffle, Belgian waffle with grid pattern, product photography, white background",
+  "files": {
+    "glb": [
+      "food_waffle.glb"
+    ],
+    "reference_image": [
+      "food_waffle_reference.png"
+    ]
+  },
+  "status": "complete"
+}

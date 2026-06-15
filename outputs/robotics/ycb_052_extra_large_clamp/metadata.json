@@ -1,0 +1,18 @@
+{
+  "mesh_id": "ycb_052_extra_large_clamp",
+  "status": "complete",
+  "prompt": "Extra large clamp, YCB benchmark object, industrial C-clamp, photorealistic, white background",
+  "enhanced_prompt": "YCB benchmark style, realistic object, Extra large clamp, YCB benchmark object, industrial C-clamp, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "ycb",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:31:57.665121",
+  "generation_time_seconds": 64.13790011405945,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "ycb_052_extra_large_clamp_reference.png",
+    "glb": "ycb_052_extra_large_clamp.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

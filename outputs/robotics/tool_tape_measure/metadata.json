@@ -1,0 +1,18 @@
+{
+  "mesh_id": "tool_tape_measure",
+  "status": "complete",
+  "prompt": "Retractable tape measure, yellow measuring tape, photorealistic, white background",
+  "enhanced_prompt": "professional tool, industrial quality, Retractable tape measure, yellow measuring tape, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "tools",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:21:44.059926",
+  "generation_time_seconds": 18.236124753952026,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "tool_tape_measure_reference.png",
+    "glb": "tool_tape_measure.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

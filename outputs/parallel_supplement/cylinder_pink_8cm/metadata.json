@@ -1,0 +1,17 @@
+{
+  "mesh_id": "cylinder_pink_8cm",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.472304",
+  "prompt": "Pink plastic cylinder, 6cm diameter, 8cm tall, upright, product photography, white background",
+  "files": {
+    "glb": [
+      "cylinder_pink_8cm.glb"
+    ],
+    "reference_image": [
+      "cylinder_pink_8cm_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,18 @@
+{
+  "mesh_id": "fabric_sock_pair",
+  "status": "complete",
+  "prompt": "Pair of white socks, folded sock pair, athletic socks, photorealistic, white background",
+  "enhanced_prompt": "soft material texture, natural folds, Pair of white socks, folded sock pair, athletic socks, photorealistic, white background, single isolated object, centered in frame, pure white background, professional product photography, studio lighting, high resolution 4K, sharp focus, no shadows on background, clean edges, photorealistic render",
+  "category": "fabric",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:16:20.776878",
+  "generation_time_seconds": 19.700016975402832,
+  "api_key_used": "default",
+  "files": {
+    "reference_image": "fabric_sock_pair_reference.png",
+    "glb": "fabric_sock_pair.glb"
+  },
+  "error": "",
+  "retry_count": 0
+}

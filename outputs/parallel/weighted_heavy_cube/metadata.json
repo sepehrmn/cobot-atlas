@@ -1,0 +1,17 @@
+{
+  "mesh_id": "weighted_heavy_cube",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.418987",
+  "prompt": "Heavy metal cube, dense steel cube weight, product photography, white background",
+  "files": {
+    "glb": [
+      "weighted_heavy_cube.glb"
+    ],
+    "reference_image": [
+      "weighted_heavy_cube_reference.png"
+    ]
+  },
+  "status": "complete"
+}

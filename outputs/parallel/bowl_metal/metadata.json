@@ -1,0 +1,17 @@
+{
+  "mesh_id": "bowl_metal",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.419153",
+  "prompt": "Stainless steel mixing bowl, shiny metal, product photography, white background",
+  "files": {
+    "glb": [
+      "bowl_metal.glb"
+    ],
+    "reference_image": [
+      "bowl_metal_reference.png"
+    ]
+  },
+  "status": "complete"
+}

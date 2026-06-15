@@ -1,0 +1,17 @@
+{
+  "mesh_id": "torus_orange_8cm",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.479507",
+  "prompt": "Orange plastic torus ring, 8cm diameter, product photography, white background",
+  "files": {
+    "glb": [
+      "torus_orange_8cm.glb"
+    ],
+    "reference_image": [
+      "torus_orange_8cm_reference.png"
+    ]
+  },
+  "status": "complete"
+}

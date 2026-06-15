@@ -1,0 +1,17 @@
+{
+  "mesh_id": "hardware_magnet_bar",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.382387",
+  "prompt": "Red and blue bar magnet, rectangular magnet, product photography, white background",
+  "files": {
+    "glb": [
+      "hardware_magnet_bar.glb"
+    ],
+    "reference_image": [
+      "hardware_magnet_bar_reference.png"
+    ]
+  },
+  "status": "complete"
+}

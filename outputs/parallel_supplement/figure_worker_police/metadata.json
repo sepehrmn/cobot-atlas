@@ -1,0 +1,17 @@
+{
+  "mesh_id": "figure_worker_police",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.476070",
+  "prompt": "Police officer figurine, person in uniform, product photography, white background",
+  "files": {
+    "glb": [
+      "figure_worker_police.glb"
+    ],
+    "reference_image": [
+      "figure_worker_police_reference.png"
+    ]
+  },
+  "status": "complete"
+}

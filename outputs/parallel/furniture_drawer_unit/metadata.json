@@ -1,0 +1,17 @@
+{
+  "mesh_id": "furniture_drawer_unit",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.369969",
+  "prompt": "Small drawer unit, 3 drawer organizer, product photography, white background",
+  "files": {
+    "glb": [
+      "furniture_drawer_unit.glb"
+    ],
+    "reference_image": [
+      "furniture_drawer_unit_reference.png"
+    ]
+  },
+  "status": "complete"
+}

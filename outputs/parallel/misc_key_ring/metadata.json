@@ -1,0 +1,17 @@
+{
+  "mesh_id": "misc_key_ring",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.421933",
+  "prompt": "Key ring with keys, metal keychain with several keys, product photography, white background",
+  "files": {
+    "glb": [
+      "misc_key_ring.glb"
+    ],
+    "reference_image": [
+      "misc_key_ring_reference.png"
+    ]
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_id": "food_lollipop",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.436428",
+  "prompt": "Lollipop, spiral colored lollipop on stick, product photography, white background",
+  "files": {
+    "glb": [
+      "food_lollipop.glb"
+    ],
+    "reference_image": [
+      "food_lollipop_reference.png"
+    ]
+  },
+  "status": "complete"
+}

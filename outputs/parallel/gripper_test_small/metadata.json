@@ -1,0 +1,17 @@
+{
+  "mesh_id": "gripper_test_small",
+  "model": "trellis",
+  "image_model": "fal-ai/flux/schnell",
+  "mesh_model": "fal-ai/trellis",
+  "generated_at": "2026-01-07T01:01:13.416838",
+  "prompt": "Very small bead, tiny sphere for precision gripping, product photography, white background",
+  "files": {
+    "glb": [
+      "gripper_test_small.glb"
+    ],
+    "reference_image": [
+      "gripper_test_small_reference.png"
+    ]
+  },
+  "status": "complete"
+}
