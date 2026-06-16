@@ -2,6 +2,9 @@
 
 **A large-scale 3D mesh dataset for robot simulation, manipulation research, and embodied AI.**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20697491.svg)](https://doi.org/10.5281/zenodo.20697491) — generation pipeline
+[![DOI](https://img.shields.io/badge/DOI-10.57967%2Fhf%2F9199-blue)](https://doi.org/10.57967/hf/9199) — dataset
+
 cobot-atlas provides 2,023 unique 3D meshes (glTF 2.0 Binary) spanning industrial components, geometric primitives, household items, YCB benchmark objects, robot hardware, and more — designed for collaborative robot simulation, VLA model training, and robotics benchmarking.
 
 ## Dataset
@@ -53,10 +56,25 @@ python scripts/verify_and_document.py
 
 If you use cobot-atlas in your research, please cite:
 
+**Dataset:**
+
 ```bibtex
-@dataset{cobot_atlas_2026,
+@misc{sepehr_mahmoudian_2026,
+  author       = {Sepehr Mahmoudian},
+  title        = {cobot-atlas (Revision 425eef2)},
+  year         = 2026,
+  url          = {https://huggingface.co/datasets/torusprime/cobot-atlas},
+  doi          = {10.57967/hf/9199},
+  publisher    = {Hugging Face}
+}
+```
+
+**Generation pipeline:**
+
+```bibtex
+@software{cobot_atlas_code_2026,
   author    = {Mahmoudian, Sepehr},
-  title     = {cobot-atlas: A Large-Scale 3D Mesh Dataset for Robot Simulation},
+  title     = {cobot-atlas: Generation Pipeline},
   year      = {2026},
   publisher = {Zenodo},
   doi       = {10.5281/zenodo.20697491},
