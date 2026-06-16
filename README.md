@@ -2,8 +2,10 @@
 
 **A large-scale 3D mesh dataset for robot simulation, manipulation research, and embodied AI.**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20697491.svg)](https://doi.org/10.5281/zenodo.20697491) — generation pipeline
-[![DOI](https://img.shields.io/badge/DOI-10.57967%2Fhf%2F9199-blue)](https://doi.org/10.57967/hf/9199) — dataset
+<p align="center">
+<a href="https://doi.org/10.57967/hf/9199"><img src="https://img.shields.io/badge/Dataset_DOI-10.57967%2Fhf%2F9199-FF6F00?style=flat-square&logo=huggingface&labelColor=FFE4B5" alt="Dataset DOI" height="28"></a>&nbsp;&nbsp;
+<a href="https://doi.org/10.5281/zenodo.20697491"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20697491.svg" alt="Pipeline DOI" height="28"></a>
+</p>
 
 cobot-atlas provides 2,023 unique 3D meshes (glTF 2.0 Binary) spanning industrial components, geometric primitives, household items, YCB benchmark objects, robot hardware, and more — designed for collaborative robot simulation, VLA model training, and robotics benchmarking.
 
